@@ -1,0 +1,8820 @@
+Abels Wim
+M
+184
+blond
+226.42
+Adams Dominique
+M
+193
+bruin
+129.75
+Adams Gert
+M
+186
+blond
+85.24
+Adams Walter
+M
+158
+bruin
+145.37
+Adriaensen Bert
+M
+152
+blond
+60.95
+Adriaensen Geert
+M
+178
+bruin
+52.2
+Adriaensen Kristof
+M
+193
+zwart
+25.89
+Adriaensen Laurens
+M
+163
+bruin
+170.08
+Adriaensen Rudi
+V
+153
+zwart
+109.03
+Aernouts Tom
+M
+197
+blond
+143.82
+Aerts Dirk
+M
+189
+rood
+52.66
+Aerts Frank
+M
+152
+zwart
+98.68
+Aerts Jan
+M
+179
+bruin
+213.55
+Aerts Koen
+M
+181
+rood
+190.4
+Aerts Kurt
+M
+176
+bruin
+22.46
+Aerts Patrick
+M
+162
+bruin
+197.16
+Aerts Pieter
+M
+171
+zwart
+242.31
+Aerts Stanny
+V
+195
+blond
+219.25
+Alaerts Raf
+M
+176
+zwart
+214.99
+Alenteyns Johan
+M
+155
+bruin
+49.86
+Alenteyns Wim
+M
+154
+zwart
+167.55
+Anrijs Jan
+M
+195
+zwart
+190.57
+Ascione Jo
+M
+186
+bruin
+95.76
+Ascione Tom
+M
+186
+zwart
+213.19
+Aznag Dirk
+V
+181
+blond
+218.39
+Backx Bert
+M
+187
+blond
+74.95
+Backx Rudi
+M
+182
+bruin
+72.06
+Backx Tom
+M
+189
+kaal
+134.1
+Baelen Dymphna
+M
+180
+bruin
+42.95
+Baelus Wim
+M
+172
+blond
+51.86
+Baeyens Inge
+M
+178
+bruin
+216.07
+Baeyens Jan
+M
+164
+zwart
+153.5
+Baeyens Paul
+M
+185
+zwart
+181.17
+Bakelants Geert
+M
+189
+zwart
+21.67
+Banier Koen
+M
+192
+kaal
+53.82
+Banier Michael
+M
+185
+zwart
+158.99
+Baptist Wouter
+M
+188
+bruin
+90.56
+Bartholomeus Nico
+M
+163
+bruin
+51.89
+Bastiaens Carlo
+M
+168
+blond
+92.45
+Bastiaens Kristoff
+V
+158
+rood
+222.55
+Bastiaens Wouter
+M
+170
+bruin
+172.28
+Bastiaensen Johan
+M
+155
+bruin
+196.6
+Bastiaensen Johan
+M
+180
+bruin
+32.48
+Bastin Koen
+M
+184
+bruin
+97.14
+Beckers Carlo
+M
+195
+rood
+131.3
+Beckers Filip
+M
+156
+bruin
+82.11
+Beckers Geert
+V
+187
+zwart
+154
+Beckers Ludo
+V
+197
+blond
+175.32
+Beckers Wim
+M
+161
+rood
+124.25
+Beets Benny
+M
+163
+zwart
+42.44
+Bekaert Peter
+M
+158
+zwart
+177.21
+Belckx Chris
+M
+172
+rood
+164.71
+Belckx Erik
+M
+189
+zwart
+22.56
+Belmans Benny
+M
+195
+zwart
+63.71
+Belmans Carl
+V
+155
+blond
+131.48
+Belmans Dave
+M
+191
+blond
+113.48
+Belmans Dimitri
+M
+162
+bruin
+236.02
+Belmans Koenraad
+M
+181
+bruin
+66.5
+Bemelmans Kristof
+M
+194
+zwart
+227.07
+Bemelmans Tom
+M
+172
+bruin
+142.57
+Beneens Jan
+M
+180
+blond
+40.58
+Beneens Marc
+M
+197
+rood
+119.02
+Berckmans Jason
+V
+170
+bruin
+70.88
+Berghmans Filip
+M
+178
+blond
+74.33
+Berghmans Frank
+M
+181
+bruin
+160.93
+Berghmans Tim
+V
+195
+zwart
+79.5
+Bertels Bart
+M
+183
+blond
+124.45
+Bertels Bert
+M
+193
+blond
+189.85
+Bertels Herman
+V
+176
+bruin
+102.39
+Bertels Suzy
+V
+157
+bruin
+86.02
+Bervoets Bart
+M
+153
+bruin
+226.95
+Bervoets Philip
+M
+176
+bruin
+91.75
+Bervoets Silvia
+M
+196
+zwart
+212.64
+Beutels Rainer
+M
+184
+bruin
+199.61
+Bex Diane
+M
+180
+blond
+86.11
+Bex Hans
+M
+189
+bruin
+42.26
+Beyens An
+M
+173
+zwart
+239.44
+Beyens Filip
+M
+158
+bruin
+236.72
+Beyens Luc
+M
+193
+kaal
+180.34
+Beyens Stijn
+M
+174
+blond
+92.63
+Beylemans Mario
+M
+171
+kaal
+41.25
+Beylemans Michel
+V
+160
+blond
+121.01
+Bielen Kim
+M
+178
+blond
+80.2
+Biermans Ivan
+M
+159
+kaal
+169.12
+Biesemans Kathleen
+M
+154
+bruin
+213.11
+Biesemans Tom
+M
+172
+bruin
+46.18
+Blancquaert Benny
+M
+180
+kaal
+199.64
+Blancquaert Guido
+M
+166
+bruin
+175.81
+Bloemen Inge
+M
+163
+blond
+114.4
+Bloemen Marc
+M
+194
+bruin
+57.77
+Bloemen Yannick
+M
+194
+rood
+37.3
+Boddou Tom
+M
+158
+bruin
+57.14
+Boeckx David
+M
+172
+bruin
+164.81
+Boekee Peter
+M
+183
+rood
+189.05
+Boënne Abdelmajid
+M
+185
+blond
+213.08
+Boënne Geert
+M
+190
+zwart
+176.03
+Boey Ivan
+M
+176
+zwart
+79.72
+Bollen Bert
+V
+154
+kaal
+137.98
+Bollen Geert
+M
+167
+rood
+165.11
+Bollen Luc
+M
+165
+blond
+75.05
+Bollen Nico
+M
+165
+blond
+191.7
+Bollen Raf
+M
+169
+bruin
+91.44
+Boonen Bart
+M
+161
+bruin
+205.2
+Boonen Guy
+M
+188
+zwart
+148.03
+Boonen Inge
+M
+156
+kaal
+157.71
+Boonen Sebastiaan
+M
+181
+zwart
+228.52
+Boons Stijn
+V
+168
+zwart
+59.44
+Boons Tim
+M
+173
+bruin
+24.23
+Borghs Carlo
+M
+164
+kaal
+33.3
+Borghs Christien
+M
+179
+blond
+209.51
+Borodaiko Bart
+M
+153
+zwart
+61.59
+Borowski Roel
+M
+194
+bruin
+91.01
+Bos Andreas
+M
+186
+bruin
+191.7
+Boschmans Davy
+M
+169
+zwart
+121.65
+Boschmans Jozef
+M
+167
+blond
+170.72
+Boskin Maria
+M
+183
+bruin
+44.45
+Bosmans Carl
+M
+190
+blond
+158.99
+Bosmans Eric
+M
+168
+zwart
+20.39
+Bosmans Kristof
+M
+161
+blond
+56.48
+Bosmans Sandra
+M
+192
+blond
+216.16
+Boulliard Jan
+M
+191
+blond
+97.87
+Boulliard Jan
+V
+170
+bruin
+73.89
+Bouwen Koen
+V
+156
+rood
+151.18
+Bouwen Tonny
+M
+177
+bruin
+209.84
+Bouwens Bas
+M
+151
+bruin
+48.35
+Bouwens Eddy
+V
+170
+blond
+85.47
+Bouwens Gunther
+M
+193
+bruin
+213.46
+Bové Frank
+M
+174
+blond
+117.57
+Bové Jan
+M
+166
+bruin
+123.23
+Bové Stefan
+M
+184
+rood
+92.77
+Boven Guy
+M
+188
+blond
+193.54
+Branders Geert
+M
+154
+bruin
+208.21
+Brebels Dieter
+M
+168
+bruin
+47.01
+Bresseleers Carlo
+M
+192
+zwart
+244.14
+Bresseleers Kim
+M
+194
+blond
+39.27
+Bresseleers Kristof
+V
+185
+bruin
+140.27
+Bresseleers Luc
+M
+189
+blond
+149.45
+Bresseleers Marc
+M
+187
+blond
+143.73
+Bresseleers Tim
+M
+175
+zwart
+31.99
+Bresseleers Tom
+M
+172
+bruin
+48.6
+Breugelmans Ilse
+M
+181
+bruin
+50.05
+Breugelmans Kurt
+M
+171
+zwart
+174.31
+Breugelmans Michel
+V
+192
+bruin
+87.09
+Breugelmans Yves
+M
+158
+bruin
+209.52
+Broeckx Gerd
+M
+161
+zwart
+42
+Broeckx Raf
+M
+180
+bruin
+84.1
+Broens Guido
+M
+177
+blond
+122.33
+Broens Wim
+M
+165
+bruin
+48.85
+Broens Wim
+M
+190
+rood
+150.78
+Broothaerts Guy
+M
+183
+blond
+144.77
+Broothaerts Nico
+M
+184
+blond
+169.03
+Brouwers Danny
+M
+186
+blond
+185.61
+Brouwers Herman
+M
+195
+zwart
+223.28
+Bruers Jan
+M
+163
+blond
+66.83
+Bruers Marc
+M
+151
+bruin
+241.69
+Brughmans Kathleen
+M
+188
+blond
+246.81
+Buelens Jan
+V
+177
+blond
+121.5
+Bussé Gie
+M
+195
+zwart
+50.25
+Bussé Jo
+M
+172
+bruin
+63.58
+Bussé Minny
+M
+186
+blond
+218.15
+Buts Jan
+M
+184
+blond
+31.83
+Cabanier Joeri
+V
+153
+zwart
+85.49
+Cabanier Stijn
+M
+157
+bruin
+51.91
+Caers Ann
+M
+175
+rood
+49.78
+Caers Peter
+M
+171
+rood
+64.75
+Caes Yves
+M
+173
+blond
+181.03
+Calaerts Stefan
+M
+190
+zwart
+143.76
+Campo Kristel
+V
+157
+bruin
+80.18
+Cannaerts Hans
+M
+193
+blond
+208.18
+Canol Jan
+M
+161
+zwart
+242.83
+Casteels Bert
+M
+163
+zwart
+87.22
+Casteels Steven
+M
+196
+bruin
+234.25
+Cautereels Bert
+M
+183
+rood
+106.6
+Cautereels Michel
+M
+189
+blond
+235.67
+Cauwels Tom
+M
+198
+blond
+81.81
+Cauwels Tom
+M
+199
+bruin
+54.35
+Ceelen Dirk
+M
+180
+zwart
+158.57
+Cerckel Bjorn
+V
+194
+bruin
+127.07
+Cerckel Ralf
+M
+152
+blond
+64.41
+Cerckel Willy
+M
+196
+zwart
+82.17
+Ceulemans Michel
+M
+173
+rood
+220.32
+Ceusters Bert
+M
+174
+bruin
+210.87
+Ceusters Jimmy
+M
+167
+bruin
+222.08
+Ceusters Sonja
+M
+195
+zwart
+70.25
+Ceusters Stefan
+M
+152
+blond
+43.43
+Christianen Dirk
+M
+163
+bruin
+188.93
+Christianen Rudi
+M
+176
+bruin
+143.32
+Christianen Serge
+M
+197
+blond
+193.17
+Christianen Steven
+M
+157
+blond
+104.69
+Claes Bart
+M
+165
+bruin
+226.81
+Claes Filip
+M
+162
+blond
+228.35
+Claes Jo
+M
+186
+bruin
+158.64
+Claes Rina
+M
+167
+zwart
+99.88
+Claes Stijn
+M
+158
+blond
+115.11
+Claes Tom
+M
+160
+blond
+217.73
+Claes Wouter
+M
+164
+blond
+46.25
+Clemens Geert
+M
+183
+rood
+115.85
+Cleynhens Kristof
+M
+164
+bruin
+55.12
+Clonen Patrick
+M
+193
+rood
+46.93
+Coenen Frank
+V
+167
+blond
+171.56
+Coenen Jo
+M
+151
+bruin
+191.17
+Coenen Luc
+M
+171
+blond
+37.5
+Coenen Tim
+M
+198
+blond
+91.4
+Conderaerts Johnny
+M
+167
+zwart
+76.04
+Coninx Luc
+M
+178
+blond
+124.87
+Coninx Nadine
+M
+158
+blond
+121.39
+Conjaerts Ann
+M
+153
+zwart
+240.16
+Conjaerts Geert
+M
+156
+blond
+160.25
+Conjaerts Gert
+M
+191
+blond
+63.82
+Conjaerts Marc
+M
+174
+bruin
+47.22
+Convens Jos
+M
+176
+kaal
+152.42
+Convens Laurens
+M
+151
+zwart
+176.99
+Cools Bart
+M
+172
+blond
+229.17
+Cools Tom
+M
+157
+zwart
+245.65
+Cools Yvan
+M
+178
+bruin
+108.52
+Coomans Bart
+M
+181
+bruin
+131.98
+Coremans Yves
+M
+153
+kaal
+99.95
+Corens Kristof
+M
+168
+zwart
+97.87
+Cornelis Katrien
+V
+191
+bruin
+129.37
+Corthout Mike
+M
+152
+zwart
+79.58
+Corthouts Greta
+M
+153
+blond
+204.66
+Corthouts Rudi
+V
+158
+rood
+242.62
+Corvers Tom
+M
+155
+bruin
+74.99
+Cox Walter
+M
+192
+bruin
+157.56
+Croonen Jan
+M
+157
+bruin
+185.36
+Croonen Tom
+M
+187
+bruin
+125.48
+Croonenborghs Geert
+M
+167
+blond
+151.11
+Croonenborghs Peter
+M
+169
+zwart
+89
+Croonenborghs Werner
+M
+179
+bruin
+72.71
+Custers Ben
+M
+158
+zwart
+232.43
+Custers Gert
+M
+187
+blond
+71.52
+Custers Tim
+M
+174
+zwart
+87.53
+Cuvillier Raf
+M
+157
+blond
+218.42
+Cuypers Danny
+M
+199
+bruin
+221.36
+Cuypers Filip
+M
+176
+blond
+149.38
+Cuypers Geert
+M
+194
+blond
+117.09
+Cuypers Jan
+M
+150
+zwart
+186.89
+Cuypers Katrien
+M
+179
+bruin
+197.09
+Cuypers Kristof
+M
+154
+kaal
+115.5
+Cuypers Kristof
+M
+162
+zwart
+29.87
+Cuypers Yves
+M
+179
+blond
+149.58
+Cuyvers Dirk
+V
+152
+bruin
+171.35
+Cuyvers Jan
+V
+151
+kaal
+158.83
+Daems Dirk
+M
+189
+kaal
+220.96
+Daems Filip
+V
+171
+blond
+27.76
+Daems Hermes
+V
+161
+kaal
+173.92
+Daems Ivan
+V
+197
+bruin
+134.09
+Daems Jan
+M
+177
+rood
+88.63
+Daems Marc
+M
+185
+blond
+35.49
+Daems Marco
+M
+162
+kaal
+233.5
+Daems Pieter
+M
+151
+blond
+190.84
+Daems Werner
+M
+157
+rood
+67.56
+Dams Christel
+M
+194
+bruin
+239.17
+Dams Davy
+M
+182
+bruin
+180.33
+Dams Frank
+M
+163
+bruin
+72.62
+Dams Greet
+M
+176
+rood
+161.62
+Dams Jan
+V
+184
+blond
+202.02
+Dams Kurt
+M
+169
+bruin
+184.02
+Dams Mario
+M
+173
+zwart
+104.15
+Dams Wim
+M
+153
+zwart
+28.39
+De Backer Stefan
+M
+196
+zwart
+228.21
+De Bal Mike
+M
+156
+zwart
+116.93
+De Bock Nico
+M
+185
+blond
+162.72
+De Bock Sven
+M
+191
+blond
+60.2
+De Boel Dieter
+V
+175
+bruin
+179.83
+De Canck Patrick
+M
+173
+bruin
+37.53
+De Cat Pascal
+M
+190
+blond
+40.35
+De Cauter Philippe
+V
+171
+zwart
+67.06
+De Ceuster Tom
+M
+171
+blond
+230.6
+De Cnodder Betty
+M
+159
+blond
+159.35
+De Deyne Raf
+V
+161
+blond
+126.71
+De Feyter Koenraad
+M
+181
+zwart
+48.14
+De Feyter Mark
+M
+163
+zwart
+156.79
+De Feyter Paul
+M
+176
+bruin
+124.56
+De Gendt Hugo
+M
+187
+bruin
+120.02
+De Groof Gerd
+M
+154
+blond
+245.5
+De l'Arbre Kris
+M
+172
+blond
+222.49
+De l'Arbre Kristiaan
+M
+155
+bruin
+191.78
+De Meester Erik
+M
+154
+blond
+180.87
+De Meester Jeroen
+M
+150
+zwart
+172.17
+De Meester Koen
+M
+153
+blond
+134.59
+De Meester Stefan
+M
+187
+bruin
+219.91
+De Meulder Peter
+M
+152
+bruin
+65.08
+De Preter Steven
+M
+153
+bruin
+177.62
+De Preter Tom
+M
+170
+blond
+175.15
+De Raet Ismaël
+M
+196
+rood
+125.74
+De Ryck Gert
+M
+185
+bruin
+227
+De Ryck Jan
+M
+178
+bruin
+230.17
+De Ryck Jozef
+M
+161
+zwart
+67.05
+De Ryck Marc
+M
+189
+bruin
+138.13
+De Schrijver Sandy
+M
+197
+blond
+102.34
+De Schutter Bram
+M
+156
+bruin
+177.75
+De Vocht Philip
+M
+157
+zwart
+105.95
+De Vocht Ronny
+V
+160
+blond
+186.95
+De Vries Christiaan
+M
+188
+bruin
+128.71
+De Vries Guy
+M
+189
+rood
+125.26
+De Weerdt Carl
+M
+198
+zwart
+29.77
+De Weerdt Mark
+M
+155
+bruin
+244.15
+De Weerdt Wouter
+M
+183
+blond
+41.96
+De Wever Liesbet
+M
+197
+bruin
+143.17
+De Wever Tom
+M
+174
+bruin
+212.77
+De Win Micha
+M
+150
+bruin
+20.49
+De Winter Mike
+M
+192
+zwart
+233.91
+De Winter Stevy
+M
+174
+rood
+176.54
+Debard Michel
+M
+181
+rood
+127.06
+Deboel Dimitri
+M
+187
+bruin
+178.77
+Deboel Dominic
+M
+198
+bruin
+73.83
+Deboel Raf
+M
+187
+bruin
+82.7
+Deboel Wim
+M
+151
+blond
+160.36
+Deboel Wouter
+M
+171
+rood
+238.46
+Debrboven Jan
+M
+160
+blond
+116.14
+Deckx Ann
+M
+188
+rood
+210.1
+Deckx Wim
+M
+199
+blond
+27.55
+Dedoyard Erwin
+M
+199
+rood
+178.62
+Dedoyard Johan
+M
+199
+zwart
+59.15
+Dedoyard Joris
+M
+151
+blond
+77.32
+Deferm Jan
+M
+155
+bruin
+114.75
+Deferm Rudi
+V
+168
+blond
+147.51
+Deferme Bart
+V
+175
+bruin
+137.55
+Dekelver Jelle
+V
+199
+bruin
+183.67
+Dekelver Jo
+M
+172
+blond
+219.2
+Dekelver Joeri
+M
+162
+blond
+88.12
+Dekelver Luc
+M
+181
+rood
+42.91
+Delagaye Geert
+V
+195
+blond
+188.79
+Delen Gunther
+M
+197
+bruin
+71.22
+Demuynck Bart
+M
+187
+bruin
+30.71
+Demuynck Rutger
+M
+151
+blond
+136.16
+Demuynck Tony
+M
+187
+blond
+96.45
+Depotter Bart
+M
+168
+zwart
+49.58
+Depotter Patrick
+M
+181
+bruin
+193.14
+Derboven Tom
+M
+186
+rood
+39.41
+Desair An
+M
+161
+bruin
+175.51
+Deswert Raf
+M
+154
+bruin
+233.44
+Devenijns Mario
+M
+172
+bruin
+135.22
+Devenijns Werner
+M
+184
+zwart
+38.5
+Dielis Hans
+M
+159
+rood
+115.39
+Diels Guido
+V
+174
+zwart
+245.3
+Diels Koen
+M
+161
+rood
+126.79
+Diels Luc
+M
+157
+blond
+70.62
+Diels Marie-Jeanne
+M
+161
+blond
+67.63
+Diels Peter
+V
+199
+bruin
+59.8
+Dierckx Marie-Jeanne
+M
+169
+rood
+176.31
+Dierckx Peter
+V
+168
+bruin
+169.34
+Dilissen Bruno
+M
+171
+rood
+133.82
+Dilissen Dieter
+M
+180
+blond
+112.65
+Dille Bart
+M
+160
+bruin
+226.17
+Dille Johan
+V
+179
+kaal
+144.63
+Dillen Bart
+M
+161
+blond
+204.47
+Dillen Stijn
+M
+164
+bruin
+200.28
+Dirckx Nico
+M
+150
+zwart
+162.61
+D'Joos Paul
+M
+198
+blond
+55.05
+Don Porto Carero Walter
+M
+170
+bruin
+154.98
+Donckers Saskia
+M
+176
+zwart
+60.42
+Douwen Gert
+M
+165
+blond
+162.47
+Douwen Kris
+M
+162
+bruin
+41.15
+Douwen Werner
+M
+159
+rood
+58.38
+Draulans Inge
+M
+175
+bruin
+26.35
+Drees Bart
+M
+160
+zwart
+178.3
+Drees Kristel
+M
+174
+blond
+185.47
+Drees William
+M
+171
+blond
+194.3
+Dreesen Eddy
+M
+151
+zwart
+31.81
+Dries Koen
+M
+152
+zwart
+200.17
+Dries Sonja
+V
+151
+zwart
+211.74
+Driesen Kris
+M
+171
+blond
+124.09
+Duchamps Dirk
+M
+188
+bruin
+26.23
+Duchamps Kurt
+M
+184
+bruin
+39.63
+Dumon Kurt
+M
+174
+blond
+184.26
+Dyckmans Davy
+M
+153
+bruin
+171.04
+Dyckmans Fabrice
+M
+178
+blond
+225.47
+Dyckmans Johan
+M
+178
+rood
+77.2
+Dyckmans Kristel
+V
+196
+bruin
+117.68
+Eelen Jelle
+M
+156
+blond
+98.51
+Eelen Koen
+M
+167
+blond
+65.21
+Eelen Niels
+M
+188
+bruin
+42.94
+Eerdekens Benny
+M
+159
+bruin
+29.18
+Eerdekens Wendy
+M
+193
+blond
+210.17
+Eijkelenberg Dirk
+M
+164
+bruin
+73.41
+Elen Franky
+M
+165
+rood
+118.31
+Elen Jan
+M
+156
+bruin
+82.83
+Elen Thomas
+M
+177
+blond
+59.7
+Embrechts Gunter
+M
+167
+zwart
+104.85
+Embrechts Patrick
+M
+197
+blond
+82.16
+Ennekens Luc
+M
+176
+bruin
+188.09
+Everaerts Gert
+M
+185
+blond
+69.93
+Eyckens Rafael
+M
+180
+blond
+80.4
+Eyckmans Inge
+V
+161
+blond
+66.33
+Eyckmans Rob
+M
+162
+blond
+212.7
+Eykens Patrick
+M
+170
+zwart
+84.11
+Eykens Tom
+M
+163
+zwart
+80.38
+Faes Jan
+M
+178
+bruin
+163.97
+Faes Paul
+M
+171
+zwart
+186.32
+Fagoo Paul
+M
+166
+blond
+115.63
+Fierens Wim
+V
+183
+blond
+154.45
+Fleerackers Jurgen
+M
+177
+bruin
+31.5
+Fleerackers Kim
+V
+151
+bruin
+149.04
+Flossie Benjamin
+M
+177
+zwart
+151.29
+Flossie Jan
+M
+183
+zwart
+129.99
+Flossie Johan
+V
+179
+bruin
+81.02
+Flossie Paul
+M
+162
+blond
+242.17
+Francken David
+M
+154
+zwart
+175.94
+Francken Michel
+M
+158
+blond
+232.73
+Francken Patrick
+M
+176
+zwart
+221.11
+François Bart
+M
+155
+blond
+175.37
+François Dirk
+M
+199
+bruin
+165.54
+François Filip
+M
+196
+bruin
+128.34
+François Kristiaan
+M
+152
+zwart
+119.67
+François Pascal
+V
+164
+blond
+70.48
+Garcet Wim
+M
+191
+blond
+67.41
+Geboers Peter
+V
+159
+blond
+215.62
+Gebruers Guy
+M
+162
+blond
+186.76
+Geenen Davy
+M
+193
+zwart
+171.22
+Geenen Tom
+M
+183
+bruin
+24.61
+Geenen Wim
+M
+172
+zwart
+196.51
+Geenen Yannick
+M
+188
+zwart
+151.48
+Geentjens Annemiek
+M
+158
+blond
+163.51
+Geentjens Jan
+M
+199
+blond
+63.61
+Geentjens Luc
+M
+198
+bruin
+22.2
+Geentjens Martine
+V
+187
+zwart
+137.24
+Geeraerts Annelies
+M
+184
+blond
+207.25
+Geeraerts Dirk
+M
+186
+rood
+124.73
+Geerinckx Guy
+M
+195
+blond
+22.43
+Geerinckx Kurt
+M
+184
+bruin
+89.2
+Geerinckx Raf
+M
+171
+blond
+27.72
+Geerts Gert
+M
+162
+bruin
+57.76
+Geerts Kris
+M
+182
+bruin
+102.62
+Geerts Steven
+M
+197
+bruin
+249.08
+Genoe Rigobertus
+M
+159
+kaal
+206.41
+Gerits Erwin
+M
+183
+zwart
+59.94
+Gerits Kurt
+M
+181
+blond
+168.93
+Geudens Christof
+M
+182
+rood
+172.6
+Geudens Dimitri
+M
+175
+bruin
+42.95
+Geudens Erwin
+M
+156
+zwart
+135.16
+Geudens Gerry
+M
+184
+blond
+227.72
+Geudens Johan
+M
+185
+bruin
+34.49
+Geudens Jonathan
+M
+153
+bruin
+80.73
+Geudens Koen
+V
+154
+rood
+161.18
+Geudens Ria
+M
+158
+bruin
+150.71
+Geuens Steven
+M
+153
+bruin
+181.24
+Geuens Theo
+M
+159
+bruin
+183.13
+Geuens Tom
+M
+169
+kaal
+156.54
+Geukens Dries
+M
+190
+rood
+238.13
+Geukens Edwin
+M
+182
+zwart
+61.04
+Geukens Eric
+M
+192
+kaal
+226.65
+Geukens Leen
+M
+151
+rood
+83.82
+Geukens Luc
+M
+152
+blond
+191.36
+Geukens Paul
+M
+175
+bruin
+48.66
+Geukens Peter
+M
+163
+zwart
+87.4
+Geukens Stefan
+M
+150
+zwart
+208.76
+Geukens Steven
+M
+154
+rood
+70.14
+Geukens Sven
+M
+195
+rood
+180
+Geukens Thomas
+M
+175
+zwart
+49.88
+Geukens Tom
+M
+167
+bruin
+108.59
+Geukens Wim
+M
+183
+blond
+97.3
+Geypens Kurt
+M
+161
+blond
+139.02
+Geys Bob
+M
+153
+blond
+48.04
+Geys Mike
+V
+163
+zwart
+241.44
+Geysen Bart
+M
+188
+rood
+121.94
+Geysen Benny
+M
+166
+blond
+61.15
+Geyskens Luc
+M
+185
+rood
+111.15
+Geyskens Wim
+M
+157
+zwart
+130.41
+Geyzen Kurt
+M
+190
+bruin
+105.55
+Geyzen Ronny
+M
+179
+blond
+76.45
+Gielen Adil
+M
+199
+rood
+145.84
+Gielen Bart
+M
+190
+zwart
+171.99
+Gielen Gunther
+V
+192
+rood
+179.99
+Gielens Kim
+M
+157
+zwart
+228.81
+Gijbels Erik
+M
+152
+bruin
+113.51
+Gijbels Frank
+M
+159
+rood
+164.51
+Gijbels Jan
+M
+180
+blond
+205.21
+Gijbels Kristof
+M
+186
+bruin
+108.09
+Gijbels Remco
+M
+178
+blond
+108.97
+Gijsels Jonathan
+M
+199
+rood
+200.98
+Gilis Bart
+M
+153
+kaal
+59.65
+Gilis Koen
+M
+165
+blond
+199.74
+Gilissen Peter
+M
+183
+bruin
+159.62
+Gobeyn Amir
+M
+195
+bruin
+27.95
+Gobeyn Wim
+V
+166
+bruin
+58.15
+Goelen Cristof
+M
+154
+bruin
+207.3
+Goelen Robbie
+M
+155
+bruin
+113.11
+Goeman Christophe
+M
+174
+bruin
+48.33
+Goetschalckx Rony
+M
+170
+blond
+89.82
+Goor Helga
+M
+155
+blond
+93.92
+Goor Ivan
+M
+157
+bruin
+198.48
+Goos Bert
+M
+181
+bruin
+195.17
+Goos Stefan
+V
+161
+blond
+60.19
+Goos Stijn
+M
+167
+zwart
+144.08
+Goossens Hung-Kit
+M
+165
+blond
+116.11
+Goossens Jan
+V
+191
+bruin
+217.17
+Goossens Steven
+V
+171
+bruin
+136.26
+Goris Pedro
+V
+184
+kaal
+243.2
+Govaert Erwin
+M
+183
+blond
+225.19
+Govaerts Christophe
+M
+186
+kaal
+114.34
+Govaerts Henricus
+V
+152
+bruin
+125.54
+Govaerts Jelle
+M
+179
+bruin
+69.71
+Govaerts Jeroen
+M
+180
+blond
+230.04
+Govaerts Philippe
+M
+177
+bruin
+26
+Govaerts Steven
+M
+170
+blond
+189.48
+Govers Jason
+M
+172
+blond
+173.88
+Grieten Filip
+M
+189
+kaal
+127.73
+Grieten Geert
+M
+178
+blond
+89.59
+Grieten Jurgen
+M
+182
+bruin
+146.02
+Grieten Koen
+M
+162
+zwart
+156.59
+Gunia Ariaan
+M
+194
+blond
+92.89
+Gunia Guido
+V
+187
+bruin
+42.38
+Gunia Koen
+V
+164
+blond
+174.81
+Gysemans Wim
+M
+176
+blond
+180.72
+Haagdorens Gert
+M
+181
+bruin
+133.29
+Haagdorens Peter
+M
+172
+zwart
+204.73
+Haest Willy
+M
+163
+blond
+121.78
+Haeverans Bob
+M
+160
+blond
+125.61
+Haeverans Kris
+M
+195
+rood
+204.54
+Hamers Koen
+M
+172
+zwart
+92.52
+Hamrouni Adil
+M
+167
+kaal
+86.68
+Hannes Bert
+M
+195
+kaal
+228.12
+Hannes Giovanni
+V
+174
+kaal
+45.91
+Hannes Jan
+M
+163
+blond
+95.26
+Hannes Koen
+M
+194
+zwart
+248.63
+Hannes Wim
+M
+178
+bruin
+210.29
+Haveneers Johan
+M
+151
+zwart
+128.47
+Haveneers Koen
+M
+164
+bruin
+89.05
+Heiremans Frank
+M
+175
+zwart
+78.15
+Hellemans Joris
+M
+178
+kaal
+172.47
+Helsen Annemie
+M
+187
+zwart
+106
+Helsen Christophe
+V
+183
+bruin
+52.06
+Helsen Henri
+M
+169
+blond
+233.13
+Helsen Jan
+M
+153
+kaal
+108.25
+Helsen Luc
+M
+179
+blond
+174.71
+Helsen Rafael
+M
+184
+blond
+151.22
+Helsen Rob
+M
+157
+blond
+108.81
+Henderickx Patrick
+M
+151
+blond
+229.39
+Hendrickx Kurt
+M
+158
+blond
+246.45
+Hendrickx Maarten
+M
+191
+bruin
+61.02
+Hendrickx Sebastiaan
+V
+192
+bruin
+220.19
+Hendrickx Tom
+M
+189
+blond
+76.2
+Henrard Danny
+M
+181
+rood
+105.97
+Hens Johan
+V
+161
+bruin
+237.28
+Hens Karel
+M
+187
+blond
+22.07
+Hens Kris
+M
+165
+blond
+99.27
+Hermans Bert
+M
+194
+bruin
+32.41
+Hermans Guy
+M
+194
+blond
+171.64
+Hermans Jan
+M
+181
+bruin
+238.39
+Hermans Karel
+M
+164
+kaal
+172.22
+Hermans Koen
+M
+182
+zwart
+177.64
+Hermans Kristiaan
+M
+176
+bruin
+194.12
+Hermans Ludwig
+M
+178
+bruin
+97.88
+Hermans Tom
+M
+181
+rood
+168.2
+Hermans Wim
+M
+161
+bruin
+116.52
+Herremans Michel
+V
+153
+zwart
+144.21
+Herremans Wim
+M
+180
+blond
+166.27
+Heselmans An
+M
+167
+kaal
+156.05
+Heselmans Katrien
+M
+173
+zwart
+222.49
+Heylen Hans
+M
+167
+zwart
+71.5
+Heylen Luc
+M
+176
+zwart
+227.26
+Heylen Paul
+M
+180
+bruin
+213.41
+Heyndrickx Jozef
+M
+191
+kaal
+173.71
+Hillen Kris
+V
+153
+bruin
+244.72
+Hillen Paul
+M
+184
+blond
+124.83
+Hoeks Geert
+M
+185
+blond
+227.39
+Hoet Alfons
+M
+181
+bruin
+137.45
+Hooyberghs Johan
+M
+164
+bruin
+118.16
+Hooyberghs Johan
+M
+156
+rood
+204.11
+Horemans Bart
+V
+172
+zwart
+55.63
+Horemans Bieke
+M
+187
+bruin
+220.24
+Horemans Danny
+M
+155
+bruin
+123.6
+Horemans Geert
+M
+163
+zwart
+162.86
+Horemans Glenn
+M
+199
+bruin
+233.13
+Horemans Leen
+M
+179
+blond
+121.75
+Horemans Ronny
+M
+151
+bruin
+172.93
+Houtmeyers Jozef
+M
+186
+bruin
+67.41
+Houwaer Vivy
+M
+184
+zwart
+112.69
+Hurkmans Werner
+M
+161
+blond
+243.05
+Huveneers Bob
+M
+173
+zwart
+49.02
+Huybs Mark
+M
+171
+bruin
+225.98
+Huygens Jan
+M
+183
+bruin
+69.73
+Huyghe Bart
+M
+182
+blond
+240.78
+Huyskens Peter
+M
+174
+zwart
+72.45
+Huyskens Steven
+M
+193
+blond
+34.56
+Huysmans Bart
+V
+198
+bruin
+206.57
+Huysmans Bert
+M
+182
+bruin
+91.58
+Huysmans Bjorn
+M
+197
+rood
+61.02
+Huysmans Erwin
+M
+150
+blond
+211.17
+Huysmans Luc
+M
+171
+zwart
+158.22
+Huysmans Rony
+M
+151
+blond
+68.85
+Huysmans Serge
+M
+187
+bruin
+167.94
+Huysmans Tom
+M
+159
+bruin
+211.02
+Huysmans Wendy
+M
+176
+bruin
+112.31
+Imants Bruno
+M
+167
+blond
+196.18
+Ingels Danny
+M
+158
+zwart
+155.09
+Jacobs Dirk
+M
+168
+blond
+249.68
+Jacobs Hans
+M
+165
+bruin
+44.89
+Jacobs Jan
+M
+189
+kaal
+69.07
+Jacobs Nico
+V
+174
+bruin
+95.41
+Jacobs Tim
+M
+150
+bruin
+115.87
+Jacobs Tom
+V
+185
+blond
+231.87
+Jans Bart
+M
+168
+bruin
+75.07
+Jans Bart
+M
+154
+rood
+34.87
+Jans Gunter
+M
+198
+zwart
+209.83
+Jans Wim
+M
+180
+blond
+88.95
+Jansen Dieter
+M
+194
+blond
+183.56
+Jansen Frank
+M
+179
+blond
+144.46
+Jansen Frank
+M
+196
+bruin
+35.82
+Jansen Frank
+M
+175
+zwart
+172.19
+Jansen Geert
+M
+198
+bruin
+217.01
+Jansen Helga
+M
+154
+kaal
+150.96
+Jansen Kris
+M
+189
+blond
+48.37
+Jansen Kurt
+M
+164
+blond
+143.58
+Jansen Michel
+M
+168
+zwart
+136.88
+Jansen Patrick
+M
+164
+blond
+139.24
+Jansen Philip
+M
+174
+bruin
+104.51
+Jansen Pieter
+M
+190
+blond
+112.07
+Jansen Raf
+M
+157
+zwart
+39.1
+Jansen Stef
+M
+197
+blond
+187.06
+Janssen Benjamin
+V
+199
+bruin
+170.46
+Janssen Christophe
+M
+156
+bruin
+174.74
+Janssen Gert
+M
+173
+zwart
+88.82
+Janssen Ivo
+M
+152
+bruin
+236
+Janssen Leen
+M
+151
+zwart
+38.28
+Janssen Ronny
+M
+169
+kaal
+140.01
+Janssens Bart
+M
+157
+bruin
+178.46
+Janssens Bart
+V
+176
+zwart
+32.38
+Janssens Bert
+M
+158
+bruin
+43.62
+Janssens Dirk
+V
+168
+blond
+76.26
+Janssens Els
+M
+158
+bruin
+240.31
+Janssens Frank
+M
+197
+blond
+114.77
+Janssens Geert
+M
+153
+bruin
+178.15
+Janssens Greet
+M
+197
+blond
+148.34
+Janssens Hilde
+M
+179
+bruin
+156.2
+Janssens Hugo
+M
+153
+bruin
+216.83
+Janssens Jan
+M
+163
+blond
+225.93
+Janssens Joeri
+M
+186
+blond
+64.35
+Janssens Koen
+M
+177
+zwart
+57.76
+Janssens Korneel
+M
+173
+blond
+24.34
+Janssens Kris
+M
+164
+rood
+247.18
+Janssens Philip
+M
+195
+blond
+200.38
+Janssens Roel
+M
+157
+bruin
+147.25
+Janssens Sofie
+V
+193
+bruin
+24.16
+Janssens Stefan
+M
+152
+bruin
+129.92
+Janssens Yannick
+M
+164
+rood
+131.79
+Jespers Gunther
+M
+190
+blond
+49.25
+Jespers Maria
+M
+191
+bruin
+188.1
+Jespers Michel
+M
+190
+bruin
+209.17
+Kaerts Steven
+V
+171
+blond
+85.09
+Karsmakers Leo
+M
+173
+zwart
+22.03
+Kegelaers Bruno
+M
+176
+bruin
+31.45
+Kelchtermans Ivan
+M
+186
+rood
+67.23
+Kemland Frank
+M
+162
+blond
+195.14
+Kemland Tim
+M
+176
+blond
+104.11
+Kempen Els
+M
+191
+bruin
+56.82
+Kempen Renaat
+M
+151
+bruin
+121.12
+Kempenaers Jochen
+M
+178
+bruin
+218.75
+Kenis Dirk
+M
+152
+blond
+191.34
+Kenis Peter
+M
+175
+bruin
+69.16
+Kenis Renaat
+M
+184
+bruin
+52.58
+Kerckhofs Kristel
+M
+158
+blond
+171.46
+Kerkhofs Bert
+M
+169
+blond
+133.42
+Kerkhofs Denis
+V
+160
+rood
+60.07
+Kerkhofs Dirk
+M
+185
+zwart
+193.53
+Kerkhofs Gustaaf
+M
+152
+bruin
+126.85
+Kerremans An
+M
+188
+blond
+105.55
+Kerremans Filip
+M
+175
+zwart
+106.06
+Kesters Jimmy
+M
+197
+zwart
+126.73
+Kesters Kris
+M
+155
+bruin
+237.8
+Kesters Tom
+V
+196
+bruin
+169.43
+Keyken Bert
+M
+169
+rood
+104.61
+Keyken Geert
+V
+156
+blond
+35.87
+Kimpen Inge
+M
+180
+bruin
+166.71
+Kimpen Raf
+V
+191
+blond
+126.55
+Knevels Bart
+M
+150
+bruin
+143.68
+Knockaert Johan
+M
+169
+zwart
+136.3
+Knoops Geert
+M
+184
+blond
+187.06
+Knoops Korneel
+V
+196
+bruin
+77.33
+Knoops Laurens
+M
+159
+bruin
+68.91
+Knuysen Wim
+M
+158
+blond
+31.72
+Kooremans Wim
+M
+197
+blond
+178.35
+Krieckemans Hilde
+V
+158
+blond
+36.65
+Krols David
+M
+171
+blond
+202.54
+Krols Elke
+V
+188
+zwart
+114.52
+Krols Steven
+V
+150
+rood
+49.81
+Krols Wim
+M
+160
+rood
+39.3
+Kuyken Dirk
+M
+198
+blond
+95.24
+Kuylen Els
+M
+187
+blond
+212.94
+Kuylen Luc
+M
+194
+bruin
+242.47
+Kwanten Jo
+M
+189
+blond
+78.33
+Kwanten Kim
+M
+191
+zwart
+214.61
+Laenen Dirk
+M
+155
+zwart
+57.41
+Laenen Henri
+M
+162
+bruin
+47.48
+Laenen Hugo
+M
+170
+blond
+44.08
+Laenen Koen
+M
+192
+zwart
+62.38
+Laenen Ronny
+M
+155
+blond
+132.29
+Laeremans Dirk
+M
+177
+zwart
+228.49
+Laeremans Jeroen
+V
+158
+rood
+32.62
+Laeremans Kristof
+M
+168
+bruin
+128.71
+Laeremans Sven
+M
+172
+blond
+201.5
+Lambrechts David
+M
+193
+blond
+49.61
+Lambrechts Joël
+M
+177
+blond
+206.95
+Lambrechts Jurgen
+M
+193
+blond
+201.12
+Lambrechts Kristof
+M
+176
+zwart
+53.92
+Landrieu Dirk
+M
+161
+zwart
+137.1
+Lanslots Fabrice
+M
+198
+blond
+136.93
+Lanslots Kathleen
+V
+157
+blond
+92
+Laporte Jan
+M
+183
+blond
+166.19
+Laps Davy
+M
+161
+blond
+174.8
+Laps Jean
+M
+198
+blond
+20.17
+Laps Nico
+V
+167
+bruin
+25.03
+Latinne Kris
+M
+150
+blond
+205.1
+Latinne Reinaart
+M
+184
+blond
+112.75
+Laurijssen Hans
+M
+153
+blond
+120.43
+Lauwers Kristof
+M
+174
+bruin
+61.51
+Lauwers Luc
+M
+167
+blond
+73.68
+Lavrysen Davy
+M
+192
+zwart
+142.35
+Leemans Carl
+M
+171
+bruin
+228.68
+Leemans Leo
+M
+170
+blond
+120.88
+Leemans Peter
+V
+154
+bruin
+227.58
+Lefelon Erwin
+M
+159
+bruin
+151.66
+Lefelon Yves
+M
+194
+bruin
+58.97
+Legrand Sandra
+M
+180
+blond
+37.16
+Lehaen Kristien
+M
+179
+blond
+123.94
+Lehaen Raf
+M
+164
+bruin
+210.44
+Lemaire Bjorn
+M
+178
+blond
+134.67
+Lemaire Wim
+V
+157
+bruin
+187.24
+Lemmens Daisy
+M
+158
+zwart
+75.56
+Lemmens Dimitri
+M
+177
+bruin
+199.92
+Lemmens Isabel
+M
+191
+blond
+174.96
+Lemmens Joram
+V
+153
+zwart
+139.53
+Lemmens Nico
+M
+193
+bruin
+139.1
+Lemmens Pieter
+V
+160
+bruin
+111.9
+Lemmens Tom
+M
+161
+zwart
+91.22
+Lemmens Tom
+V
+198
+bruin
+81.29
+Lenaerts Filip
+V
+167
+blond
+195.57
+Lenaerts Koenraad
+M
+178
+blond
+124
+Lens Andy
+M
+169
+blond
+155.61
+Lens Dieter
+M
+173
+zwart
+215.88
+Lens Erwin
+M
+183
+rood
+175.99
+Lens Jonny
+M
+166
+zwart
+209.84
+Lens Kim
+M
+163
+zwart
+107.91
+Leppens Nadine
+M
+167
+zwart
+229.97
+Leppens Peter
+M
+166
+blond
+121.73
+Leung Mario
+M
+198
+blond
+79.31
+Leysen Ellen
+V
+176
+bruin
+92.88
+Leyssens John
+M
+195
+bruin
+168.47
+Lieckens Daniel
+M
+150
+blond
+249.97
+Lieckens Tom
+M
+165
+bruin
+85.34
+Lievens Dieder
+V
+186
+blond
+69.79
+Lievens Koen
+M
+174
+blond
+152.8
+Lievens Ludwig
+M
+191
+zwart
+239.26
+Lievens Marinus
+M
+199
+bruin
+138.9
+Lievens Yves
+M
+173
+blond
+200.08
+Linten Jorgen
+M
+176
+bruin
+100.57
+Lodewijckx Ann
+M
+150
+bruin
+140.09
+Lodewijckx Manuela
+M
+173
+bruin
+111.5
+Loffens Bart
+M
+150
+zwart
+233.21
+Loffens Henri
+M
+155
+bruin
+213.44
+Lommelen Bart
+V
+181
+rood
+208.82
+Lommelen Bruno
+M
+198
+blond
+204.8
+Lommelen Dries
+M
+163
+bruin
+170.01
+Lommelen Gert
+M
+170
+zwart
+49.98
+Lommelen Steve
+M
+173
+bruin
+192.03
+Lommelen Steven
+M
+168
+bruin
+82.38
+Loos Ivo
+M
+173
+rood
+110.97
+Loos Jo
+M
+199
+zwart
+83.69
+Loos Kim
+M
+164
+zwart
+32.06
+Loos Luc
+M
+157
+bruin
+247.43
+Loos Marc
+M
+188
+rood
+212.76
+Loos Patrik
+M
+170
+blond
+41.93
+Loots Yves
+M
+161
+bruin
+51.53
+Loyens Glenn
+M
+187
+zwart
+120.91
+Loyens Luc
+M
+183
+rood
+64.53
+Loyens Roel
+M
+192
+blond
+174.47
+Lukaszewicz Filip
+M
+181
+zwart
+178.2
+Lukaszewicz Raf
+M
+177
+bruin
+100.21
+Lukaszewicz Raf
+M
+185
+zwart
+234.1
+Luyten Bart
+M
+176
+bruin
+167.98
+Luyten Bert
+M
+173
+bruin
+246.71
+Luyten Hung-Kit
+M
+153
+zwart
+139.76
+Luyten Jan
+M
+192
+rood
+121.61
+Luyten Jan
+V
+195
+blond
+156.17
+Luyten Michel
+M
+191
+zwart
+85.8
+Machiels Dennis
+M
+191
+bruin
+194.58
+Machiels Joel
+V
+182
+bruin
+90.71
+Maes Chris
+M
+162
+blond
+110.71
+Maes Dries
+V
+199
+zwart
+26.34
+Maes Erik
+M
+178
+kaal
+133
+Maes Guy
+M
+162
+bruin
+49.1
+Maes Herman
+M
+194
+bruin
+117.79
+Maes Kevin
+M
+191
+blond
+221.09
+Maes Koen
+M
+166
+bruin
+177.31
+Maes Louis
+M
+182
+bruin
+48.32
+Maes Luc
+M
+170
+blond
+194.87
+Maes Michel
+V
+155
+rood
+238.55
+Maes Peter
+M
+198
+blond
+141.99
+Maes Peter
+M
+151
+bruin
+190.46
+Maes Peter
+V
+169
+bruin
+226.29
+Maes Silvia
+M
+177
+bruin
+100.9
+Maes Tom
+M
+158
+bruin
+78.29
+Maes Tom
+M
+161
+bruin
+228.78
+Maes Tom
+V
+158
+kaal
+109.15
+Maes Toon
+M
+174
+blond
+163.17
+Maes Walter
+M
+190
+bruin
+126.72
+Maes Wim
+M
+163
+bruin
+151.35
+Maes Wim
+V
+161
+kaal
+122.42
+Mangelschots Bert
+V
+150
+bruin
+186.85
+Mangelschots Dominic
+M
+188
+blond
+34.74
+Mangelschots Kris
+M
+175
+zwart
+118.83
+Mangelschots Kristiaan
+M
+151
+bruin
+54.47
+Mangelschots Kurt
+M
+168
+bruin
+155.27
+Mangelschots Lieven
+M
+175
+kaal
+42.05
+Mangelschots Rudi
+M
+164
+bruin
+46.51
+Mangelschots Sverre
+M
+150
+blond
+189.97
+Mannaerts Bert
+M
+150
+bruin
+95.71
+Mannaerts Kurt
+M
+173
+bruin
+70.2
+Maréchal Raphael
+M
+167
+zwart
+177.48
+Marien Andy
+M
+177
+bruin
+202.56
+Mariën Bert
+M
+151
+blond
+175.46
+Marien Bram
+M
+182
+blond
+57.69
+Mariën Dirk
+M
+167
+bruin
+43.16
+Marien Geert
+M
+163
+zwart
+46.68
+Mariën Kurt
+M
+186
+zwart
+200.28
+Marien Sam
+M
+154
+bruin
+186.25
+Marinus Peter
+M
+180
+blond
+135.29
+Martin Bart
+M
+177
+blond
+227.6
+Martin Bert
+M
+177
+rood
+47.06
+Martin Conny
+M
+150
+bruin
+128.36
+Martin Koen
+M
+153
+blond
+114.9
+Martin Kris
+M
+196
+blond
+99.2
+Martin Yannick
+M
+172
+zwart
+194.93
+Masscheleyn Frank
+M
+176
+blond
+109.19
+Masscheleyn Marino
+M
+152
+bruin
+187.46
+Massonet Michael
+V
+150
+zwart
+234.86
+Massonet Stefan
+M
+186
+rood
+186.25
+Matheussen Ilse
+M
+161
+blond
+84.97
+Matheussen Raf
+M
+182
+zwart
+203.41
+Matheussen Stefan
+M
+192
+bruin
+70.45
+Mattelin Johan
+M
+159
+blond
+215.1
+Mattelin Tom
+M
+190
+blond
+23.42
+Matthijs Mitchell
+M
+191
+zwart
+146.59
+Matthijs Ronny
+M
+178
+zwart
+80.14
+Maussen Geert
+M
+196
+zwart
+155.11
+Maussen Jaak
+V
+150
+rood
+96.66
+Maussen Pieter
+M
+194
+bruin
+101.51
+Mc Neill Günther
+V
+161
+rood
+129.41
+Meermans Dieter
+M
+179
+zwart
+129.15
+Meeus Bert
+M
+163
+blond
+22.75
+Meeus Bert
+M
+182
+blond
+143.79
+Meeus John
+M
+171
+blond
+103.5
+Meeus Koen
+M
+177
+zwart
+59.78
+Meeus Tom
+M
+168
+bruin
+80.5
+Meeus Tom
+M
+188
+bruin
+21.92
+Meir Geert
+M
+157
+blond
+113.39
+Melis Bob
+V
+174
+bruin
+234.59
+Melis Ellen
+M
+184
+blond
+205.07
+Mens Kristel
+M
+155
+zwart
+26.25
+Mens Stefaan
+M
+192
+blond
+210
+Mens Tom
+M
+163
+blond
+127.73
+Mercelis Mark
+M
+167
+zwart
+159.36
+Mertens An
+M
+150
+bruin
+195.67
+Mertens Ann
+M
+170
+bruin
+129.59
+Mertens Benny
+V
+183
+zwart
+80.28
+Mertens Bruno
+M
+157
+kaal
+138.94
+Mertens Elias
+M
+170
+zwart
+237.42
+Mertens Filip
+M
+181
+bruin
+53.87
+Mertens Franky
+M
+159
+zwart
+64.62
+Mertens Geert
+M
+170
+kaal
+218.96
+Mertens Geert
+V
+161
+rood
+167.7
+Mertens Guy
+M
+159
+blond
+22.67
+Mertens Jo
+M
+157
+rood
+186.37
+Mertens Joachim
+M
+156
+bruin
+150.33
+Mertens Kevin
+M
+155
+zwart
+202.61
+Mertens Patrick
+M
+175
+rood
+159.15
+Mertens Ruddi
+V
+183
+blond
+154.69
+Mertens Sonja
+M
+160
+zwart
+177.54
+Meulders Jos
+M
+159
+zwart
+205.45
+Meulenbergs Frank
+M
+163
+kaal
+159.58
+Meuwes Ann
+V
+185
+zwart
+229.12
+Mewis Eva
+M
+155
+bruin
+146.54
+Meynckens Davy
+V
+178
+blond
+192.28
+Meynckens Luc
+M
+162
+bruin
+127.17
+Meynckens Marc
+M
+153
+bruin
+83.71
+Meynckens Marco
+M
+172
+bruin
+20.43
+Meynckens Michel
+M
+190
+blond
+215.49
+Meynckens Wesley
+V
+172
+bruin
+93.15
+Meynen Gert
+M
+179
+bruin
+205.93
+Michiels Johan
+M
+181
+blond
+134.55
+Michiels Jurgen
+M
+182
+bruin
+60.01
+Michiels Michel
+M
+154
+bruin
+52.84
+Michiels Stijn
+M
+184
+bruin
+114.77
+Michiels Timothy
+V
+171
+blond
+180.71
+Michiels Tom
+M
+165
+zwart
+64.61
+Michiels Wouter
+M
+187
+bruin
+135.63
+Michielsen Bart
+M
+174
+blond
+178.96
+Milis Ann
+M
+187
+zwart
+197.73
+Milis Leen
+M
+150
+zwart
+166.77
+Milis Peter
+M
+171
+blond
+69.08
+Minnen Tonny
+M
+153
+bruin
+183.7
+Mol Kristof
+M
+195
+blond
+36.39
+Molero Danny
+M
+150
+bruin
+125.39
+Molero Hilde
+V
+179
+zwart
+22.48
+Molero Jan
+M
+199
+zwart
+53.18
+Mondelaers Ben
+M
+174
+rood
+21.67
+Mondelaers Bruno
+M
+193
+blond
+238.36
+Monten Patrick
+V
+196
+blond
+46.91
+Moonen Didier
+M
+162
+blond
+89.34
+Moonen Frederik
+M
+175
+bruin
+70.94
+Moonen Tim
+M
+180
+zwart
+45.92
+Moons Liesbeth
+M
+150
+rood
+123.81
+Moortgat Kristof
+M
+159
+zwart
+99.03
+Muyshondt Joeri
+M
+192
+bruin
+173.34
+Naegels Arne
+M
+174
+kaal
+174.44
+Nagel An
+M
+192
+bruin
+196.28
+Nagel Frank
+M
+156
+bruin
+244.51
+Nagel Steven
+M
+197
+rood
+241.2
+Nagels Benny
+M
+159
+bruin
+20.82
+Neefs Harry
+M
+197
+kaal
+137.85
+Neefs Wim
+M
+185
+bruin
+146.42
+Neels Bart
+M
+157
+blond
+196.93
+Neels Guy
+M
+169
+bruin
+209.33
+Neels Jan
+M
+187
+blond
+146.33
+Neels Tim
+M
+165
+bruin
+224.2
+Neels Yolande
+V
+154
+rood
+179.16
+Nelis Anke
+V
+152
+blond
+49.33
+Neyens Annemiek
+M
+198
+bruin
+139.71
+Neyens Geert
+M
+178
+zwart
+109.42
+Neys Ruud
+M
+173
+rood
+43.29
+Niclot Kristin
+M
+151
+blond
+97.26
+Nies Freddy
+M
+157
+blond
+64.4
+Nies Stijn
+M
+190
+rood
+63.56
+Nieuwenhuize Dirk
+M
+199
+bruin
+213.98
+Nieuwenhuize Eric
+M
+196
+bruin
+119.68
+Nijns Guy
+M
+166
+bruin
+21.31
+Nijns Valérie
+M
+156
+bruin
+170.22
+Nijs Gunther
+X
+176
+blond
+201.76
+Nijs Johannes
+M
+177
+kaal
+20.17
+Nijs Tim
+M
+194
+bruin
+191.61
+Noels Bram
+M
+187
+bruin
+37.26
+Noels Tom
+M
+181
+bruin
+106.98
+Nogalez Sanz Filip
+M
+151
+bruin
+118.41
+Nogalez Sanz Kristof
+M
+182
+kaal
+47.67
+Nouwen Sandra
+V
+178
+zwart
+187.98
+Noyens Sven
+M
+196
+bruin
+204.7
+Noynaert Arne
+M
+172
+bruin
+75.5
+Noynaert Ilse
+M
+161
+blond
+202.58
+Nuyens Frederik
+M
+188
+rood
+44.77
+Nuyens Tom
+M
+176
+blond
+160.22
+Nuyts Gert
+V
+180
+zwart
+146.75
+Nuyts Kristof
+M
+180
+bruin
+31.34
+Nuyts Lieven
+M
+185
+blond
+113.16
+Nuyts Peter
+M
+158
+blond
+119.5
+Nuyts Raf
+V
+185
+bruin
+32.12
+Nyssen Emmanuel
+M
+183
+zwart
+221.49
+Nyssen Guy
+M
+153
+blond
+126.72
+Nyssen Kristof
+M
+176
+bruin
+135.51
+Oeyen Stijn
+M
+178
+bruin
+203.27
+Omloop Hans
+M
+151
+rood
+174.24
+Ooms Dieter
+M
+160
+zwart
+86.19
+Ooms Jaak
+M
+168
+rood
+195.46
+Ooms Johan
+M
+194
+kaal
+179.15
+Ooms Kim
+M
+151
+blond
+184.66
+Ooms Peter
+M
+164
+blond
+195.42
+Ooms Rik
+V
+175
+bruin
+147.57
+Orban Bart
+M
+192
+bruin
+202.78
+Oversteyns Annick
+M
+174
+blond
+132.88
+Oversteyns Kris
+M
+171
+zwart
+21.35
+Palmans Gunther
+M
+192
+bruin
+207.18
+Pasgang Jason
+M
+183
+kaal
+37.72
+Pauwels An
+M
+180
+zwart
+107.01
+Pauwels Dirk
+M
+180
+bruin
+233.56
+Pauwels Eddy
+M
+175
+rood
+70.28
+Pauwels Freddy
+M
+161
+kaal
+216.18
+Pauwels Luc
+M
+166
+bruin
+163.84
+Pauwels Rob
+M
+157
+zwart
+31.32
+Peeraer Jozef
+V
+187
+bruin
+107.65
+Peeraer Koen
+M
+173
+blond
+126.66
+Peeraer Lien
+M
+188
+bruin
+157.41
+Peeters Annick
+V
+160
+bruin
+217.18
+Peeters Bart
+V
+187
+blond
+226.15
+Peeters Björn
+M
+150
+bruin
+197.34
+Peeters Bob
+M
+177
+blond
+151.78
+Peeters Daniel
+M
+163
+bruin
+86.85
+Peeters Didier
+M
+186
+bruin
+131.98
+Peeters Dirk
+M
+167
+bruin
+115.26
+Peeters Eddy
+M
+150
+blond
+189.14
+Peeters Els
+M
+156
+blond
+200.13
+Peeters Filip
+V
+182
+blond
+106.67
+Peeters Gert
+V
+158
+bruin
+32.16
+Peeters Guido
+M
+196
+zwart
+104.28
+Peeters Guy
+V
+198
+blond
+69.14
+Peeters Hans
+M
+199
+blond
+34.05
+Peeters Harry
+M
+173
+zwart
+54.55
+Peeters Hilde
+M
+166
+bruin
+227.55
+Peeters Hugo
+M
+191
+bruin
+247.31
+Peeters Inge
+M
+174
+bruin
+71.67
+Peeters Johan
+M
+186
+blond
+184.96
+Peeters Kim
+M
+190
+rood
+97.48
+Peeters Kris
+V
+155
+zwart
+67.12
+Peeters Kristel
+M
+195
+rood
+170.07
+Peeters Luc
+M
+181
+blond
+175.75
+Peeters Luc
+M
+176
+bruin
+188.31
+Peeters Marc
+M
+164
+zwart
+42.57
+Peeters Ronny
+M
+174
+blond
+243.61
+Peeters Seth
+M
+168
+zwart
+98.73
+Peeters Stijn
+M
+185
+bruin
+34.45
+Peeters Sven
+M
+176
+zwart
+230.09
+Peeters Tim
+M
+159
+blond
+89.29
+Peeters Vera
+M
+158
+zwart
+219.34
+Peeters Walter
+M
+168
+blond
+211.21
+Peeters Willem
+M
+158
+blond
+41.87
+Peeters Yvan
+V
+158
+zwart
+244.79
+Pelgrims Roel
+M
+180
+bruin
+176.44
+Peperstraete Bart
+M
+186
+bruin
+88.53
+Persoons Michel
+M
+159
+rood
+210.65
+Pieters Danny
+M
+160
+rood
+115.21
+Pieters Frank
+M
+181
+rood
+76.6
+Pluym Thierry
+M
+159
+bruin
+218.96
+Polat Geert
+M
+194
+blond
+65.21
+Polat Kris
+M
+156
+bruin
+110.14
+Princen Johan
+M
+189
+zwart
+230.6
+Princen Nico
+M
+183
+zwart
+24.94
+Proost Ann
+M
+164
+rood
+66.64
+Proost Tom
+M
+181
+zwart
+188.31
+Puls Kristof
+M
+156
+blond
+188.93
+Put Rudy
+V
+182
+zwart
+87.51
+Put Winny
+M
+188
+zwart
+232.49
+Rabijns Frank
+M
+188
+bruin
+116.41
+Rackels Kristof
+M
+157
+bruin
+165.4
+Rackels Nico
+M
+192
+zwart
+104.91
+Rackels Stijn
+M
+193
+zwart
+219.99
+Rademakers Fabian
+M
+164
+kaal
+25.35
+Rademakers Steven
+M
+162
+bruin
+61.87
+Raeves Patrick
+M
+190
+zwart
+230.76
+Raeymaekers Bert
+M
+190
+blond
+95.81
+Raeymaekers Gert
+M
+181
+zwart
+203.98
+Raeymaekers Herman
+M
+195
+blond
+51.93
+Raeymaekers Joost
+M
+194
+blond
+148.15
+Raeymaekers Patrick
+M
+178
+kaal
+182.39
+Raeymaekers Philip
+M
+173
+bruin
+78.14
+Raeymaekers Wim
+M
+175
+blond
+201.17
+Raeymaekers Wim
+V
+186
+bruin
+202.45
+Raymakers Steven
+M
+199
+bruin
+127.34
+Renap Geert
+M
+189
+bruin
+163.6
+Renap Gustaaf
+M
+150
+bruin
+67.27
+Renap Jo
+M
+191
+zwart
+212.79
+Renders Gerrit
+V
+154
+rood
+121.32
+Renders Inge
+M
+173
+bruin
+75.86
+Reykers Danielle
+M
+163
+zwart
+137.59
+Reykers Dries
+M
+167
+zwart
+108.67
+Roevens Maddy
+M
+162
+kaal
+193.06
+Roosen Geert
+V
+157
+rood
+221.87
+Roosen Luc
+M
+166
+blond
+154.59
+Ruts Hilde
+M
+179
+blond
+128.89
+Ruts Johan
+M
+168
+blond
+116.18
+Ruts Kris
+M
+169
+zwart
+61.17
+Ruts Wim
+M
+164
+bruin
+126.88
+Rutten Betty
+M
+181
+bruin
+73.35
+Rutten Danny
+M
+153
+bruin
+111.51
+Rutten Dirk
+M
+189
+bruin
+92.92
+Rutten Liesbeth
+M
+165
+blond
+137.44
+Saelen Hans
+V
+156
+bruin
+51.25
+Saelen Luc
+M
+171
+blond
+128.85
+Saelen Patrick
+M
+176
+zwart
+110.16
+Saelen Stijn
+M
+166
+bruin
+62.35
+Samyn Dirk
+M
+185
+bruin
+160.21
+Samyn Gunter
+M
+167
+bruin
+24.55
+Samyn Ivan
+M
+185
+bruin
+25.02
+Samyn Jan
+M
+191
+blond
+92.79
+Samyn Mike
+M
+192
+zwart
+139.75
+Samyn Tim
+M
+184
+zwart
+31.83
+Sauviller Liesbeth
+M
+162
+zwart
+220.88
+Sauviller Stefan
+M
+158
+bruin
+200.73
+Schelkens Geert
+M
+169
+kaal
+209.62
+Schellens Andy
+M
+179
+bruin
+31.75
+Schellens Bert
+M
+179
+bruin
+220.55
+Schellens Davy
+M
+192
+bruin
+180.5
+Schellens Kris
+M
+166
+rood
+145.93
+Schellens Tom
+M
+198
+blond
+150.45
+Schelles Paul
+V
+157
+blond
+21.49
+Schelles Tim
+M
+159
+bruin
+126
+Scheltjens Benny
+M
+154
+blond
+169.81
+Scheltjens Erwin
+M
+177
+bruin
+116.73
+Schepens Gino
+V
+191
+blond
+215.85
+Schepens Inge
+M
+153
+rood
+191.2
+Schepens Rutger
+M
+161
+bruin
+98.15
+Schiepers Geert
+M
+172
+blond
+223.59
+Schiepers Jurgen
+M
+191
+blond
+179.62
+Schildermans Christophe
+M
+185
+bruin
+202.44
+Schollaert Gert
+M
+179
+rood
+145.26
+Schonkeren Davy
+M
+184
+kaal
+84.88
+Schonkeren Davy
+V
+167
+blond
+37.76
+Schonkeren Henk
+M
+169
+zwart
+194.61
+Schoofs Thomas
+M
+196
+blond
+53.91
+Schoondermark Dirk
+M
+161
+blond
+24.15
+Schrijvers Bert
+M
+171
+bruin
+221.57
+Schroven Kurt
+V
+166
+zwart
+202.73
+Schuurmans Kurt
+M
+163
+blond
+57.43
+Segers Raf
+M
+155
+zwart
+112.69
+Sels Bert
+M
+158
+blond
+52.48
+Sels Bram
+M
+181
+blond
+92.43
+Sels Eddy
+V
+189
+blond
+61.67
+Sels Ellen
+M
+190
+rood
+186.34
+Sels Erik
+M
+159
+bruin
+155.79
+Sels Jorgen
+M
+174
+bruin
+164.21
+Sels Katrien
+M
+194
+rood
+241
+Sels Roel
+V
+198
+blond
+66.68
+Sels Rudy
+M
+155
+zwart
+202.23
+Servaes Wim
+M
+187
+bruin
+212.49
+Seurinck Bart
+M
+197
+bruin
+109.48
+Seurinck Herman
+M
+192
+rood
+73.57
+Seurinck Wim
+M
+181
+bruin
+60.04
+Sevenans Jan
+M
+158
+blond
+171.14
+Sevens Christel
+M
+191
+blond
+28.36
+Sevens Jan
+M
+178
+blond
+44.89
+Sevens Wim
+M
+158
+rood
+117.87
+Slaets Bart
+M
+185
+bruin
+31.36
+Slaets Hung-Kit
+V
+167
+zwart
+183.61
+Slegers Guy
+M
+173
+zwart
+21.09
+Slegers Herman
+M
+195
+zwart
+96.32
+Slegers Koen
+M
+173
+blond
+229.06
+Slegers Kurt
+M
+159
+kaal
+58.79
+Slegers Kurt
+M
+167
+zwart
+248.64
+Slegers Stefan
+M
+168
+bruin
+56.61
+Slegers Tim
+M
+184
+rood
+220.07
+Sleurs Jo
+M
+160
+zwart
+123.23
+Sleuwaegen Hans
+V
+178
+bruin
+145.51
+Sluyts Nic
+M
+156
+bruin
+179.38
+Smeets Dirk
+M
+153
+bruin
+235.87
+Smeets Tom
+M
+177
+kaal
+238.9
+Smet Dominik
+V
+163
+blond
+242.65
+Smet Jan
+M
+155
+bruin
+95.45
+Smet Johan
+M
+162
+blond
+79.2
+Smet Pieter
+M
+151
+blond
+153.75
+Smets Bart
+M
+193
+blond
+228.19
+Smets Bart
+M
+155
+kaal
+189.97
+Smets Bob
+M
+162
+bruin
+218.05
+Smets Ismaël
+M
+189
+zwart
+25.48
+Smets Johan
+M
+153
+kaal
+68.13
+Smets Johnny
+M
+167
+bruin
+122.89
+Smets Jorg
+M
+153
+rood
+152.45
+Smets Jozef
+M
+163
+blond
+132.22
+Smets Nico
+M
+190
+blond
+43.98
+Smets Nico
+M
+179
+bruin
+164.33
+Smets Tim
+M
+196
+bruin
+171.46
+Smets Tom
+M
+155
+blond
+48.72
+Smets Tom
+M
+189
+bruin
+221.1
+Smeyers Jo
+M
+168
+blond
+149.28
+Smids Francis
+M
+194
+bruin
+222.58
+Smids Inge
+M
+178
+blond
+186.4
+Smids Tim
+V
+195
+bruin
+179.14
+Sneyders Gert
+M
+169
+rood
+132.07
+Sneyders Gert
+V
+189
+zwart
+110.76
+Snoeckx Hans
+M
+163
+blond
+172.13
+Snoeckx Hans
+M
+193
+bruin
+233.44
+Snoeckx Jan
+M
+166
+zwart
+149.87
+Snoeckx Johannes
+M
+185
+zwart
+171.72
+Snoeckx Philip
+M
+164
+bruin
+105.14
+Snyers Bert
+V
+158
+blond
+138.34
+Snyers Sven
+V
+154
+zwart
+208.3
+Sommen Dirk
+M
+193
+blond
+77.67
+Sommen Dominik
+V
+192
+blond
+150.17
+Sommen Werner
+M
+194
+bruin
+64.64
+Soontjens Bart
+V
+190
+bruin
+225.8
+Soontjens Daisy
+M
+182
+bruin
+25.32
+Soontjens Dries
+M
+167
+zwart
+149.51
+Soontjens Guy
+V
+173
+bruin
+88.93
+Soontjens Koen
+M
+184
+blond
+173.85
+Soontjens Paul
+M
+180
+blond
+162.38
+Stappaerts Geert
+M
+197
+rood
+85.97
+Stassyns Peter
+M
+161
+blond
+46.05
+Stassyns Silvester
+M
+151
+blond
+95.31
+Sterckx Bart
+M
+177
+bruin
+203.67
+Sterckx Bart
+M
+198
+rood
+23.78
+Sterckx Steven
+M
+152
+blond
+118.94
+Sterckx Tom
+M
+183
+bruin
+162.75
+Sterckx Wim
+V
+185
+zwart
+193.62
+Stessens Bram
+M
+159
+rood
+216.06
+Stessens Katia
+M
+156
+bruin
+111.56
+Stevens Johannes
+M
+155
+bruin
+113.76
+Stevens Tom
+M
+191
+zwart
+144.27
+Steylaerts Alex
+M
+175
+blond
+244.73
+Steylaerts Yves
+M
+156
+bruin
+185.6
+Straetemans Eddy
+M
+167
+bruin
+92.6
+Straetemans Kim
+M
+178
+bruin
+65.93
+Straetemans Kris
+M
+184
+kaal
+136.75
+Struyf Kris
+M
+161
+bruin
+25.7
+Struyf Peter
+M
+164
+blond
+25.3
+Struyf Pieter
+M
+179
+blond
+21.94
+Struyfs Hans
+M
+181
+bruin
+46.37
+Struyfs Katrien
+M
+187
+blond
+49.1
+Struyfs Luc
+V
+185
+kaal
+247.06
+Struyfs Sandra
+M
+161
+bruin
+140.82
+Struyven Bert
+M
+150
+blond
+235.72
+Suls Luc
+M
+159
+zwart
+51.68
+Suls Nico
+M
+164
+zwart
+97.6
+Suls Steve
+M
+156
+bruin
+32.54
+Suls Stijn
+M
+165
+blond
+165.37
+Suls Stijn
+M
+168
+kaal
+168.49
+Swaans Tom
+M
+188
+kaal
+189.62
+Swerts Bart
+M
+192
+bruin
+26.22
+Swerts Edwin
+M
+186
+rood
+247.41
+Swerts Jan
+V
+154
+zwart
+130.38
+Swerts Ludo
+M
+152
+bruin
+89.61
+Swerts Tom
+V
+152
+rood
+69.21
+Swerts Valerie
+V
+197
+blond
+221.23
+Swinnen Christof
+M
+180
+bruin
+129.92
+Swinnen Gerry
+M
+172
+blond
+211.52
+Swinnen Kurt
+M
+162
+zwart
+77.51
+Swinnen Paul
+M
+182
+zwart
+72.78
+Swinnen Rudi
+M
+183
+bruin
+29.65
+Swolfs Bart
+M
+162
+rood
+174.8
+Taes Wim
+M
+174
+blond
+111.81
+Tang Werner
+M
+180
+blond
+154.41
+Tessens Dominique
+M
+156
+zwart
+191.02
+Teunckens Guy
+M
+187
+zwart
+158.75
+Thaens Koen
+M
+179
+bruin
+94.47
+Thaens Peter
+M
+187
+rood
+98.27
+Thaens Tom
+V
+151
+bruin
+26.86
+Theunis Benny
+M
+158
+bruin
+111.39
+Theunis Bert
+M
+193
+blond
+67.68
+Theunis Danny
+M
+155
+blond
+70.23
+Theunis Jef
+V
+153
+bruin
+203.3
+Theunis Jo
+M
+160
+zwart
+118.22
+Theuns Bart
+M
+185
+bruin
+235.96
+Theuwissen Steven
+M
+199
+blond
+192.87
+Theys Koen
+M
+151
+blond
+173.45
+Theys Pascal
+V
+180
+bruin
+111.6
+Thienpont Peter
+M
+155
+zwart
+81.53
+Thienpont Rudy
+M
+162
+bruin
+107.95
+Thijs Bob
+V
+178
+bruin
+116.52
+Thijs Herman
+V
+187
+blond
+115.5
+Thone Patrick
+M
+174
+kaal
+36.72
+Thonissen Erik
+M
+178
+bruin
+136.19
+Thonissen Werner
+V
+179
+kaal
+77.09
+Thys Jurgen
+M
+165
+bruin
+20.12
+Thys Natasja
+M
+154
+blond
+238.97
+Thys Peter
+M
+170
+bruin
+237.77
+Thys Tom
+M
+195
+blond
+41.14
+Thys Wim
+M
+181
+bruin
+99.48
+Tibollo Geert
+M
+169
+zwart
+212.89
+Tielemans Geert
+M
+170
+blond
+34.05
+Timmermans Bart
+M
+185
+blond
+114.93
+Tops An
+V
+195
+blond
+119.77
+Tops Kristel
+M
+193
+blond
+187.7
+Torfs Dirk
+M
+192
+blond
+80.64
+Torfs Robert
+M
+197
+bruin
+78.4
+Tormans Peter
+M
+188
+rood
+70.23
+Truyens Patrick
+M
+166
+zwart
+182.37
+Truyens Tom
+M
+194
+blond
+67.62
+Tullen Hermes
+V
+195
+zwart
+51.64
+Tullen Wim
+M
+184
+blond
+122.26
+Umans Walter
+M
+184
+rood
+57.62
+Urhegyi Tom
+M
+167
+bruin
+232.8
+Uten Gunther
+M
+188
+bruin
+43.26
+Uten Johan
+M
+163
+rood
+239.2
+Vaes Dries
+M
+155
+rood
+79.52
+Vaes Filip
+M
+186
+bruin
+46.57
+Vaes Rob
+M
+164
+zwart
+211.43
+Vaes Sam
+M
+174
+blond
+154.4
+Vaesen Carlo
+M
+158
+bruin
+135.51
+Vaesen Dieter
+M
+172
+rood
+113.48
+Vaesen Koen
+V
+161
+rood
+70.14
+Vaesen Sam
+M
+176
+rood
+217.33
+Valgaeren Luc
+M
+188
+rood
+244.92
+Valgaerts Kurt
+M
+171
+bruin
+27.07
+Valgaerts Luc
+M
+175
+blond
+32.13
+Valgaerts Peter
+M
+171
+zwart
+187.51
+Van Acoleyen Nico
+M
+192
+blond
+159.76
+Van Aperen Benoit
+M
+199
+bruin
+170.38
+Van Bael Diego
+M
+182
+bruin
+191.59
+Van Bael Johan
+M
+175
+blond
+35.5
+Van Bael Seth
+M
+168
+bruin
+77.49
+Van Baelen Jan
+M
+168
+blond
+204.06
+Van Baelen Luc
+M
+150
+bruin
+225.61
+Van Baelen Wim
+M
+170
+bruin
+230.82
+Van Balen Johannes
+M
+168
+bruin
+174.59
+Van Bart
+M
+195
+zwart
+132.27
+Van Beurden Caroline
+M
+152
+blond
+216.17
+Van Beurden Hilde
+M
+173
+blond
+137.12
+Van Bijlen Kristel
+M
+162
+rood
+183.5
+Van Bommel Bert
+M
+152
+blond
+189.03
+Van Bourgonie Bart
+M
+159
+rood
+210.07
+Van Bourgonie Steven
+M
+158
+zwart
+26.61
+Van Breda Hans
+M
+154
+bruin
+224.66
+Van Breda Kristel
+M
+167
+bruin
+162.38
+Van Breda Wim
+M
+167
+bruin
+94.12
+Van Bruaene Geert
+M
+198
+bruin
+105.16
+Van Campenhout Wouter
+M
+180
+rood
+79.85
+Van Colen Bert
+M
+164
+blond
+172.91
+Van Craenendonck Dennis
+M
+174
+bruin
+157.93
+Van Craenendonck Erik
+M
+170
+kaal
+124.7
+Van Craenendonck Pieter
+M
+151
+blond
+106.48
+Van Craenendonck Raf
+M
+159
+bruin
+216.33
+van de Heijning Bart
+M
+192
+zwart
+211.97
+Van De Perre Dirk
+M
+154
+bruin
+149.6
+Van de Perre Tom
+V
+155
+zwart
+192.98
+Van De Put Tom
+M
+172
+rood
+117.77
+Van de Ven Erwin
+M
+159
+kaal
+170.32
+Van de Water Kris
+M
+174
+zwart
+24.92
+Van de Water Rudi
+M
+194
+kaal
+47.16
+Van de Watering Danny
+V
+181
+blond
+95.29
+Van De Weyer Daisy
+M
+151
+bruin
+89.99
+Van de Weyer Hilde
+M
+197
+bruin
+209.57
+Van De Weyer Jan
+M
+167
+rood
+123.76
+Van De Weyer Wim
+M
+183
+blond
+241.52
+Van Den Bergh Bert
+M
+180
+zwart
+48.92
+Van den Bergh Kris
+M
+193
+zwart
+64.93
+Van den Bergh Nick
+M
+178
+bruin
+173.58
+Van Den Bergh Rafael
+M
+180
+zwart
+248.61
+van den Boom Jason
+M
+182
+bruin
+146.85
+Van den Borne Guy
+M
+185
+blond
+32.21
+Van den Borne Nick
+M
+163
+zwart
+99.87
+Van Den Bosch Filip
+M
+183
+rood
+68.32
+Van den Bosch Ignace
+M
+183
+blond
+148.64
+Van Den Bosch Ruddi
+M
+182
+blond
+139.52
+Van Den Bosch Wim
+V
+194
+blond
+133.81
+Van Den Brande Elly
+M
+151
+bruin
+122.16
+Van Den Brandt Koen
+M
+179
+rood
+32.22
+Van den Broeck Gert
+M
+156
+blond
+107.64
+Van Den Broeck Gino
+M
+183
+blond
+245.49
+Van den Broeck Jürgen
+M
+189
+zwart
+239.24
+Van Den Broeck Kim
+M
+185
+bruin
+153.54
+Van den Broeck Kurt
+M
+155
+blond
+112.17
+Van Den Broeck M.
+M
+169
+kaal
+22.25
+Van den Broeck Rob
+M
+176
+bruin
+108.66
+Van den Broeck Tim
+M
+153
+zwart
+101.23
+Van den Broeck Wim
+M
+199
+blond
+62.74
+Van Den Broek Bob
+M
+187
+bruin
+41.02
+Van Den Broek Carl
+M
+173
+bruin
+56.17
+Van Den Broek Frank
+M
+166
+bruin
+36.78
+Van Den Broek Kurt
+M
+153
+bruin
+214.89
+Van Den Broek Wim
+M
+159
+bruin
+20.02
+Van den Bulck Kris
+M
+160
+zwart
+48.66
+Van den Bulck Peter
+V
+154
+bruin
+174.83
+Van den Eynde Bart
+M
+169
+bruin
+212.15
+Van Den Eynde Kurt
+M
+174
+blond
+227.99
+Van den Eynden Benny
+M
+168
+zwart
+29.32
+Van den Heuvel Kristof
+M
+184
+bruin
+33.13
+Van den Nieuwenhuisen Annick
+M
+150
+rood
+164.74
+Van den Nieuwenhuisen Dominique
+M
+198
+bruin
+125.47
+Van den Plas Christophe
+M
+199
+bruin
+44.8
+Van Den Troost Bart
+M
+197
+blond
+138.35
+Van den Vloet Kris
+M
+197
+bruin
+24.31
+Van Den Vonder Patrick
+M
+154
+zwart
+110.09
+van der Aalst Bob
+M
+159
+blond
+131.36
+Van Der Auwera Jean
+M
+182
+zwart
+59.9
+Van Der Auwera Jelle
+M
+162
+bruin
+242.61
+Van Der Auwera Rachel
+M
+185
+bruin
+220.6
+Van Der Borght Danny
+V
+199
+zwart
+77.39
+Van Der Steen Jo
+M
+167
+zwart
+29.9
+Van der Veken Danny
+M
+179
+bruin
+204.25
+Van der Veken Erwin
+M
+167
+zwart
+100.33
+Van der Veken Inge
+M
+191
+blond
+75
+Van der Veken Johan
+M
+177
+bruin
+67.85
+Van der Veken Koen
+M
+172
+bruin
+104.48
+Van der Veken Tom
+M
+184
+rood
+117.94
+Van der Veken Wesley
+V
+158
+kaal
+132.82
+Van Der Velden Erwin
+M
+190
+blond
+178.46
+Van der Voort Pedro
+M
+170
+bruin
+181.4
+Van Dijck Gert
+M
+199
+blond
+209.54
+Van Dijck Kris
+M
+170
+zwart
+60.18
+Van Dijck Philip
+M
+177
+bruin
+104.97
+van Dooren Ilse
+X
+168
+blond
+36.31
+van Dooren Ilse
+M
+165
+rood
+205.87
+Van Dooren Marc
+M
+186
+blond
+42.81
+van Dooren Maria
+M
+158
+bruin
+240.19
+Van Dooren Patrick
+M
+179
+bruin
+64.51
+Van Duffel Gerry
+V
+181
+blond
+91.84
+Van Dun Jan
+V
+187
+rood
+186.25
+Van Dun Luc
+M
+150
+bruin
+88.4
+Van Dun Paul
+M
+183
+rood
+137.54
+Van Dun Wim
+M
+188
+rood
+113.86
+Van Echelpoel Gert
+M
+152
+blond
+47.72
+Van Eeckhout Els
+M
+150
+bruin
+172.46
+Van Eeckhout Erik
+M
+172
+bruin
+205.03
+Van Eester Ilse
+M
+168
+zwart
+86.27
+Van Eester Rudy
+M
+183
+zwart
+106.04
+Van Ermengem Jürgen
+M
+176
+kaal
+106.06
+Van Ermengem Wim
+M
+181
+blond
+41.78
+Van Eyck Arne
+M
+168
+blond
+101.6
+Van Eyck Bert
+M
+182
+bruin
+140.15
+Van Eyck Joris
+M
+163
+blond
+126.21
+Van Eyck Wim
+M
+199
+bruin
+246.75
+Van Eyken Geert
+M
+190
+bruin
+226.47
+Van Eyken Gert
+M
+196
+bruin
+91.92
+Van Eyken Hans
+M
+153
+blond
+240.99
+Van Eyken Johannes
+M
+166
+rood
+128.02
+Van Eyken Karin
+M
+195
+blond
+173.84
+Van Eynde Hans
+M
+177
+bruin
+73.26
+Van Eynde Sam
+M
+169
+kaal
+180.66
+Van Gelder Tom
+M
+189
+bruin
+88.14
+Van Gemert Ivan
+M
+153
+bruin
+185.52
+Van Gemert Maddy
+V
+162
+blond
+107.55
+Van Gemert Ruddi
+M
+158
+blond
+197.13
+Van Genechten Bert
+M
+192
+bruin
+185.93
+Van Genechten Els
+V
+179
+zwart
+237.87
+Van Genechten Rob
+M
+182
+bruin
+125.35
+Van Gestel Bart
+M
+166
+bruin
+151.89
+Van Gestel Koen
+M
+167
+bruin
+151.65
+Van Gestel Kris
+M
+177
+zwart
+43.72
+Van Gils Helga
+M
+156
+bruin
+217.16
+Van Gils Kris
+M
+194
+rood
+130.23
+Van Gompel Hanne
+M
+184
+blond
+87.77
+Van Gompel Leen
+M
+191
+zwart
+248.63
+Van Gorp Anneke
+V
+155
+blond
+29.68
+Van Gorp Bart
+M
+177
+zwart
+186.41
+Van Gorp Mark
+M
+152
+zwart
+21.12
+Van Gorp Michel
+M
+163
+bruin
+220.34
+Van Gorp Stef
+M
+189
+zwart
+205.25
+Van Gorp Wim
+M
+160
+blond
+232.34
+Van Gossum Kristof
+M
+181
+zwart
+109.99
+Van Goubergen Anneke
+M
+151
+blond
+190.28
+Van Goubergen Bas
+M
+172
+zwart
+79.27
+Van Goubergen Hans
+M
+173
+blond
+132.81
+Van Goubergen Jan
+M
+153
+bruin
+192.61
+Van Gyes Jorrit
+M
+159
+zwart
+34.12
+Van Ham Geert
+M
+188
+bruin
+136.33
+Van Ham Jan
+M
+180
+rood
+111.02
+Van Hasselt Kris
+M
+179
+blond
+93.32
+Van Hasselt Wim
+M
+174
+rood
+163.53
+Van Hees Jozef
+M
+179
+rood
+194.11
+Van Hees Rob
+M
+189
+bruin
+49.17
+Van Herck Frank
+M
+176
+bruin
+186.11
+Van Herck Gert
+M
+152
+bruin
+235.71
+Van Herck Koen
+M
+174
+bruin
+48.76
+Van Herck Koen
+M
+195
+bruin
+43.67
+Van Herck Koen
+V
+177
+zwart
+45.79
+Van Herck Minny
+M
+155
+blond
+44.91
+Van Herck Pieter
+M
+169
+zwart
+83.8
+Van Herck Ronny
+M
+172
+rood
+34.2
+Van Herck Seth
+M
+155
+zwart
+208.35
+Van Herpe Filip
+M
+157
+rood
+131.51
+Van Herpe Niels
+M
+177
+bruin
+221.29
+Van Hertem Bert
+M
+185
+bruin
+243.45
+Van Hertem Bert
+M
+190
+zwart
+227.18
+Van Hertem Geert
+M
+170
+zwart
+190.73
+Van Hertem Hung-Kit
+M
+187
+blond
+92.11
+Van Hoof Ann
+M
+189
+blond
+85.81
+Van Hoof Björn
+M
+168
+rood
+62.92
+Van Hoof Freddy
+M
+150
+rood
+36.17
+Van Hoof Jeroen
+M
+157
+bruin
+80.73
+Van Hoof Nicolaas
+M
+182
+blond
+214.67
+Van Hoof Peter
+M
+191
+bruin
+56.7
+Van Hove Jan
+M
+155
+bruin
+211.45
+Van Hove Raf
+M
+196
+zwart
+172.69
+Van Laer Dries
+M
+163
+zwart
+177.82
+Van Laer Jan
+M
+177
+zwart
+237.3
+Van Laer Luc
+M
+189
+bruin
+82.28
+Van Laer Mario
+M
+191
+bruin
+100.38
+van Laerhoven Tom
+M
+175
+kaal
+122.51
+Van Lommel Terry
+M
+196
+rood
+177.7
+Van Loon Bert
+M
+198
+blond
+97.2
+Van Loon Elke
+M
+174
+blond
+197.45
+Van Looy Geert
+M
+191
+bruin
+30.46
+Van Looy Jan
+M
+177
+blond
+200.47
+Van Looy Peter
+M
+161
+blond
+169.04
+Van Looy Rudy
+M
+151
+bruin
+141.94
+Van Looy Sven
+M
+189
+blond
+242.03
+Van Mechelen Kris
+M
+170
+blond
+42.36
+Van Mechelen Peter
+M
+189
+zwart
+132.23
+Van Meeuwen Willy
+M
+160
+zwart
+54.78
+Van Nijlen Gerrie
+M
+165
+blond
+144.42
+Van Nijlen Nick
+M
+160
+zwart
+136.82
+Van Nooten Kris
+V
+160
+blond
+104.21
+Van Nuffelen Betty
+M
+153
+zwart
+217.05
+Van Olmen Bert
+M
+163
+blond
+169.6
+Van Olmen Dimitri
+M
+176
+rood
+170.17
+Van Olmen Luc
+M
+188
+zwart
+20.23
+van Reijen Bart
+M
+181
+bruin
+165.02
+van Reijen Tom
+M
+171
+bruin
+249.52
+Van Reusel Davy
+V
+182
+blond
+241.61
+Van Reusel Filip
+M
+183
+blond
+194.76
+Van Reusel Tom
+M
+166
+zwart
+145.35
+Van Roey Koen
+M
+186
+bruin
+130.95
+Van Roey Kristof
+M
+178
+bruin
+221.38
+Van Roey Michel
+M
+190
+blond
+85.53
+Van Roey Stefan
+M
+178
+bruin
+77.03
+Van Roey Tim
+V
+189
+zwart
+178.52
+Van Rompaey Philip
+M
+191
+kaal
+219.43
+Van Rompaey Tim
+M
+156
+bruin
+92.54
+Van Rompaey Wendy
+M
+178
+blond
+163.63
+Van Romphey Bjorn
+M
+196
+bruin
+56.08
+Van Roosbroeck Tonny
+M
+166
+blond
+76.17
+Van Rooy Geert
+M
+176
+zwart
+116.05
+Van Roy Dennis
+M
+171
+blond
+29.04
+Van Roy Dirk
+V
+179
+bruin
+131.71
+Van Roy Gunther
+M
+157
+bruin
+178.69
+Van Roy Ilse
+V
+195
+bruin
+22.14
+Van Roy Sven
+M
+187
+bruin
+225.73
+Van Soom Erwin
+M
+153
+blond
+219.09
+Van Soom Geert
+M
+165
+bruin
+60.93
+Van Soom Tim
+M
+150
+kaal
+129.47
+Van Thielen Geert
+M
+174
+zwart
+146.79
+Van Tichelt Wim
+M
+175
+zwart
+241.49
+Van Tigchelt Lieven
+M
+163
+zwart
+149.18
+Van Tigchelt Michel
+M
+199
+bruin
+80.23
+Van Tigchelt Tim
+M
+199
+bruin
+190.24
+Van Tigchelt Wim
+M
+151
+blond
+105.23
+Van Woensel Bart
+M
+167
+kaal
+135.14
+Van Woensel Lieven
+M
+164
+kaal
+45.11
+Vanbosch Bart
+M
+177
+bruin
+187.68
+Vanbosch Johan
+M
+198
+kaal
+245.53
+Vanbroekhoven Davy
+M
+176
+blond
+43.76
+Vanbroekhoven Dominique
+M
+185
+zwart
+173.66
+Vanbroekhoven Hilde
+M
+198
+zwart
+119.81
+Vanbroekhoven Ludwig
+M
+154
+zwart
+213.99
+Vandamme Paul
+M
+151
+zwart
+151.93
+Vande Meerssche Carl
+M
+189
+zwart
+168.38
+Vandecruys Bert
+M
+197
+blond
+152.03
+Vandecruys Guy
+M
+194
+rood
+59.31
+Vandegaer Cristof
+M
+182
+bruin
+117.27
+Vandegaer Joris
+M
+174
+kaal
+242.23
+Vandenbempt Bert
+M
+178
+bruin
+130.95
+Vandenbergh Hans
+M
+154
+blond
+166.38
+Vandenbergh Jo
+M
+152
+zwart
+182.83
+Vandenbergh Rutger
+M
+163
+zwart
+230.48
+Vandenberk David
+M
+175
+bruin
+154.38
+Vandenberk Johan
+M
+170
+blond
+57.89
+Vandenberk Marco
+M
+189
+bruin
+67.65
+Vandenberk Steven
+M
+192
+bruin
+191.67
+Vandenboer Gert
+V
+156
+blond
+110.28
+Vandenbroeck Dave
+M
+191
+zwart
+45.33
+Vandenbroeck Stijn
+M
+179
+zwart
+36.82
+Vandenbroucke Yvan
+M
+151
+bruin
+158.23
+Vandendungen Ivo
+M
+168
+zwart
+221.96
+Vandeplas Hans
+M
+198
+bruin
+70.12
+Vandeplas Rocky
+M
+196
+rood
+244.9
+Vander Mierde Benny
+M
+155
+zwart
+190.86
+Vander Mierde Wim
+M
+194
+blond
+185.15
+Vander Voorde Erik
+M
+176
+blond
+243.36
+Vanderheyden Sven
+M
+180
+blond
+247.54
+Vanderhoydonck Gunther
+M
+183
+blond
+246.82
+Vanderperre Hugo
+M
+193
+zwart
+194.17
+Vanderperre Kristof
+V
+159
+zwart
+226.43
+Vanderperre Nic
+V
+162
+bruin
+68.35
+Vandevelde Davy
+V
+175
+blond
+156.28
+Vaneynde Paul
+M
+169
+bruin
+170.43
+Vaneynde Pieter
+M
+152
+bruin
+222.43
+Vangenechten Jan
+M
+193
+bruin
+175.4
+Vangorp Ann
+M
+174
+blond
+52.76
+Vanherck Wim
+M
+192
+zwart
+146.96
+Vanhoof Ann
+M
+175
+rood
+226.17
+Vanhoof Dries
+M
+195
+blond
+75.95
+Vanhoof Karel
+M
+198
+blond
+163.84
+Vanhout Alex
+M
+178
+kaal
+88.82
+Vanhout Bart
+M
+193
+zwart
+189.1
+Vankrunkelsven Nico
+V
+152
+zwart
+25.39
+Vanlommel Bart
+M
+195
+bruin
+120.81
+Vanlommel Stijn
+M
+163
+blond
+149
+Vannueten Raf
+M
+162
+bruin
+90.17
+Vanreusel Jeroen
+M
+154
+bruin
+154.47
+Vanroy Dirk
+M
+189
+rood
+78.11
+Vansant Bert
+M
+187
+zwart
+83.14
+Vansant Ivan
+M
+183
+blond
+144.37
+Vansant Peter
+V
+153
+bruin
+124.52
+Vansant Wim
+V
+169
+kaal
+169.28
+Vanspringel Bert
+M
+163
+bruin
+81.96
+Vanuytsel Ivan
+M
+193
+blond
+36.99
+Ven Leen
+M
+150
+bruin
+227.89
+Vennekens Kris
+V
+159
+blond
+184.19
+Ver Elst Eddy
+M
+171
+zwart
+102.58
+Ver Elst Evert
+M
+191
+blond
+87.72
+Ver Elst Frans
+M
+194
+bruin
+240.25
+Ver Elst Steven
+M
+178
+kaal
+53.87
+Verachtert Caroline
+M
+164
+bruin
+127.18
+Verachtert Dirk
+M
+192
+bruin
+44.05
+Verachtert Henk
+M
+174
+blond
+136.56
+Verachtert Kris
+M
+179
+bruin
+67.3
+Verachtert Liesbeth
+V
+159
+rood
+203.83
+Verachtert Renaat
+M
+150
+bruin
+72.95
+Verachtert Stijn
+M
+176
+zwart
+174.33
+Verbeek Kris
+M
+188
+bruin
+132.55
+Verbeek Peter
+M
+182
+blond
+236.88
+Verbeek Wim
+M
+179
+bruin
+67.55
+Verbiest Tom
+M
+199
+zwart
+211.35
+Verboven Dymphna
+M
+186
+zwart
+88.4
+Verboven Ivo
+M
+185
+blond
+192.09
+Verboven John
+M
+165
+blond
+147.46
+Verboven Mieke
+M
+194
+bruin
+120.16
+Verboven Raf
+V
+185
+bruin
+154.43
+Verboven Tom
+M
+169
+blond
+249.09
+Verbruggen Hung-Kit
+M
+190
+blond
+212.45
+Verbruggen Kurt
+M
+189
+rood
+178.82
+Verbruggen Michiel
+M
+170
+rood
+184.15
+Verbunt Jozef
+V
+190
+bruin
+108.45
+Verbunt Steven
+V
+189
+zwart
+104.04
+Vercalsteren Helga
+M
+188
+bruin
+146.84
+Vercalsteren Kurt
+M
+187
+blond
+133.58
+Vercammen Kris
+M
+168
+zwart
+67.7
+Vercammen Wim
+M
+167
+bruin
+199.07
+Verellen Annemie
+M
+183
+bruin
+140.61
+Verellen Eddy
+V
+190
+rood
+231.12
+Verellen Gert
+M
+174
+bruin
+221.83
+Verellen Guido
+M
+166
+blond
+71.36
+Verellen Sam
+M
+190
+bruin
+111.96
+Verhaegen Kris
+M
+158
+zwart
+187.55
+Verhaegen Michael
+M
+193
+zwart
+135.86
+Verhaegen Pieter
+M
+179
+blond
+23.48
+Verhaert Bart
+M
+164
+zwart
+134.13
+Verhaert Johan
+M
+184
+blond
+215.85
+Verhaert Yves
+V
+159
+blond
+40.33
+Verheijen Kristof
+M
+160
+bruin
+240.93
+Verheijen Raf
+M
+181
+blond
+42.94
+Verheijen Stefan
+M
+184
+bruin
+243.64
+Verheijen Wim
+M
+189
+bruin
+207.17
+Verherstraeten Koen
+M
+195
+zwart
+181.17
+Verherstraeten Steven
+M
+155
+blond
+30.95
+Verherstraeten Stijn
+M
+179
+bruin
+170.15
+Verherstraeten Winny
+M
+194
+kaal
+217.76
+Verheyden Herwig
+M
+154
+bruin
+95.92
+Verheyden Jan
+M
+181
+blond
+245.52
+Verheyden Jan
+M
+181
+bruin
+64.28
+Verheyen Anneke
+M
+184
+rood
+111.83
+Verheyen Bart
+M
+190
+blond
+57.11
+Verheyen Erwin
+V
+170
+bruin
+175.24
+Verheyen Herman
+M
+182
+bruin
+197.55
+Verheyen Koen
+M
+161
+blond
+48.79
+Verheyen Kris
+V
+159
+bruin
+126.25
+Verhoeven Bert
+M
+184
+bruin
+23.36
+Verhoeven Jan
+M
+150
+blond
+72.09
+Verlinden Hans
+V
+180
+bruin
+95.09
+Verlinden Koen
+M
+173
+blond
+154.5
+Vermeir Gerald
+M
+185
+kaal
+70.84
+Vermeir Jos
+M
+177
+zwart
+145.83
+Vermeiren Han
+M
+166
+zwart
+82.52
+Vermeiren Michel
+V
+198
+bruin
+26.74
+Vermetten Joachim
+X
+150
+bruin
+79.17
+Vermetten Jurgen
+M
+186
+bruin
+197.46
+Vermetten Natasja
+M
+175
+bruin
+228.31
+Vermetten Pieter
+M
+166
+blond
+49.57
+Vermetten Wim
+M
+170
+rood
+56.39
+Vermeulen Bob
+M
+181
+blond
+115.63
+Vermeulen Francis
+M
+172
+zwart
+157.62
+Vermeyen Liesbeth
+M
+185
+zwart
+142.61
+Vermeylen Wim
+M
+167
+bruin
+69.91
+Vermierdt Davy
+M
+193
+bruin
+59.14
+Vermierdt Kathleen
+M
+198
+blond
+191.82
+Vermierdt Werner
+M
+190
+blond
+109.95
+Vernelen Frank
+M
+174
+bruin
+177.6
+Vernelen Koen
+M
+180
+blond
+101.4
+Vernelen Patrick
+M
+184
+blond
+201.1
+Verreet Hans
+M
+189
+rood
+28.28
+Versmissen Helga
+M
+151
+bruin
+124.95
+Verstrepen Arne
+M
+150
+blond
+57.74
+Verstrepen Dominique
+M
+162
+rood
+248.86
+Verstrepen Marc
+M
+157
+rood
+155.42
+Vervecken Leon
+V
+186
+kaal
+138.03
+Vervecken Patrick
+M
+179
+bruin
+79.1
+Vervoort Bart
+M
+197
+bruin
+207.84
+Vervoort Bob
+V
+154
+zwart
+56.56
+Vervoort Bram
+V
+168
+blond
+117.22
+Vervoort Davy
+M
+160
+bruin
+144
+Vervoort Ivan
+M
+160
+blond
+145.04
+Vervoort Jef
+M
+162
+blond
+86.39
+Vervoort Jo
+M
+178
+blond
+200.92
+Vervoort Johan
+M
+173
+bruin
+245.05
+Vervoort Kris
+M
+193
+blond
+56.22
+Vervoort Kris
+V
+167
+bruin
+213.93
+Vervoort kristof
+M
+190
+zwart
+123.31
+Vervoort Luc
+M
+177
+blond
+76.84
+Vervoort Mark
+V
+164
+bruin
+68.98
+Vervrangen Jan
+M
+180
+zwart
+81.66
+Vervrangen Lieve
+M
+152
+kaal
+32.98
+Vervrangen Wouter
+M
+167
+bruin
+213.78
+Verwaest Vira
+M
+171
+bruin
+189.12
+Verwimp Gert
+M
+199
+bruin
+109.53
+Verwimp Hilde
+V
+159
+kaal
+201.88
+Verwimp Jan
+M
+168
+rood
+201.45
+Verwimp Kris
+M
+162
+bruin
+169.5
+Verwimp Paul
+M
+173
+bruin
+116.95
+Vets Nicolaas
+M
+195
+zwart
+156.29
+Vissers Edwin
+M
+160
+bruin
+54.66
+Vissers Joris
+M
+170
+blond
+122.16
+Vissers Kurt
+M
+176
+bruin
+22.18
+Vissers Ronny
+M
+166
+blond
+60.99
+Vleugels Benny
+M
+175
+rood
+161.13
+Vleugels Bert
+M
+170
+zwart
+177.3
+Vleugels Davy
+M
+193
+rood
+75.19
+Vleugels Dries
+M
+194
+blond
+170.13
+Vleugels Geert
+M
+184
+blond
+43.63
+Vleugels Rob
+M
+165
+zwart
+97.35
+Vleugels Tom
+M
+175
+rood
+239.06
+Vliegen Peter
+M
+199
+blond
+227.44
+Vliegen Wim
+V
+156
+rood
+186.77
+Voortmans Guy
+M
+161
+rood
+28.97
+Vorstermans Erik
+M
+154
+zwart
+130.29
+Vorstermans Frans
+M
+165
+kaal
+107.86
+Vorstermans Geert
+M
+167
+rood
+36.11
+Vos Bart
+M
+182
+zwart
+248.53
+Vos Geert
+M
+157
+bruin
+167.31
+Vos Kristoff
+M
+188
+bruin
+128.46
+Vos Tim
+M
+195
+bruin
+221.15
+Vranckx Peter
+V
+163
+rood
+125.78
+Vranckx Tim
+M
+153
+zwart
+128.11
+Vranken Daniel
+M
+171
+blond
+106.73
+Vreys Benny
+M
+164
+bruin
+63.08
+Vreys David
+M
+160
+blond
+241.84
+Vreys Isabel
+M
+152
+blond
+63.42
+Vreys Joeri
+M
+195
+bruin
+69.19
+Vreys Johan
+V
+192
+rood
+26.69
+Vreys Mark
+M
+180
+rood
+135.37
+Vuegen Dieter
+M
+185
+zwart
+139.23
+Vuegen Jaak
+M
+194
+bruin
+112.38
+Vuegen Wilhelmina
+M
+187
+bruin
+213.75
+Vueghs Bert
+M
+186
+kaal
+194.61
+Vueghs Gert
+M
+168
+zwart
+58.63
+Vueghs Stijn
+M
+190
+blond
+220.01
+Vyt Guido
+M
+159
+rood
+182.7
+Waelbers Joël
+V
+174
+blond
+161.82
+Walpot Maarten
+M
+185
+bruin
+66.03
+Wauters Koen
+M
+196
+bruin
+78.11
+Weckx Annick
+M
+153
+blond
+217.89
+Weckx Bart
+V
+171
+zwart
+153.3
+Weckx Ismaël
+M
+194
+bruin
+57.68
+Weckx Jan
+M
+180
+blond
+82.31
+Weckx Koen
+M
+181
+blond
+140.7
+Weckx Ruben
+M
+150
+bruin
+99.81
+Weetjens Inge
+M
+176
+rood
+230.39
+Weuts Bart
+M
+155
+rood
+177.23
+Weuts Raf
+M
+170
+rood
+212.17
+Wijnen Ludwig
+M
+178
+blond
+63.65
+Willekens Dennis
+V
+179
+kaal
+58.44
+Willekens Herman
+M
+154
+bruin
+207.73
+Willemoons Dirk
+M
+187
+blond
+51.89
+Willems Andre
+M
+188
+bruin
+70.21
+Willems Erwin
+M
+157
+blond
+234.32
+Willems Hans
+M
+164
+zwart
+234.24
+Willems Ivo
+M
+164
+zwart
+200.68
+Willems Jo
+M
+155
+kaal
+112.25
+Willems Joeri
+M
+188
+bruin
+177.34
+Willems Rudi
+M
+151
+blond
+78.02
+Wilms Christel
+M
+192
+bruin
+45.86
+Wilms Dirk
+M
+152
+blond
+249.14
+Wilms Ivo
+M
+170
+zwart
+106.31
+Wilms Jorgen
+M
+170
+blond
+154.44
+Wilms Wouter
+M
+186
+blond
+146.8
+Winters Giovanni
+M
+167
+bruin
+187.89
+Winters Koen
+M
+176
+bruin
+241.12
+Winters Marco
+M
+157
+bruin
+238.79
+Wirix Peter
+M
+182
+kaal
+247.35
+Witters Christophe
+V
+165
+zwart
+111.68
+Witters Gunther
+M
+160
+blond
+71.13
+Witters Wim
+M
+191
+rood
+184.91
+Witvrouwen Bert
+M
+183
+blond
+86.49
+Witvrouwen Gunther
+M
+190
+bruin
+76.85
+Wouters Bart
+M
+162
+zwart
+141.59
+Wouters Bert
+M
+186
+blond
+186.09
+Wouters Bert
+M
+190
+zwart
+151.52
+Wouters Danny
+M
+199
+bruin
+114.31
+Wouters Diane
+M
+170
+rood
+208.88
+Wouters Gerry
+M
+180
+zwart
+61.92
+Wouters Gino
+M
+188
+bruin
+204.75
+Wouters Iris
+M
+151
+zwart
+60.94
+Wouters Jan
+M
+198
+bruin
+101.11
+Wouters Mario
+M
+169
+bruin
+213.3
+Wouters Peter
+M
+184
+bruin
+238.09
+Wuyts Bjorn
+M
+151
+zwart
+32.83
+Wuyts Koen
+M
+162
+rood
+136.47
+Wuyts Manuel
+M
+191
+bruin
+162.52
+Wuyts Paul
+M
+159
+zwart
+202.88
+Wynants Frank
+M
+164
+bruin
+179.74
+Wynants Geert
+M
+197
+bruin
+38.78
+Wynants Jeroen
+M
+172
+bruin
+53.44
+Wynants Kris
+M
+172
+bruin
+42.91
+Wynants Stefan
+M
+191
+rood
+152.66
+Wynants Tonny
+M
+190
+blond
+163.78
+Wynen Els
+M
+168
+rood
+157.88
+Wynen Ronny
+V
+190
+bruin
+74.39
+Zeelmaekers Jan
+V
+161
+bruin
+58.39

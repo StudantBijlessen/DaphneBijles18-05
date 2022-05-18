@@ -1,0 +1,8820 @@
+Abels Wim
+M
+184
+blond
+Huiskat
+Adams Dominique
+M
+193
+bruin
+Duitse Herder
+Adams Gert
+M
+186
+blond
+Hamster
+Adams Walter
+M
+158
+bruin
+Mechelse herder
+Adriaensen Bert
+M
+152
+blond
+Cavia
+Adriaensen Geert
+M
+178
+bruin
+Dwergkonijn
+Adriaensen Kristof
+M
+193
+zwart
+Huiskat
+Adriaensen Laurens
+M
+163
+bruin
+Duitse Herder
+Adriaensen Rudi
+V
+153
+zwart
+Groenendaeler
+Aernouts Tom
+M
+197
+blond
+Perzische kat
+Aerts Dirk
+M
+189
+rood
+Hangbuikzwijn
+Aerts Frank
+M
+152
+zwart
+Poedel
+Aerts Jan
+M
+179
+bruin
+Hangbuikzwijn
+Aerts Koen
+M
+181
+rood
+Poedel
+Aerts Kurt
+M
+176
+bruin
+Mechelse herder
+Aerts Patrick
+M
+162
+bruin
+Hangbuikzwijn
+Aerts Pieter
+M
+171
+zwart
+Dwergkonijn
+Aerts Stanny
+V
+195
+blond
+Duitse Herder
+Alaerts Raf
+M
+176
+zwart
+Perzische kat
+Alenteyns Johan
+M
+155
+bruin
+Siamese kat
+Alenteyns Wim
+M
+154
+zwart
+Dwergkonijn
+Anrijs Jan
+M
+195
+zwart
+Groenendaeler
+Ascione Jo
+M
+186
+bruin
+Poedel
+Ascione Tom
+M
+186
+zwart
+Perzische kat
+Aznag Dirk
+V
+181
+blond
+Groenendaeler
+Backx Bert
+M
+187
+blond
+Siamese kat
+Backx Rudi
+M
+182
+bruin
+Perzische kat
+Backx Tom
+M
+189
+kaal
+Siamese kat
+Baelen Dymphna
+M
+180
+bruin
+Groenendaeler
+Baelus Wim
+M
+172
+blond
+Dwergkonijn
+Baeyens Inge
+M
+178
+bruin
+Duitse Herder
+Baeyens Jan
+M
+164
+zwart
+Hamster
+Baeyens Paul
+M
+185
+zwart
+Afghaanse windhond
+Bakelants Geert
+M
+189
+zwart
+Cavia
+Banier Koen
+M
+192
+kaal
+Groenendaeler
+Banier Michael
+M
+185
+zwart
+Cavia
+Baptist Wouter
+M
+188
+bruin
+Groenendaeler
+Bartholomeus Nico
+M
+163
+bruin
+Dwergkonijn
+Bastiaens Carlo
+M
+168
+blond
+Perzische kat
+Bastiaens Kristoff
+V
+158
+rood
+Duitse Herder
+Bastiaens Wouter
+M
+170
+bruin
+Hangbuikzwijn
+Bastiaensen Johan
+M
+155
+bruin
+Duitse Herder
+Bastiaensen Johan
+M
+180
+bruin
+Hamster
+Bastin Koen
+M
+184
+bruin
+Huiskat
+Beckers Carlo
+M
+195
+rood
+Hamster
+Beckers Filip
+M
+156
+bruin
+Perzische kat
+Beckers Geert
+V
+187
+zwart
+Dwergkonijn
+Beckers Ludo
+V
+197
+blond
+Hangbuikzwijn
+Beckers Wim
+M
+161
+rood
+Groenendaeler
+Beets Benny
+M
+163
+zwart
+Dwergkonijn
+Bekaert Peter
+M
+158
+zwart
+Poedel
+Belckx Chris
+M
+172
+rood
+Cavia
+Belckx Erik
+M
+189
+zwart
+Mechelse herder
+Belmans Benny
+M
+195
+zwart
+Groenendaeler
+Belmans Carl
+V
+155
+blond
+Groenendaeler
+Belmans Dave
+M
+191
+blond
+Huiskat
+Belmans Dimitri
+M
+162
+bruin
+Huiskat
+Belmans Koenraad
+M
+181
+bruin
+Afghaanse windhond
+Bemelmans Kristof
+M
+194
+zwart
+Dwergkonijn
+Bemelmans Tom
+M
+172
+bruin
+Hamster
+Beneens Jan
+M
+180
+blond
+Duitse Herder
+Beneens Marc
+M
+197
+rood
+Cavia
+Berckmans Jason
+V
+170
+bruin
+Afghaanse windhond
+Berghmans Filip
+M
+178
+blond
+Cavia
+Berghmans Frank
+M
+181
+bruin
+Mechelse herder
+Berghmans Tim
+V
+195
+zwart
+Poedel
+Bertels Bart
+M
+183
+blond
+Perzische kat
+Bertels Bert
+M
+193
+blond
+Afghaanse windhond
+Bertels Herman
+V
+176
+bruin
+Hangbuikzwijn
+Bertels Suzy
+V
+157
+bruin
+Mechelse herder
+Bervoets Bart
+M
+153
+bruin
+Cavia
+Bervoets Philip
+M
+176
+bruin
+Hangbuikzwijn
+Bervoets Silvia
+M
+196
+zwart
+Groenendaeler
+Beutels Rainer
+M
+184
+bruin
+Dwergkonijn
+Bex Diane
+M
+180
+blond
+Afghaanse windhond
+Bex Hans
+M
+189
+bruin
+Siamese kat
+Beyens An
+M
+173
+zwart
+Poedel
+Beyens Filip
+M
+158
+bruin
+Perzische kat
+Beyens Luc
+M
+193
+kaal
+Poedel
+Beyens Stijn
+M
+174
+blond
+Cavia
+Beylemans Mario
+M
+171
+kaal
+Groenendaeler
+Beylemans Michel
+V
+160
+blond
+Poedel
+Bielen Kim
+M
+178
+blond
+Hamster
+Biermans Ivan
+M
+159
+kaal
+Cavia
+Biesemans Kathleen
+M
+154
+bruin
+Hangbuikzwijn
+Biesemans Tom
+M
+172
+bruin
+Dwergkonijn
+Blancquaert Benny
+M
+180
+kaal
+Hamster
+Blancquaert Guido
+M
+166
+bruin
+Duitse Herder
+Bloemen Inge
+M
+163
+blond
+Huiskat
+Bloemen Marc
+M
+194
+bruin
+Hangbuikzwijn
+Bloemen Yannick
+M
+194
+rood
+Huiskat
+Boddou Tom
+M
+158
+bruin
+Hamster
+Boeckx David
+M
+172
+bruin
+Afghaanse windhond
+Boekee Peter
+M
+183
+rood
+Dwergkonijn
+Boënne Abdelmajid
+M
+185
+blond
+Afghaanse windhond
+Boënne Geert
+M
+190
+zwart
+Poedel
+Boey Ivan
+M
+176
+zwart
+Dwergkonijn
+Bollen Bert
+V
+154
+kaal
+Dwergkonijn
+Bollen Geert
+M
+167
+rood
+Mechelse herder
+Bollen Luc
+M
+165
+blond
+Perzische kat
+Bollen Nico
+M
+165
+blond
+Perzische kat
+Bollen Raf
+M
+169
+bruin
+Dwergkonijn
+Boonen Bart
+M
+161
+bruin
+Mechelse herder
+Boonen Guy
+M
+188
+zwart
+Hamster
+Boonen Inge
+M
+156
+kaal
+Afghaanse windhond
+Boonen Sebastiaan
+M
+181
+zwart
+Perzische kat
+Boons Stijn
+V
+168
+zwart
+Hangbuikzwijn
+Boons Tim
+M
+173
+bruin
+Hangbuikzwijn
+Borghs Carlo
+M
+164
+kaal
+Groenendaeler
+Borghs Christien
+M
+179
+blond
+Hangbuikzwijn
+Borodaiko Bart
+M
+153
+zwart
+Hamster
+Borowski Roel
+M
+194
+bruin
+Dwergkonijn
+Bos Andreas
+M
+186
+bruin
+Perzische kat
+Boschmans Davy
+M
+169
+zwart
+Duitse Herder
+Boschmans Jozef
+M
+167
+blond
+Hamster
+Boskin Maria
+M
+183
+bruin
+Groenendaeler
+Bosmans Carl
+M
+190
+blond
+Hangbuikzwijn
+Bosmans Eric
+M
+168
+zwart
+Afghaanse windhond
+Bosmans Kristof
+M
+161
+blond
+Siamese kat
+Bosmans Sandra
+M
+192
+blond
+Afghaanse windhond
+Boulliard Jan
+M
+191
+blond
+Huiskat
+Boulliard Jan
+V
+170
+bruin
+Siamese kat
+Bouwen Koen
+V
+156
+rood
+Huiskat
+Bouwen Tonny
+M
+177
+bruin
+Perzische kat
+Bouwens Bas
+M
+151
+bruin
+Hamster
+Bouwens Eddy
+V
+170
+blond
+Hangbuikzwijn
+Bouwens Gunther
+M
+193
+bruin
+Perzische kat
+Bové Frank
+M
+174
+blond
+Poedel
+Bové Jan
+M
+166
+bruin
+Afghaanse windhond
+Bové Stefan
+M
+184
+rood
+Cavia
+Boven Guy
+M
+188
+blond
+Afghaanse windhond
+Branders Geert
+M
+154
+bruin
+Huiskat
+Brebels Dieter
+M
+168
+bruin
+Dwergkonijn
+Bresseleers Carlo
+M
+192
+zwart
+Hangbuikzwijn
+Bresseleers Kim
+M
+194
+blond
+Perzische kat
+Bresseleers Kristof
+V
+185
+bruin
+Huiskat
+Bresseleers Luc
+M
+189
+blond
+Cavia
+Bresseleers Marc
+M
+187
+blond
+Hangbuikzwijn
+Bresseleers Tim
+M
+175
+zwart
+Poedel
+Bresseleers Tom
+M
+172
+bruin
+Groenendaeler
+Breugelmans Ilse
+M
+181
+bruin
+Cavia
+Breugelmans Kurt
+M
+171
+zwart
+Dwergkonijn
+Breugelmans Michel
+V
+192
+bruin
+Cavia
+Breugelmans Yves
+M
+158
+bruin
+Groenendaeler
+Broeckx Gerd
+M
+161
+zwart
+Mechelse herder
+Broeckx Raf
+M
+180
+bruin
+Huiskat
+Broens Guido
+M
+177
+blond
+Groenendaeler
+Broens Wim
+M
+165
+bruin
+Dwergkonijn
+Broens Wim
+M
+190
+rood
+Perzische kat
+Broothaerts Guy
+M
+183
+blond
+Mechelse herder
+Broothaerts Nico
+M
+184
+blond
+Hamster
+Brouwers Danny
+M
+186
+blond
+Poedel
+Brouwers Herman
+M
+195
+zwart
+Hamster
+Bruers Jan
+M
+163
+blond
+Groenendaeler
+Bruers Marc
+M
+151
+bruin
+Groenendaeler
+Brughmans Kathleen
+M
+188
+blond
+Poedel
+Buelens Jan
+V
+177
+blond
+Poedel
+Bussé Gie
+M
+195
+zwart
+Afghaanse windhond
+Bussé Jo
+M
+172
+bruin
+Hamster
+Bussé Minny
+M
+186
+blond
+Duitse Herder
+Buts Jan
+M
+184
+blond
+Groenendaeler
+Cabanier Joeri
+V
+153
+zwart
+Hangbuikzwijn
+Cabanier Stijn
+M
+157
+bruin
+Afghaanse windhond
+Caers Ann
+M
+175
+rood
+Poedel
+Caers Peter
+M
+171
+rood
+Hangbuikzwijn
+Caes Yves
+M
+173
+blond
+Cavia
+Calaerts Stefan
+M
+190
+zwart
+Poedel
+Campo Kristel
+V
+157
+bruin
+Siamese kat
+Cannaerts Hans
+M
+193
+blond
+Dwergkonijn
+Canol Jan
+M
+161
+zwart
+Poedel
+Casteels Bert
+M
+163
+zwart
+Dwergkonijn
+Casteels Steven
+M
+196
+bruin
+Huiskat
+Cautereels Bert
+M
+183
+rood
+Siamese kat
+Cautereels Michel
+M
+189
+blond
+Cavia
+Cauwels Tom
+M
+198
+blond
+Afghaanse windhond
+Cauwels Tom
+M
+199
+bruin
+Cavia
+Ceelen Dirk
+M
+180
+zwart
+Afghaanse windhond
+Cerckel Bjorn
+V
+194
+bruin
+Perzische kat
+Cerckel Ralf
+M
+152
+blond
+Groenendaeler
+Cerckel Willy
+M
+196
+zwart
+Poedel
+Ceulemans Michel
+M
+173
+rood
+Groenendaeler
+Ceusters Bert
+M
+174
+bruin
+Afghaanse windhond
+Ceusters Jimmy
+M
+167
+bruin
+Afghaanse windhond
+Ceusters Sonja
+M
+195
+zwart
+Hamster
+Ceusters Stefan
+M
+152
+blond
+Afghaanse windhond
+Christianen Dirk
+M
+163
+bruin
+Cavia
+Christianen Rudi
+M
+176
+bruin
+Duitse Herder
+Christianen Serge
+M
+197
+blond
+Hamster
+Christianen Steven
+M
+157
+blond
+Groenendaeler
+Claes Bart
+M
+165
+bruin
+Huiskat
+Claes Filip
+M
+162
+blond
+Afghaanse windhond
+Claes Jo
+M
+186
+bruin
+Huiskat
+Claes Rina
+M
+167
+zwart
+Perzische kat
+Claes Stijn
+M
+158
+blond
+Hangbuikzwijn
+Claes Tom
+M
+160
+blond
+Hangbuikzwijn
+Claes Wouter
+M
+164
+blond
+Hamster
+Clemens Geert
+M
+183
+rood
+Duitse Herder
+Cleynhens Kristof
+M
+164
+bruin
+Poedel
+Clonen Patrick
+M
+193
+rood
+Duitse Herder
+Coenen Frank
+V
+167
+blond
+Dwergkonijn
+Coenen Jo
+M
+151
+bruin
+Groenendaeler
+Coenen Luc
+M
+171
+blond
+Cavia
+Coenen Tim
+M
+198
+blond
+Afghaanse windhond
+Conderaerts Johnny
+M
+167
+zwart
+Dwergkonijn
+Coninx Luc
+M
+178
+blond
+Poedel
+Coninx Nadine
+M
+158
+blond
+Siamese kat
+Conjaerts Ann
+M
+153
+zwart
+Afghaanse windhond
+Conjaerts Geert
+M
+156
+blond
+Hamster
+Conjaerts Gert
+M
+191
+blond
+Siamese kat
+Conjaerts Marc
+M
+174
+bruin
+Hamster
+Convens Jos
+M
+176
+kaal
+Groenendaeler
+Convens Laurens
+M
+151
+zwart
+Siamese kat
+Cools Bart
+M
+172
+blond
+Mechelse herder
+Cools Tom
+M
+157
+zwart
+Perzische kat
+Cools Yvan
+M
+178
+bruin
+Hamster
+Coomans Bart
+M
+181
+bruin
+Poedel
+Coremans Yves
+M
+153
+kaal
+Perzische kat
+Corens Kristof
+M
+168
+zwart
+Huiskat
+Cornelis Katrien
+V
+191
+bruin
+Huiskat
+Corthout Mike
+M
+152
+zwart
+Afghaanse windhond
+Corthouts Greta
+M
+153
+blond
+Afghaanse windhond
+Corthouts Rudi
+V
+158
+rood
+Mechelse herder
+Corvers Tom
+M
+155
+bruin
+Hangbuikzwijn
+Cox Walter
+M
+192
+bruin
+Mechelse herder
+Croonen Jan
+M
+157
+bruin
+Siamese kat
+Croonen Tom
+M
+187
+bruin
+Dwergkonijn
+Croonenborghs Geert
+M
+167
+blond
+Hangbuikzwijn
+Croonenborghs Peter
+M
+169
+zwart
+Groenendaeler
+Croonenborghs Werner
+M
+179
+bruin
+Hangbuikzwijn
+Custers Ben
+M
+158
+zwart
+Huiskat
+Custers Gert
+M
+187
+blond
+Hamster
+Custers Tim
+M
+174
+zwart
+Perzische kat
+Cuvillier Raf
+M
+157
+blond
+Cavia
+Cuypers Danny
+M
+199
+bruin
+Perzische kat
+Cuypers Filip
+M
+176
+blond
+Siamese kat
+Cuypers Geert
+M
+194
+blond
+Groenendaeler
+Cuypers Jan
+M
+150
+zwart
+Siamese kat
+Cuypers Katrien
+M
+179
+bruin
+Siamese kat
+Cuypers Kristof
+M
+154
+kaal
+Huiskat
+Cuypers Kristof
+M
+162
+zwart
+Mechelse herder
+Cuypers Yves
+M
+179
+blond
+Duitse Herder
+Cuyvers Dirk
+V
+152
+bruin
+Dwergkonijn
+Cuyvers Jan
+V
+151
+kaal
+Huiskat
+Daems Dirk
+M
+189
+kaal
+Cavia
+Daems Filip
+V
+171
+blond
+Huiskat
+Daems Hermes
+V
+161
+kaal
+Cavia
+Daems Ivan
+V
+197
+bruin
+Cavia
+Daems Jan
+M
+177
+rood
+Huiskat
+Daems Marc
+M
+185
+blond
+Perzische kat
+Daems Marco
+M
+162
+kaal
+Dwergkonijn
+Daems Pieter
+M
+151
+blond
+Afghaanse windhond
+Daems Werner
+M
+157
+rood
+Cavia
+Dams Christel
+M
+194
+bruin
+Siamese kat
+Dams Davy
+M
+182
+bruin
+Hangbuikzwijn
+Dams Frank
+M
+163
+bruin
+Duitse Herder
+Dams Greet
+M
+176
+rood
+Afghaanse windhond
+Dams Jan
+V
+184
+blond
+Afghaanse windhond
+Dams Kurt
+M
+169
+bruin
+Dwergkonijn
+Dams Mario
+M
+173
+zwart
+Hamster
+Dams Wim
+M
+153
+zwart
+Groenendaeler
+De Backer Stefan
+M
+196
+zwart
+Mechelse herder
+De Bal Mike
+M
+156
+zwart
+Huiskat
+De Bock Nico
+M
+185
+blond
+Cavia
+De Bock Sven
+M
+191
+blond
+Poedel
+De Boel Dieter
+V
+175
+bruin
+Groenendaeler
+De Canck Patrick
+M
+173
+bruin
+Duitse Herder
+De Cat Pascal
+M
+190
+blond
+Mechelse herder
+De Cauter Philippe
+V
+171
+zwart
+Dwergkonijn
+De Ceuster Tom
+M
+171
+blond
+Huiskat
+De Cnodder Betty
+M
+159
+blond
+Duitse Herder
+De Deyne Raf
+V
+161
+blond
+Afghaanse windhond
+De Feyter Koenraad
+M
+181
+zwart
+Mechelse herder
+De Feyter Mark
+M
+163
+zwart
+Mechelse herder
+De Feyter Paul
+M
+176
+bruin
+Perzische kat
+De Gendt Hugo
+M
+187
+bruin
+Dwergkonijn
+De Groof Gerd
+M
+154
+blond
+Siamese kat
+De l'Arbre Kris
+M
+172
+blond
+Poedel
+De l'Arbre Kristiaan
+M
+155
+bruin
+Duitse Herder
+De Meester Erik
+M
+154
+blond
+Cavia
+De Meester Jeroen
+M
+150
+zwart
+Perzische kat
+De Meester Koen
+M
+153
+blond
+Afghaanse windhond
+De Meester Stefan
+M
+187
+bruin
+Cavia
+De Meulder Peter
+M
+152
+bruin
+Cavia
+De Preter Steven
+M
+153
+bruin
+Hangbuikzwijn
+De Preter Tom
+M
+170
+blond
+Cavia
+De Raet Ismaël
+M
+196
+rood
+Huiskat
+De Ryck Gert
+M
+185
+bruin
+Afghaanse windhond
+De Ryck Jan
+M
+178
+bruin
+Hangbuikzwijn
+De Ryck Jozef
+M
+161
+zwart
+Dwergkonijn
+De Ryck Marc
+M
+189
+bruin
+Hangbuikzwijn
+De Schrijver Sandy
+M
+197
+blond
+Poedel
+De Schutter Bram
+M
+156
+bruin
+Siamese kat
+De Vocht Philip
+M
+157
+zwart
+Groenendaeler
+De Vocht Ronny
+V
+160
+blond
+Siamese kat
+De Vries Christiaan
+M
+188
+bruin
+Cavia
+De Vries Guy
+M
+189
+rood
+Groenendaeler
+De Weerdt Carl
+M
+198
+zwart
+Mechelse herder
+De Weerdt Mark
+M
+155
+bruin
+Dwergkonijn
+De Weerdt Wouter
+M
+183
+blond
+Dwergkonijn
+De Wever Liesbet
+M
+197
+bruin
+Mechelse herder
+De Wever Tom
+M
+174
+bruin
+Afghaanse windhond
+De Win Micha
+M
+150
+bruin
+Hangbuikzwijn
+De Winter Mike
+M
+192
+zwart
+Mechelse herder
+De Winter Stevy
+M
+174
+rood
+Perzische kat
+Debard Michel
+M
+181
+rood
+Poedel
+Deboel Dimitri
+M
+187
+bruin
+Afghaanse windhond
+Deboel Dominic
+M
+198
+bruin
+Hangbuikzwijn
+Deboel Raf
+M
+187
+bruin
+Perzische kat
+Deboel Wim
+M
+151
+blond
+Perzische kat
+Deboel Wouter
+M
+171
+rood
+Hangbuikzwijn
+Debrboven Jan
+M
+160
+blond
+Poedel
+Deckx Ann
+M
+188
+rood
+Duitse Herder
+Deckx Wim
+M
+199
+blond
+Hangbuikzwijn
+Dedoyard Erwin
+M
+199
+rood
+Mechelse herder
+Dedoyard Johan
+M
+199
+zwart
+Siamese kat
+Dedoyard Joris
+M
+151
+blond
+Cavia
+Deferm Jan
+M
+155
+bruin
+Mechelse herder
+Deferm Rudi
+V
+168
+blond
+Hangbuikzwijn
+Deferme Bart
+V
+175
+bruin
+Perzische kat
+Dekelver Jelle
+V
+199
+bruin
+Afghaanse windhond
+Dekelver Jo
+M
+172
+blond
+Hangbuikzwijn
+Dekelver Joeri
+M
+162
+blond
+Huiskat
+Dekelver Luc
+M
+181
+rood
+Groenendaeler
+Delagaye Geert
+V
+195
+blond
+Groenendaeler
+Delen Gunther
+M
+197
+bruin
+Hangbuikzwijn
+Demuynck Bart
+M
+187
+bruin
+Afghaanse windhond
+Demuynck Rutger
+M
+151
+blond
+Cavia
+Demuynck Tony
+M
+187
+blond
+Siamese kat
+Depotter Bart
+M
+168
+zwart
+Siamese kat
+Depotter Patrick
+M
+181
+bruin
+Cavia
+Derboven Tom
+M
+186
+rood
+Perzische kat
+Desair An
+M
+161
+bruin
+Perzische kat
+Deswert Raf
+M
+154
+bruin
+Perzische kat
+Devenijns Mario
+M
+172
+bruin
+Hangbuikzwijn
+Devenijns Werner
+M
+184
+zwart
+Huiskat
+Dielis Hans
+M
+159
+rood
+Dwergkonijn
+Diels Guido
+V
+174
+zwart
+Groenendaeler
+Diels Koen
+M
+161
+rood
+Afghaanse windhond
+Diels Luc
+M
+157
+blond
+Hangbuikzwijn
+Diels Marie-Jeanne
+M
+161
+blond
+Hamster
+Diels Peter
+V
+199
+bruin
+Mechelse herder
+Dierckx Marie-Jeanne
+M
+169
+rood
+Duitse Herder
+Dierckx Peter
+V
+168
+bruin
+Cavia
+Dilissen Bruno
+M
+171
+rood
+Dwergkonijn
+Dilissen Dieter
+M
+180
+blond
+Groenendaeler
+Dille Bart
+M
+160
+bruin
+Perzische kat
+Dille Johan
+V
+179
+kaal
+Duitse Herder
+Dillen Bart
+M
+161
+blond
+Dwergkonijn
+Dillen Stijn
+M
+164
+bruin
+Mechelse herder
+Dirckx Nico
+M
+150
+zwart
+Siamese kat
+D'Joos Paul
+M
+198
+blond
+Siamese kat
+Don Porto Carero Walter
+M
+170
+bruin
+Siamese kat
+Donckers Saskia
+M
+176
+zwart
+Dwergkonijn
+Douwen Gert
+M
+165
+blond
+Duitse Herder
+Douwen Kris
+M
+162
+bruin
+Siamese kat
+Douwen Werner
+M
+159
+rood
+Mechelse herder
+Draulans Inge
+M
+175
+bruin
+Mechelse herder
+Drees Bart
+M
+160
+zwart
+Duitse Herder
+Drees Kristel
+M
+174
+blond
+Afghaanse windhond
+Drees William
+M
+171
+blond
+Perzische kat
+Dreesen Eddy
+M
+151
+zwart
+Afghaanse windhond
+Dries Koen
+M
+152
+zwart
+Groenendaeler
+Dries Sonja
+V
+151
+zwart
+Siamese kat
+Driesen Kris
+M
+171
+blond
+Hamster
+Duchamps Dirk
+M
+188
+bruin
+Siamese kat
+Duchamps Kurt
+M
+184
+bruin
+Cavia
+Dumon Kurt
+M
+174
+blond
+Huiskat
+Dyckmans Davy
+M
+153
+bruin
+Duitse Herder
+Dyckmans Fabrice
+M
+178
+blond
+Huiskat
+Dyckmans Johan
+M
+178
+rood
+Duitse Herder
+Dyckmans Kristel
+V
+196
+bruin
+Cavia
+Eelen Jelle
+M
+156
+blond
+Hangbuikzwijn
+Eelen Koen
+M
+167
+blond
+Cavia
+Eelen Niels
+M
+188
+bruin
+Poedel
+Eerdekens Benny
+M
+159
+bruin
+Cavia
+Eerdekens Wendy
+M
+193
+blond
+Afghaanse windhond
+Eijkelenberg Dirk
+M
+164
+bruin
+Duitse Herder
+Elen Franky
+M
+165
+rood
+Cavia
+Elen Jan
+M
+156
+bruin
+Afghaanse windhond
+Elen Thomas
+M
+177
+blond
+Hamster
+Embrechts Gunter
+M
+167
+zwart
+Dwergkonijn
+Embrechts Patrick
+M
+197
+blond
+Mechelse herder
+Ennekens Luc
+M
+176
+bruin
+Mechelse herder
+Everaerts Gert
+M
+185
+blond
+Hamster
+Eyckens Rafael
+M
+180
+blond
+Siamese kat
+Eyckmans Inge
+V
+161
+blond
+Dwergkonijn
+Eyckmans Rob
+M
+162
+blond
+Perzische kat
+Eykens Patrick
+M
+170
+zwart
+Hamster
+Eykens Tom
+M
+163
+zwart
+Hamster
+Faes Jan
+M
+178
+bruin
+Hangbuikzwijn
+Faes Paul
+M
+171
+zwart
+Dwergkonijn
+Fagoo Paul
+M
+166
+blond
+Mechelse herder
+Fierens Wim
+V
+183
+blond
+Cavia
+Fleerackers Jurgen
+M
+177
+bruin
+Hangbuikzwijn
+Fleerackers Kim
+V
+151
+bruin
+Mechelse herder
+Flossie Benjamin
+M
+177
+zwart
+Afghaanse windhond
+Flossie Jan
+M
+183
+zwart
+Hangbuikzwijn
+Flossie Johan
+V
+179
+bruin
+Groenendaeler
+Flossie Paul
+M
+162
+blond
+Huiskat
+Francken David
+M
+154
+zwart
+Poedel
+Francken Michel
+M
+158
+blond
+Afghaanse windhond
+Francken Patrick
+M
+176
+zwart
+Dwergkonijn
+François Bart
+M
+155
+blond
+Perzische kat
+François Dirk
+M
+199
+bruin
+Huiskat
+François Filip
+M
+196
+bruin
+Perzische kat
+François Kristiaan
+M
+152
+zwart
+Huiskat
+François Pascal
+V
+164
+blond
+Dwergkonijn
+Garcet Wim
+M
+191
+blond
+Cavia
+Geboers Peter
+V
+159
+blond
+Mechelse herder
+Gebruers Guy
+M
+162
+blond
+Poedel
+Geenen Davy
+M
+193
+zwart
+Groenendaeler
+Geenen Tom
+M
+183
+bruin
+Groenendaeler
+Geenen Wim
+M
+172
+zwart
+Poedel
+Geenen Yannick
+M
+188
+zwart
+Hamster
+Geentjens Annemiek
+M
+158
+blond
+Groenendaeler
+Geentjens Jan
+M
+199
+blond
+Perzische kat
+Geentjens Luc
+M
+198
+bruin
+Groenendaeler
+Geentjens Martine
+V
+187
+zwart
+Poedel
+Geeraerts Annelies
+M
+184
+blond
+Groenendaeler
+Geeraerts Dirk
+M
+186
+rood
+Hamster
+Geerinckx Guy
+M
+195
+blond
+Duitse Herder
+Geerinckx Kurt
+M
+184
+bruin
+Huiskat
+Geerinckx Raf
+M
+171
+blond
+Cavia
+Geerts Gert
+M
+162
+bruin
+Hamster
+Geerts Kris
+M
+182
+bruin
+Hangbuikzwijn
+Geerts Steven
+M
+197
+bruin
+Hamster
+Genoe Rigobertus
+M
+159
+kaal
+Poedel
+Gerits Erwin
+M
+183
+zwart
+Perzische kat
+Gerits Kurt
+M
+181
+blond
+Cavia
+Geudens Christof
+M
+182
+rood
+Hangbuikzwijn
+Geudens Dimitri
+M
+175
+bruin
+Poedel
+Geudens Erwin
+M
+156
+zwart
+Siamese kat
+Geudens Gerry
+M
+184
+blond
+Duitse Herder
+Geudens Johan
+M
+185
+bruin
+Groenendaeler
+Geudens Jonathan
+M
+153
+bruin
+Cavia
+Geudens Koen
+V
+154
+rood
+Mechelse herder
+Geudens Ria
+M
+158
+bruin
+Perzische kat
+Geuens Steven
+M
+153
+bruin
+Perzische kat
+Geuens Theo
+M
+159
+bruin
+Siamese kat
+Geuens Tom
+M
+169
+kaal
+Hangbuikzwijn
+Geukens Dries
+M
+190
+rood
+Cavia
+Geukens Edwin
+M
+182
+zwart
+Huiskat
+Geukens Eric
+M
+192
+kaal
+Dwergkonijn
+Geukens Leen
+M
+151
+rood
+Huiskat
+Geukens Luc
+M
+152
+blond
+Huiskat
+Geukens Paul
+M
+175
+bruin
+Poedel
+Geukens Peter
+M
+163
+zwart
+Afghaanse windhond
+Geukens Stefan
+M
+150
+zwart
+Siamese kat
+Geukens Steven
+M
+154
+rood
+Siamese kat
+Geukens Sven
+M
+195
+rood
+Duitse Herder
+Geukens Thomas
+M
+175
+zwart
+Mechelse herder
+Geukens Tom
+M
+167
+bruin
+Duitse Herder
+Geukens Wim
+M
+183
+blond
+Afghaanse windhond
+Geypens Kurt
+M
+161
+blond
+Dwergkonijn
+Geys Bob
+M
+153
+blond
+Afghaanse windhond
+Geys Mike
+V
+163
+zwart
+Hangbuikzwijn
+Geysen Bart
+M
+188
+rood
+Duitse Herder
+Geysen Benny
+M
+166
+blond
+Dwergkonijn
+Geyskens Luc
+M
+185
+rood
+Huiskat
+Geyskens Wim
+M
+157
+zwart
+Cavia
+Geyzen Kurt
+M
+190
+bruin
+Duitse Herder
+Geyzen Ronny
+M
+179
+blond
+Hamster
+Gielen Adil
+M
+199
+rood
+Dwergkonijn
+Gielen Bart
+M
+190
+zwart
+Mechelse herder
+Gielen Gunther
+V
+192
+rood
+Huiskat
+Gielens Kim
+M
+157
+zwart
+Cavia
+Gijbels Erik
+M
+152
+bruin
+Groenendaeler
+Gijbels Frank
+M
+159
+rood
+Siamese kat
+Gijbels Jan
+M
+180
+blond
+Groenendaeler
+Gijbels Kristof
+M
+186
+bruin
+Poedel
+Gijbels Remco
+M
+178
+blond
+Afghaanse windhond
+Gijsels Jonathan
+M
+199
+rood
+Afghaanse windhond
+Gilis Bart
+M
+153
+kaal
+Poedel
+Gilis Koen
+M
+165
+blond
+Poedel
+Gilissen Peter
+M
+183
+bruin
+Hamster
+Gobeyn Amir
+M
+195
+bruin
+Hangbuikzwijn
+Gobeyn Wim
+V
+166
+bruin
+Hangbuikzwijn
+Goelen Cristof
+M
+154
+bruin
+Hamster
+Goelen Robbie
+M
+155
+bruin
+Poedel
+Goeman Christophe
+M
+174
+bruin
+Perzische kat
+Goetschalckx Rony
+M
+170
+blond
+Siamese kat
+Goor Helga
+M
+155
+blond
+Perzische kat
+Goor Ivan
+M
+157
+bruin
+Mechelse herder
+Goos Bert
+M
+181
+bruin
+Cavia
+Goos Stefan
+V
+161
+blond
+Siamese kat
+Goos Stijn
+M
+167
+zwart
+Mechelse herder
+Goossens Hung-Kit
+M
+165
+blond
+Groenendaeler
+Goossens Jan
+V
+191
+bruin
+Mechelse herder
+Goossens Steven
+V
+171
+bruin
+Hangbuikzwijn
+Goris Pedro
+V
+184
+kaal
+Mechelse herder
+Govaert Erwin
+M
+183
+blond
+Mechelse herder
+Govaerts Christophe
+M
+186
+kaal
+Afghaanse windhond
+Govaerts Henricus
+V
+152
+bruin
+Afghaanse windhond
+Govaerts Jelle
+M
+179
+bruin
+Huiskat
+Govaerts Jeroen
+M
+180
+blond
+Groenendaeler
+Govaerts Philippe
+M
+177
+bruin
+Perzische kat
+Govaerts Steven
+M
+170
+blond
+Huiskat
+Govers Jason
+M
+172
+blond
+Perzische kat
+Grieten Filip
+M
+189
+kaal
+Hangbuikzwijn
+Grieten Geert
+M
+178
+blond
+Poedel
+Grieten Jurgen
+M
+182
+bruin
+Afghaanse windhond
+Grieten Koen
+M
+162
+zwart
+Groenendaeler
+Gunia Ariaan
+M
+194
+blond
+Afghaanse windhond
+Gunia Guido
+V
+187
+bruin
+Groenendaeler
+Gunia Koen
+V
+164
+blond
+Hamster
+Gysemans Wim
+M
+176
+blond
+Hangbuikzwijn
+Haagdorens Gert
+M
+181
+bruin
+Mechelse herder
+Haagdorens Peter
+M
+172
+zwart
+Perzische kat
+Haest Willy
+M
+163
+blond
+Siamese kat
+Haeverans Bob
+M
+160
+blond
+Cavia
+Haeverans Kris
+M
+195
+rood
+Mechelse herder
+Hamers Koen
+M
+172
+zwart
+Duitse Herder
+Hamrouni Adil
+M
+167
+kaal
+Afghaanse windhond
+Hannes Bert
+M
+195
+kaal
+Perzische kat
+Hannes Giovanni
+V
+174
+kaal
+Hamster
+Hannes Jan
+M
+163
+blond
+Duitse Herder
+Hannes Koen
+M
+194
+zwart
+Poedel
+Hannes Wim
+M
+178
+bruin
+Afghaanse windhond
+Haveneers Johan
+M
+151
+zwart
+Duitse Herder
+Haveneers Koen
+M
+164
+bruin
+Duitse Herder
+Heiremans Frank
+M
+175
+zwart
+Perzische kat
+Hellemans Joris
+M
+178
+kaal
+Perzische kat
+Helsen Annemie
+M
+187
+zwart
+Mechelse herder
+Helsen Christophe
+V
+183
+bruin
+Groenendaeler
+Helsen Henri
+M
+169
+blond
+Poedel
+Helsen Jan
+M
+153
+kaal
+Huiskat
+Helsen Luc
+M
+179
+blond
+Mechelse herder
+Helsen Rafael
+M
+184
+blond
+Groenendaeler
+Helsen Rob
+M
+157
+blond
+Huiskat
+Henderickx Patrick
+M
+151
+blond
+Perzische kat
+Hendrickx Kurt
+M
+158
+blond
+Groenendaeler
+Hendrickx Maarten
+M
+191
+bruin
+Mechelse herder
+Hendrickx Sebastiaan
+V
+192
+bruin
+Poedel
+Hendrickx Tom
+M
+189
+blond
+Cavia
+Henrard Danny
+M
+181
+rood
+Duitse Herder
+Hens Johan
+V
+161
+bruin
+Mechelse herder
+Hens Karel
+M
+187
+blond
+Huiskat
+Hens Kris
+M
+165
+blond
+Afghaanse windhond
+Hermans Bert
+M
+194
+bruin
+Hamster
+Hermans Guy
+M
+194
+blond
+Hangbuikzwijn
+Hermans Jan
+M
+181
+bruin
+Duitse Herder
+Hermans Karel
+M
+164
+kaal
+Huiskat
+Hermans Koen
+M
+182
+zwart
+Cavia
+Hermans Kristiaan
+M
+176
+bruin
+Siamese kat
+Hermans Ludwig
+M
+178
+bruin
+Groenendaeler
+Hermans Tom
+M
+181
+rood
+Mechelse herder
+Hermans Wim
+M
+161
+bruin
+Huiskat
+Herremans Michel
+V
+153
+zwart
+Huiskat
+Herremans Wim
+M
+180
+blond
+Groenendaeler
+Heselmans An
+M
+167
+kaal
+Groenendaeler
+Heselmans Katrien
+M
+173
+zwart
+Huiskat
+Heylen Hans
+M
+167
+zwart
+Mechelse herder
+Heylen Luc
+M
+176
+zwart
+Dwergkonijn
+Heylen Paul
+M
+180
+bruin
+Mechelse herder
+Heyndrickx Jozef
+M
+191
+kaal
+Duitse Herder
+Hillen Kris
+V
+153
+bruin
+Groenendaeler
+Hillen Paul
+M
+184
+blond
+Hamster
+Hoeks Geert
+M
+185
+blond
+Duitse Herder
+Hoet Alfons
+M
+181
+bruin
+Huiskat
+Hooyberghs Johan
+M
+164
+bruin
+Groenendaeler
+Hooyberghs Johan
+M
+156
+rood
+Poedel
+Horemans Bart
+V
+172
+zwart
+Dwergkonijn
+Horemans Bieke
+M
+187
+bruin
+Poedel
+Horemans Danny
+M
+155
+bruin
+Duitse Herder
+Horemans Geert
+M
+163
+zwart
+Perzische kat
+Horemans Glenn
+M
+199
+bruin
+Groenendaeler
+Horemans Leen
+M
+179
+blond
+Hangbuikzwijn
+Horemans Ronny
+M
+151
+bruin
+Huiskat
+Houtmeyers Jozef
+M
+186
+bruin
+Perzische kat
+Houwaer Vivy
+M
+184
+zwart
+Dwergkonijn
+Hurkmans Werner
+M
+161
+blond
+Siamese kat
+Huveneers Bob
+M
+173
+zwart
+Perzische kat
+Huybs Mark
+M
+171
+bruin
+Mechelse herder
+Huygens Jan
+M
+183
+bruin
+Dwergkonijn
+Huyghe Bart
+M
+182
+blond
+Cavia
+Huyskens Peter
+M
+174
+zwart
+Hamster
+Huyskens Steven
+M
+193
+blond
+Hangbuikzwijn
+Huysmans Bart
+V
+198
+bruin
+Siamese kat
+Huysmans Bert
+M
+182
+bruin
+Duitse Herder
+Huysmans Bjorn
+M
+197
+rood
+Poedel
+Huysmans Erwin
+M
+150
+blond
+Perzische kat
+Huysmans Luc
+M
+171
+zwart
+Poedel
+Huysmans Rony
+M
+151
+blond
+Afghaanse windhond
+Huysmans Serge
+M
+187
+bruin
+Duitse Herder
+Huysmans Tom
+M
+159
+bruin
+Afghaanse windhond
+Huysmans Wendy
+M
+176
+bruin
+Groenendaeler
+Imants Bruno
+M
+167
+blond
+Mechelse herder
+Ingels Danny
+M
+158
+zwart
+Poedel
+Jacobs Dirk
+M
+168
+blond
+Siamese kat
+Jacobs Hans
+M
+165
+bruin
+Huiskat
+Jacobs Jan
+M
+189
+kaal
+Poedel
+Jacobs Nico
+V
+174
+bruin
+Huiskat
+Jacobs Tim
+M
+150
+bruin
+Afghaanse windhond
+Jacobs Tom
+V
+185
+blond
+Dwergkonijn
+Jans Bart
+M
+168
+bruin
+Mechelse herder
+Jans Bart
+M
+154
+rood
+Siamese kat
+Jans Gunter
+M
+198
+zwart
+Mechelse herder
+Jans Wim
+M
+180
+blond
+Hangbuikzwijn
+Jansen Dieter
+M
+194
+blond
+Duitse Herder
+Jansen Frank
+M
+179
+blond
+Afghaanse windhond
+Jansen Frank
+M
+196
+bruin
+Hangbuikzwijn
+Jansen Frank
+M
+175
+zwart
+Perzische kat
+Jansen Geert
+M
+198
+bruin
+Cavia
+Jansen Helga
+M
+154
+kaal
+Duitse Herder
+Jansen Kris
+M
+189
+blond
+Huiskat
+Jansen Kurt
+M
+164
+blond
+Groenendaeler
+Jansen Michel
+M
+168
+zwart
+Dwergkonijn
+Jansen Patrick
+M
+164
+blond
+Mechelse herder
+Jansen Philip
+M
+174
+bruin
+Poedel
+Jansen Pieter
+M
+190
+blond
+Poedel
+Jansen Raf
+M
+157
+zwart
+Afghaanse windhond
+Jansen Stef
+M
+197
+blond
+Siamese kat
+Janssen Benjamin
+V
+199
+bruin
+Cavia
+Janssen Christophe
+M
+156
+bruin
+Hamster
+Janssen Gert
+M
+173
+zwart
+Hangbuikzwijn
+Janssen Ivo
+M
+152
+bruin
+Hangbuikzwijn
+Janssen Leen
+M
+151
+zwart
+Perzische kat
+Janssen Ronny
+M
+169
+kaal
+Cavia
+Janssens Bart
+M
+157
+bruin
+Afghaanse windhond
+Janssens Bart
+V
+176
+zwart
+Perzische kat
+Janssens Bert
+M
+158
+bruin
+Mechelse herder
+Janssens Dirk
+V
+168
+blond
+Perzische kat
+Janssens Els
+M
+158
+bruin
+Poedel
+Janssens Frank
+M
+197
+blond
+Huiskat
+Janssens Geert
+M
+153
+bruin
+Hamster
+Janssens Greet
+M
+197
+blond
+Mechelse herder
+Janssens Hilde
+M
+179
+bruin
+Hamster
+Janssens Hugo
+M
+153
+bruin
+Siamese kat
+Janssens Jan
+M
+163
+blond
+Hamster
+Janssens Joeri
+M
+186
+blond
+Dwergkonijn
+Janssens Koen
+M
+177
+zwart
+Duitse Herder
+Janssens Korneel
+M
+173
+blond
+Huiskat
+Janssens Kris
+M
+164
+rood
+Dwergkonijn
+Janssens Philip
+M
+195
+blond
+Perzische kat
+Janssens Roel
+M
+157
+bruin
+Perzische kat
+Janssens Sofie
+V
+193
+bruin
+Hangbuikzwijn
+Janssens Stefan
+M
+152
+bruin
+Groenendaeler
+Janssens Yannick
+M
+164
+rood
+Groenendaeler
+Jespers Gunther
+M
+190
+blond
+Siamese kat
+Jespers Maria
+M
+191
+bruin
+Groenendaeler
+Jespers Michel
+M
+190
+bruin
+Siamese kat
+Kaerts Steven
+V
+171
+blond
+Perzische kat
+Karsmakers Leo
+M
+173
+zwart
+Groenendaeler
+Kegelaers Bruno
+M
+176
+bruin
+Poedel
+Kelchtermans Ivan
+M
+186
+rood
+Mechelse herder
+Kemland Frank
+M
+162
+blond
+Mechelse herder
+Kemland Tim
+M
+176
+blond
+Hamster
+Kempen Els
+M
+191
+bruin
+Duitse Herder
+Kempen Renaat
+M
+151
+bruin
+Cavia
+Kempenaers Jochen
+M
+178
+bruin
+Groenendaeler
+Kenis Dirk
+M
+152
+blond
+Mechelse herder
+Kenis Peter
+M
+175
+bruin
+Duitse Herder
+Kenis Renaat
+M
+184
+bruin
+Siamese kat
+Kerckhofs Kristel
+M
+158
+blond
+Huiskat
+Kerkhofs Bert
+M
+169
+blond
+Hamster
+Kerkhofs Denis
+V
+160
+rood
+Groenendaeler
+Kerkhofs Dirk
+M
+185
+zwart
+Groenendaeler
+Kerkhofs Gustaaf
+M
+152
+bruin
+Perzische kat
+Kerremans An
+M
+188
+blond
+Dwergkonijn
+Kerremans Filip
+M
+175
+zwart
+Duitse Herder
+Kesters Jimmy
+M
+197
+zwart
+Mechelse herder
+Kesters Kris
+M
+155
+bruin
+Afghaanse windhond
+Kesters Tom
+V
+196
+bruin
+Hamster
+Keyken Bert
+M
+169
+rood
+Perzische kat
+Keyken Geert
+V
+156
+blond
+Hamster
+Kimpen Inge
+M
+180
+bruin
+Poedel
+Kimpen Raf
+V
+191
+blond
+Hangbuikzwijn
+Knevels Bart
+M
+150
+bruin
+Afghaanse windhond
+Knockaert Johan
+M
+169
+zwart
+Poedel
+Knoops Geert
+M
+184
+blond
+Poedel
+Knoops Korneel
+V
+196
+bruin
+Groenendaeler
+Knoops Laurens
+M
+159
+bruin
+Mechelse herder
+Knuysen Wim
+M
+158
+blond
+Siamese kat
+Kooremans Wim
+M
+197
+blond
+Hangbuikzwijn
+Krieckemans Hilde
+V
+158
+blond
+Groenendaeler
+Krols David
+M
+171
+blond
+Groenendaeler
+Krols Elke
+V
+188
+zwart
+Afghaanse windhond
+Krols Steven
+V
+150
+rood
+Huiskat
+Krols Wim
+M
+160
+rood
+Duitse Herder
+Kuyken Dirk
+M
+198
+blond
+Perzische kat
+Kuylen Els
+M
+187
+blond
+Huiskat
+Kuylen Luc
+M
+194
+bruin
+Siamese kat
+Kwanten Jo
+M
+189
+blond
+Duitse Herder
+Kwanten Kim
+M
+191
+zwart
+Cavia
+Laenen Dirk
+M
+155
+zwart
+Duitse Herder
+Laenen Henri
+M
+162
+bruin
+Dwergkonijn
+Laenen Hugo
+M
+170
+blond
+Huiskat
+Laenen Koen
+M
+192
+zwart
+Huiskat
+Laenen Ronny
+M
+155
+blond
+Hamster
+Laeremans Dirk
+M
+177
+zwart
+Perzische kat
+Laeremans Jeroen
+V
+158
+rood
+Hamster
+Laeremans Kristof
+M
+168
+bruin
+Cavia
+Laeremans Sven
+M
+172
+blond
+Cavia
+Lambrechts David
+M
+193
+blond
+Duitse Herder
+Lambrechts Joël
+M
+177
+blond
+Perzische kat
+Lambrechts Jurgen
+M
+193
+blond
+Huiskat
+Lambrechts Kristof
+M
+176
+zwart
+Cavia
+Landrieu Dirk
+M
+161
+zwart
+Poedel
+Lanslots Fabrice
+M
+198
+blond
+Huiskat
+Lanslots Kathleen
+V
+157
+blond
+Huiskat
+Laporte Jan
+M
+183
+blond
+Perzische kat
+Laps Davy
+M
+161
+blond
+Duitse Herder
+Laps Jean
+M
+198
+blond
+Perzische kat
+Laps Nico
+V
+167
+bruin
+Huiskat
+Latinne Kris
+M
+150
+blond
+Huiskat
+Latinne Reinaart
+M
+184
+blond
+Huiskat
+Laurijssen Hans
+M
+153
+blond
+Duitse Herder
+Lauwers Kristof
+M
+174
+bruin
+Poedel
+Lauwers Luc
+M
+167
+blond
+Cavia
+Lavrysen Davy
+M
+192
+zwart
+Cavia
+Leemans Carl
+M
+171
+bruin
+Groenendaeler
+Leemans Leo
+M
+170
+blond
+Hangbuikzwijn
+Leemans Peter
+V
+154
+bruin
+Siamese kat
+Lefelon Erwin
+M
+159
+bruin
+Poedel
+Lefelon Yves
+M
+194
+bruin
+Perzische kat
+Legrand Sandra
+M
+180
+blond
+Afghaanse windhond
+Lehaen Kristien
+M
+179
+blond
+Siamese kat
+Lehaen Raf
+M
+164
+bruin
+Groenendaeler
+Lemaire Bjorn
+M
+178
+blond
+Afghaanse windhond
+Lemaire Wim
+V
+157
+bruin
+Siamese kat
+Lemmens Daisy
+M
+158
+zwart
+Siamese kat
+Lemmens Dimitri
+M
+177
+bruin
+Mechelse herder
+Lemmens Isabel
+M
+191
+blond
+Siamese kat
+Lemmens Joram
+V
+153
+zwart
+Groenendaeler
+Lemmens Nico
+M
+193
+bruin
+Huiskat
+Lemmens Pieter
+V
+160
+bruin
+Hangbuikzwijn
+Lemmens Tom
+M
+161
+zwart
+Groenendaeler
+Lemmens Tom
+V
+198
+bruin
+Huiskat
+Lenaerts Filip
+V
+167
+blond
+Groenendaeler
+Lenaerts Koenraad
+M
+178
+blond
+Hangbuikzwijn
+Lens Andy
+M
+169
+blond
+Perzische kat
+Lens Dieter
+M
+173
+zwart
+Mechelse herder
+Lens Erwin
+M
+183
+rood
+Poedel
+Lens Jonny
+M
+166
+zwart
+Hangbuikzwijn
+Lens Kim
+M
+163
+zwart
+Siamese kat
+Leppens Nadine
+M
+167
+zwart
+Perzische kat
+Leppens Peter
+M
+166
+blond
+Cavia
+Leung Mario
+M
+198
+blond
+Poedel
+Leysen Ellen
+V
+176
+bruin
+Mechelse herder
+Leyssens John
+M
+195
+bruin
+Hamster
+Lieckens Daniel
+M
+150
+blond
+Huiskat
+Lieckens Tom
+M
+165
+bruin
+Huiskat
+Lievens Dieder
+V
+186
+blond
+Siamese kat
+Lievens Koen
+M
+174
+blond
+Dwergkonijn
+Lievens Ludwig
+M
+191
+zwart
+Duitse Herder
+Lievens Marinus
+M
+199
+bruin
+Poedel
+Lievens Yves
+M
+173
+blond
+Cavia
+Linten Jorgen
+M
+176
+bruin
+Hangbuikzwijn
+Lodewijckx Ann
+M
+150
+bruin
+Poedel
+Lodewijckx Manuela
+M
+173
+bruin
+Dwergkonijn
+Loffens Bart
+M
+150
+zwart
+Dwergkonijn
+Loffens Henri
+M
+155
+bruin
+Perzische kat
+Lommelen Bart
+V
+181
+rood
+Hangbuikzwijn
+Lommelen Bruno
+M
+198
+blond
+Poedel
+Lommelen Dries
+M
+163
+bruin
+Poedel
+Lommelen Gert
+M
+170
+zwart
+Afghaanse windhond
+Lommelen Steve
+M
+173
+bruin
+Groenendaeler
+Lommelen Steven
+M
+168
+bruin
+Afghaanse windhond
+Loos Ivo
+M
+173
+rood
+Dwergkonijn
+Loos Jo
+M
+199
+zwart
+Groenendaeler
+Loos Kim
+M
+164
+zwart
+Siamese kat
+Loos Luc
+M
+157
+bruin
+Afghaanse windhond
+Loos Marc
+M
+188
+rood
+Poedel
+Loos Patrik
+M
+170
+blond
+Perzische kat
+Loots Yves
+M
+161
+bruin
+Cavia
+Loyens Glenn
+M
+187
+zwart
+Siamese kat
+Loyens Luc
+M
+183
+rood
+Hangbuikzwijn
+Loyens Roel
+M
+192
+blond
+Hamster
+Lukaszewicz Filip
+M
+181
+zwart
+Dwergkonijn
+Lukaszewicz Raf
+M
+177
+bruin
+Duitse Herder
+Lukaszewicz Raf
+M
+185
+zwart
+Huiskat
+Luyten Bart
+M
+176
+bruin
+Perzische kat
+Luyten Bert
+M
+173
+bruin
+Cavia
+Luyten Hung-Kit
+M
+153
+zwart
+Dwergkonijn
+Luyten Jan
+M
+192
+rood
+Perzische kat
+Luyten Jan
+V
+195
+blond
+Siamese kat
+Luyten Michel
+M
+191
+zwart
+Huiskat
+Machiels Dennis
+M
+191
+bruin
+Perzische kat
+Machiels Joel
+V
+182
+bruin
+Siamese kat
+Maes Chris
+M
+162
+blond
+Hamster
+Maes Dries
+V
+199
+zwart
+Groenendaeler
+Maes Erik
+M
+178
+kaal
+Hangbuikzwijn
+Maes Guy
+M
+162
+bruin
+Huiskat
+Maes Herman
+M
+194
+bruin
+Poedel
+Maes Kevin
+M
+191
+blond
+Hangbuikzwijn
+Maes Koen
+M
+166
+bruin
+Huiskat
+Maes Louis
+M
+182
+bruin
+Afghaanse windhond
+Maes Luc
+M
+170
+blond
+Hangbuikzwijn
+Maes Michel
+V
+155
+rood
+Dwergkonijn
+Maes Peter
+M
+198
+blond
+Dwergkonijn
+Maes Peter
+M
+151
+bruin
+Huiskat
+Maes Peter
+V
+169
+bruin
+Mechelse herder
+Maes Silvia
+M
+177
+bruin
+Dwergkonijn
+Maes Tom
+M
+158
+bruin
+Groenendaeler
+Maes Tom
+M
+161
+bruin
+Groenendaeler
+Maes Tom
+V
+158
+kaal
+Poedel
+Maes Toon
+M
+174
+blond
+Huiskat
+Maes Walter
+M
+190
+bruin
+Cavia
+Maes Wim
+M
+163
+bruin
+Afghaanse windhond
+Maes Wim
+V
+161
+kaal
+Afghaanse windhond
+Mangelschots Bert
+V
+150
+bruin
+Perzische kat
+Mangelschots Dominic
+M
+188
+blond
+Dwergkonijn
+Mangelschots Kris
+M
+175
+zwart
+Hangbuikzwijn
+Mangelschots Kristiaan
+M
+151
+bruin
+Perzische kat
+Mangelschots Kurt
+M
+168
+bruin
+Cavia
+Mangelschots Lieven
+M
+175
+kaal
+Afghaanse windhond
+Mangelschots Rudi
+M
+164
+bruin
+Duitse Herder
+Mangelschots Sverre
+M
+150
+blond
+Perzische kat
+Mannaerts Bert
+M
+150
+bruin
+Poedel
+Mannaerts Kurt
+M
+173
+bruin
+Mechelse herder
+Maréchal Raphael
+M
+167
+zwart
+Duitse Herder
+Marien Andy
+M
+177
+bruin
+Siamese kat
+Mariën Bert
+M
+151
+blond
+Duitse Herder
+Marien Bram
+M
+182
+blond
+Siamese kat
+Mariën Dirk
+M
+167
+bruin
+Mechelse herder
+Marien Geert
+M
+163
+zwart
+Huiskat
+Mariën Kurt
+M
+186
+zwart
+Cavia
+Marien Sam
+M
+154
+bruin
+Duitse Herder
+Marinus Peter
+M
+180
+blond
+Hamster
+Martin Bart
+M
+177
+blond
+Huiskat
+Martin Bert
+M
+177
+rood
+Duitse Herder
+Martin Conny
+M
+150
+bruin
+Dwergkonijn
+Martin Koen
+M
+153
+blond
+Mechelse herder
+Martin Kris
+M
+196
+blond
+Siamese kat
+Martin Yannick
+M
+172
+zwart
+Siamese kat
+Masscheleyn Frank
+M
+176
+blond
+Cavia
+Masscheleyn Marino
+M
+152
+bruin
+Hangbuikzwijn
+Massonet Michael
+V
+150
+zwart
+Hangbuikzwijn
+Massonet Stefan
+M
+186
+rood
+Hangbuikzwijn
+Matheussen Ilse
+M
+161
+blond
+Siamese kat
+Matheussen Raf
+M
+182
+zwart
+Dwergkonijn
+Matheussen Stefan
+M
+192
+bruin
+Hamster
+Mattelin Johan
+M
+159
+blond
+Dwergkonijn
+Mattelin Tom
+M
+190
+blond
+Dwergkonijn
+Matthijs Mitchell
+M
+191
+zwart
+Mechelse herder
+Matthijs Ronny
+M
+178
+zwart
+Duitse Herder
+Maussen Geert
+M
+196
+zwart
+Hangbuikzwijn
+Maussen Jaak
+V
+150
+rood
+Mechelse herder
+Maussen Pieter
+M
+194
+bruin
+Hamster
+Mc Neill Günther
+V
+161
+rood
+Duitse Herder
+Meermans Dieter
+M
+179
+zwart
+Hamster
+Meeus Bert
+M
+163
+blond
+Afghaanse windhond
+Meeus Bert
+M
+182
+blond
+Cavia
+Meeus John
+M
+171
+blond
+Groenendaeler
+Meeus Koen
+M
+177
+zwart
+Perzische kat
+Meeus Tom
+M
+168
+bruin
+Hangbuikzwijn
+Meeus Tom
+M
+188
+bruin
+Siamese kat
+Meir Geert
+M
+157
+blond
+Duitse Herder
+Melis Bob
+V
+174
+bruin
+Perzische kat
+Melis Ellen
+M
+184
+blond
+Siamese kat
+Mens Kristel
+M
+155
+zwart
+Duitse Herder
+Mens Stefaan
+M
+192
+blond
+Dwergkonijn
+Mens Tom
+M
+163
+blond
+Perzische kat
+Mercelis Mark
+M
+167
+zwart
+Huiskat
+Mertens An
+M
+150
+bruin
+Duitse Herder
+Mertens Ann
+M
+170
+bruin
+Dwergkonijn
+Mertens Benny
+V
+183
+zwart
+Siamese kat
+Mertens Bruno
+M
+157
+kaal
+Perzische kat
+Mertens Elias
+M
+170
+zwart
+Hamster
+Mertens Filip
+M
+181
+bruin
+Groenendaeler
+Mertens Franky
+M
+159
+zwart
+Mechelse herder
+Mertens Geert
+M
+170
+kaal
+Duitse Herder
+Mertens Geert
+V
+161
+rood
+Groenendaeler
+Mertens Guy
+M
+159
+blond
+Hamster
+Mertens Jo
+M
+157
+rood
+Dwergkonijn
+Mertens Joachim
+M
+156
+bruin
+Hangbuikzwijn
+Mertens Kevin
+M
+155
+zwart
+Hamster
+Mertens Patrick
+M
+175
+rood
+Duitse Herder
+Mertens Ruddi
+V
+183
+blond
+Cavia
+Mertens Sonja
+M
+160
+zwart
+Poedel
+Meulders Jos
+M
+159
+zwart
+Dwergkonijn
+Meulenbergs Frank
+M
+163
+kaal
+Dwergkonijn
+Meuwes Ann
+V
+185
+zwart
+Siamese kat
+Mewis Eva
+M
+155
+bruin
+Groenendaeler
+Meynckens Davy
+V
+178
+blond
+Perzische kat
+Meynckens Luc
+M
+162
+bruin
+Duitse Herder
+Meynckens Marc
+M
+153
+bruin
+Groenendaeler
+Meynckens Marco
+M
+172
+bruin
+Hamster
+Meynckens Michel
+M
+190
+blond
+Cavia
+Meynckens Wesley
+V
+172
+bruin
+Duitse Herder
+Meynen Gert
+M
+179
+bruin
+Hamster
+Michiels Johan
+M
+181
+blond
+Afghaanse windhond
+Michiels Jurgen
+M
+182
+bruin
+Poedel
+Michiels Michel
+M
+154
+bruin
+Perzische kat
+Michiels Stijn
+M
+184
+bruin
+Poedel
+Michiels Timothy
+V
+171
+blond
+Siamese kat
+Michiels Tom
+M
+165
+zwart
+Dwergkonijn
+Michiels Wouter
+M
+187
+bruin
+Mechelse herder
+Michielsen Bart
+M
+174
+blond
+Perzische kat
+Milis Ann
+M
+187
+zwart
+Poedel
+Milis Leen
+M
+150
+zwart
+Duitse Herder
+Milis Peter
+M
+171
+blond
+Afghaanse windhond
+Minnen Tonny
+M
+153
+bruin
+Siamese kat
+Mol Kristof
+M
+195
+blond
+Duitse Herder
+Molero Danny
+M
+150
+bruin
+Perzische kat
+Molero Hilde
+V
+179
+zwart
+Afghaanse windhond
+Molero Jan
+M
+199
+zwart
+Poedel
+Mondelaers Ben
+M
+174
+rood
+Groenendaeler
+Mondelaers Bruno
+M
+193
+blond
+Poedel
+Monten Patrick
+V
+196
+blond
+Dwergkonijn
+Moonen Didier
+M
+162
+blond
+Hangbuikzwijn
+Moonen Frederik
+M
+175
+bruin
+Perzische kat
+Moonen Tim
+M
+180
+zwart
+Siamese kat
+Moons Liesbeth
+M
+150
+rood
+Huiskat
+Moortgat Kristof
+M
+159
+zwart
+Siamese kat
+Muyshondt Joeri
+M
+192
+bruin
+Duitse Herder
+Naegels Arne
+M
+174
+kaal
+Cavia
+Nagel An
+M
+192
+bruin
+Dwergkonijn
+Nagel Frank
+M
+156
+bruin
+Huiskat
+Nagel Steven
+M
+197
+rood
+Perzische kat
+Nagels Benny
+M
+159
+bruin
+Duitse Herder
+Neefs Harry
+M
+197
+kaal
+Perzische kat
+Neefs Wim
+M
+185
+bruin
+Mechelse herder
+Neels Bart
+M
+157
+blond
+Huiskat
+Neels Guy
+M
+169
+bruin
+Huiskat
+Neels Jan
+M
+187
+blond
+Cavia
+Neels Tim
+M
+165
+bruin
+Mechelse herder
+Neels Yolande
+V
+154
+rood
+Mechelse herder
+Nelis Anke
+V
+152
+blond
+Afghaanse windhond
+Neyens Annemiek
+M
+198
+bruin
+Mechelse herder
+Neyens Geert
+M
+178
+zwart
+Poedel
+Neys Ruud
+M
+173
+rood
+Perzische kat
+Niclot Kristin
+M
+151
+blond
+Groenendaeler
+Nies Freddy
+M
+157
+blond
+Mechelse herder
+Nies Stijn
+M
+190
+rood
+Groenendaeler
+Nieuwenhuize Dirk
+M
+199
+bruin
+Afghaanse windhond
+Nieuwenhuize Eric
+M
+196
+bruin
+Perzische kat
+Nijns Guy
+M
+166
+bruin
+Perzische kat
+Nijns Valérie
+M
+156
+bruin
+Duitse Herder
+Nijs Gunther
+X
+176
+blond
+Groenendaeler
+Nijs Johannes
+M
+177
+kaal
+Afghaanse windhond
+Nijs Tim
+M
+194
+bruin
+Huiskat
+Noels Bram
+M
+187
+bruin
+Duitse Herder
+Noels Tom
+M
+181
+bruin
+Hamster
+Nogalez Sanz Filip
+M
+151
+bruin
+Hangbuikzwijn
+Nogalez Sanz Kristof
+M
+182
+kaal
+Groenendaeler
+Nouwen Sandra
+V
+178
+zwart
+Hangbuikzwijn
+Noyens Sven
+M
+196
+bruin
+Perzische kat
+Noynaert Arne
+M
+172
+bruin
+Poedel
+Noynaert Ilse
+M
+161
+blond
+Duitse Herder
+Nuyens Frederik
+M
+188
+rood
+Poedel
+Nuyens Tom
+M
+176
+blond
+Siamese kat
+Nuyts Gert
+V
+180
+zwart
+Mechelse herder
+Nuyts Kristof
+M
+180
+bruin
+Hamster
+Nuyts Lieven
+M
+185
+blond
+Perzische kat
+Nuyts Peter
+M
+158
+blond
+Afghaanse windhond
+Nuyts Raf
+V
+185
+bruin
+Siamese kat
+Nyssen Emmanuel
+M
+183
+zwart
+Hangbuikzwijn
+Nyssen Guy
+M
+153
+blond
+Dwergkonijn
+Nyssen Kristof
+M
+176
+bruin
+Siamese kat
+Oeyen Stijn
+M
+178
+bruin
+Mechelse herder
+Omloop Hans
+M
+151
+rood
+Dwergkonijn
+Ooms Dieter
+M
+160
+zwart
+Poedel
+Ooms Jaak
+M
+168
+rood
+Groenendaeler
+Ooms Johan
+M
+194
+kaal
+Duitse Herder
+Ooms Kim
+M
+151
+blond
+Perzische kat
+Ooms Peter
+M
+164
+blond
+Cavia
+Ooms Rik
+V
+175
+bruin
+Cavia
+Orban Bart
+M
+192
+bruin
+Perzische kat
+Oversteyns Annick
+M
+174
+blond
+Siamese kat
+Oversteyns Kris
+M
+171
+zwart
+Siamese kat
+Palmans Gunther
+M
+192
+bruin
+Siamese kat
+Pasgang Jason
+M
+183
+kaal
+Hangbuikzwijn
+Pauwels An
+M
+180
+zwart
+Siamese kat
+Pauwels Dirk
+M
+180
+bruin
+Cavia
+Pauwels Eddy
+M
+175
+rood
+Hamster
+Pauwels Freddy
+M
+161
+kaal
+Mechelse herder
+Pauwels Luc
+M
+166
+bruin
+Perzische kat
+Pauwels Rob
+M
+157
+zwart
+Siamese kat
+Peeraer Jozef
+V
+187
+bruin
+Huiskat
+Peeraer Koen
+M
+173
+blond
+Cavia
+Peeraer Lien
+M
+188
+bruin
+Dwergkonijn
+Peeters Annick
+V
+160
+bruin
+Dwergkonijn
+Peeters Bart
+V
+187
+blond
+Afghaanse windhond
+Peeters Björn
+M
+150
+bruin
+Afghaanse windhond
+Peeters Bob
+M
+177
+blond
+Cavia
+Peeters Daniel
+M
+163
+bruin
+Dwergkonijn
+Peeters Didier
+M
+186
+bruin
+Perzische kat
+Peeters Dirk
+M
+167
+bruin
+Huiskat
+Peeters Eddy
+M
+150
+blond
+Cavia
+Peeters Els
+M
+156
+blond
+Afghaanse windhond
+Peeters Filip
+V
+182
+blond
+Siamese kat
+Peeters Gert
+V
+158
+bruin
+Groenendaeler
+Peeters Guido
+M
+196
+zwart
+Cavia
+Peeters Guy
+V
+198
+blond
+Hamster
+Peeters Hans
+M
+199
+blond
+Perzische kat
+Peeters Harry
+M
+173
+zwart
+Huiskat
+Peeters Hilde
+M
+166
+bruin
+Poedel
+Peeters Hugo
+M
+191
+bruin
+Hangbuikzwijn
+Peeters Inge
+M
+174
+bruin
+Mechelse herder
+Peeters Johan
+M
+186
+blond
+Mechelse herder
+Peeters Kim
+M
+190
+rood
+Poedel
+Peeters Kris
+V
+155
+zwart
+Poedel
+Peeters Kristel
+M
+195
+rood
+Groenendaeler
+Peeters Luc
+M
+181
+blond
+Groenendaeler
+Peeters Luc
+M
+176
+bruin
+Hangbuikzwijn
+Peeters Marc
+M
+164
+zwart
+Dwergkonijn
+Peeters Ronny
+M
+174
+blond
+Hangbuikzwijn
+Peeters Seth
+M
+168
+zwart
+Hangbuikzwijn
+Peeters Stijn
+M
+185
+bruin
+Cavia
+Peeters Sven
+M
+176
+zwart
+Dwergkonijn
+Peeters Tim
+M
+159
+blond
+Poedel
+Peeters Vera
+M
+158
+zwart
+Mechelse herder
+Peeters Walter
+M
+168
+blond
+Dwergkonijn
+Peeters Willem
+M
+158
+blond
+Poedel
+Peeters Yvan
+V
+158
+zwart
+Dwergkonijn
+Pelgrims Roel
+M
+180
+bruin
+Perzische kat
+Peperstraete Bart
+M
+186
+bruin
+Poedel
+Persoons Michel
+M
+159
+rood
+Huiskat
+Pieters Danny
+M
+160
+rood
+Dwergkonijn
+Pieters Frank
+M
+181
+rood
+Mechelse herder
+Pluym Thierry
+M
+159
+bruin
+Hamster
+Polat Geert
+M
+194
+blond
+Duitse Herder
+Polat Kris
+M
+156
+bruin
+Duitse Herder
+Princen Johan
+M
+189
+zwart
+Mechelse herder
+Princen Nico
+M
+183
+zwart
+Hangbuikzwijn
+Proost Ann
+M
+164
+rood
+Huiskat
+Proost Tom
+M
+181
+zwart
+Cavia
+Puls Kristof
+M
+156
+blond
+Dwergkonijn
+Put Rudy
+V
+182
+zwart
+Siamese kat
+Put Winny
+M
+188
+zwart
+Duitse Herder
+Rabijns Frank
+M
+188
+bruin
+Siamese kat
+Rackels Kristof
+M
+157
+bruin
+Poedel
+Rackels Nico
+M
+192
+zwart
+Siamese kat
+Rackels Stijn
+M
+193
+zwart
+Afghaanse windhond
+Rademakers Fabian
+M
+164
+kaal
+Siamese kat
+Rademakers Steven
+M
+162
+bruin
+Afghaanse windhond
+Raeves Patrick
+M
+190
+zwart
+Dwergkonijn
+Raeymaekers Bert
+M
+190
+blond
+Hamster
+Raeymaekers Gert
+M
+181
+zwart
+Poedel
+Raeymaekers Herman
+M
+195
+blond
+Siamese kat
+Raeymaekers Joost
+M
+194
+blond
+Perzische kat
+Raeymaekers Patrick
+M
+178
+kaal
+Poedel
+Raeymaekers Philip
+M
+173
+bruin
+Dwergkonijn
+Raeymaekers Wim
+M
+175
+blond
+Cavia
+Raeymaekers Wim
+V
+186
+bruin
+Siamese kat
+Raymakers Steven
+M
+199
+bruin
+Poedel
+Renap Geert
+M
+189
+bruin
+Groenendaeler
+Renap Gustaaf
+M
+150
+bruin
+Huiskat
+Renap Jo
+M
+191
+zwart
+Mechelse herder
+Renders Gerrit
+V
+154
+rood
+Siamese kat
+Renders Inge
+M
+173
+bruin
+Dwergkonijn
+Reykers Danielle
+M
+163
+zwart
+Siamese kat
+Reykers Dries
+M
+167
+zwart
+Duitse Herder
+Roevens Maddy
+M
+162
+kaal
+Poedel
+Roosen Geert
+V
+157
+rood
+Siamese kat
+Roosen Luc
+M
+166
+blond
+Poedel
+Ruts Hilde
+M
+179
+blond
+Hamster
+Ruts Johan
+M
+168
+blond
+Poedel
+Ruts Kris
+M
+169
+zwart
+Duitse Herder
+Ruts Wim
+M
+164
+bruin
+Dwergkonijn
+Rutten Betty
+M
+181
+bruin
+Cavia
+Rutten Danny
+M
+153
+bruin
+Huiskat
+Rutten Dirk
+M
+189
+bruin
+Dwergkonijn
+Rutten Liesbeth
+M
+165
+blond
+Groenendaeler
+Saelen Hans
+V
+156
+bruin
+Perzische kat
+Saelen Luc
+M
+171
+blond
+Siamese kat
+Saelen Patrick
+M
+176
+zwart
+Afghaanse windhond
+Saelen Stijn
+M
+166
+bruin
+Huiskat
+Samyn Dirk
+M
+185
+bruin
+Perzische kat
+Samyn Gunter
+M
+167
+bruin
+Groenendaeler
+Samyn Ivan
+M
+185
+bruin
+Mechelse herder
+Samyn Jan
+M
+191
+blond
+Hangbuikzwijn
+Samyn Mike
+M
+192
+zwart
+Afghaanse windhond
+Samyn Tim
+M
+184
+zwart
+Hamster
+Sauviller Liesbeth
+M
+162
+zwart
+Dwergkonijn
+Sauviller Stefan
+M
+158
+bruin
+Siamese kat
+Schelkens Geert
+M
+169
+kaal
+Hamster
+Schellens Andy
+M
+179
+bruin
+Siamese kat
+Schellens Bert
+M
+179
+bruin
+Hamster
+Schellens Davy
+M
+192
+bruin
+Siamese kat
+Schellens Kris
+M
+166
+rood
+Duitse Herder
+Schellens Tom
+M
+198
+blond
+Duitse Herder
+Schelles Paul
+V
+157
+blond
+Siamese kat
+Schelles Tim
+M
+159
+bruin
+Mechelse herder
+Scheltjens Benny
+M
+154
+blond
+Huiskat
+Scheltjens Erwin
+M
+177
+bruin
+Dwergkonijn
+Schepens Gino
+V
+191
+blond
+Siamese kat
+Schepens Inge
+M
+153
+rood
+Hamster
+Schepens Rutger
+M
+161
+bruin
+Afghaanse windhond
+Schiepers Geert
+M
+172
+blond
+Dwergkonijn
+Schiepers Jurgen
+M
+191
+blond
+Hangbuikzwijn
+Schildermans Christophe
+M
+185
+bruin
+Hangbuikzwijn
+Schollaert Gert
+M
+179
+rood
+Cavia
+Schonkeren Davy
+M
+184
+kaal
+Duitse Herder
+Schonkeren Davy
+V
+167
+blond
+Hamster
+Schonkeren Henk
+M
+169
+zwart
+Perzische kat
+Schoofs Thomas
+M
+196
+blond
+Hangbuikzwijn
+Schoondermark Dirk
+M
+161
+blond
+Groenendaeler
+Schrijvers Bert
+M
+171
+bruin
+Duitse Herder
+Schroven Kurt
+V
+166
+zwart
+Duitse Herder
+Schuurmans Kurt
+M
+163
+blond
+Perzische kat
+Segers Raf
+M
+155
+zwart
+Afghaanse windhond
+Sels Bert
+M
+158
+blond
+Duitse Herder
+Sels Bram
+M
+181
+blond
+Hangbuikzwijn
+Sels Eddy
+V
+189
+blond
+Afghaanse windhond
+Sels Ellen
+M
+190
+rood
+Dwergkonijn
+Sels Erik
+M
+159
+bruin
+Siamese kat
+Sels Jorgen
+M
+174
+bruin
+Groenendaeler
+Sels Katrien
+M
+194
+rood
+Afghaanse windhond
+Sels Roel
+V
+198
+blond
+Dwergkonijn
+Sels Rudy
+M
+155
+zwart
+Huiskat
+Servaes Wim
+M
+187
+bruin
+Hangbuikzwijn
+Seurinck Bart
+M
+197
+bruin
+Perzische kat
+Seurinck Herman
+M
+192
+rood
+Duitse Herder
+Seurinck Wim
+M
+181
+bruin
+Mechelse herder
+Sevenans Jan
+M
+158
+blond
+Huiskat
+Sevens Christel
+M
+191
+blond
+Duitse Herder
+Sevens Jan
+M
+178
+blond
+Afghaanse windhond
+Sevens Wim
+M
+158
+rood
+Mechelse herder
+Slaets Bart
+M
+185
+bruin
+Afghaanse windhond
+Slaets Hung-Kit
+V
+167
+zwart
+Perzische kat
+Slegers Guy
+M
+173
+zwart
+Siamese kat
+Slegers Herman
+M
+195
+zwart
+Mechelse herder
+Slegers Koen
+M
+173
+blond
+Mechelse herder
+Slegers Kurt
+M
+159
+kaal
+Dwergkonijn
+Slegers Kurt
+M
+167
+zwart
+Perzische kat
+Slegers Stefan
+M
+168
+bruin
+Groenendaeler
+Slegers Tim
+M
+184
+rood
+Perzische kat
+Sleurs Jo
+M
+160
+zwart
+Perzische kat
+Sleuwaegen Hans
+V
+178
+bruin
+Hangbuikzwijn
+Sluyts Nic
+M
+156
+bruin
+Dwergkonijn
+Smeets Dirk
+M
+153
+bruin
+Hangbuikzwijn
+Smeets Tom
+M
+177
+kaal
+Groenendaeler
+Smet Dominik
+V
+163
+blond
+Afghaanse windhond
+Smet Jan
+M
+155
+bruin
+Poedel
+Smet Johan
+M
+162
+blond
+Dwergkonijn
+Smet Pieter
+M
+151
+blond
+Groenendaeler
+Smets Bart
+M
+193
+blond
+Groenendaeler
+Smets Bart
+M
+155
+kaal
+Perzische kat
+Smets Bob
+M
+162
+bruin
+Hangbuikzwijn
+Smets Ismaël
+M
+189
+zwart
+Mechelse herder
+Smets Johan
+M
+153
+kaal
+Hangbuikzwijn
+Smets Johnny
+M
+167
+bruin
+Siamese kat
+Smets Jorg
+M
+153
+rood
+Cavia
+Smets Jozef
+M
+163
+blond
+Siamese kat
+Smets Nico
+M
+190
+blond
+Duitse Herder
+Smets Nico
+M
+179
+bruin
+Poedel
+Smets Tim
+M
+196
+bruin
+Siamese kat
+Smets Tom
+M
+155
+blond
+Duitse Herder
+Smets Tom
+M
+189
+bruin
+Huiskat
+Smeyers Jo
+M
+168
+blond
+Dwergkonijn
+Smids Francis
+M
+194
+bruin
+Siamese kat
+Smids Inge
+M
+178
+blond
+Huiskat
+Smids Tim
+V
+195
+bruin
+Dwergkonijn
+Sneyders Gert
+M
+169
+rood
+Cavia
+Sneyders Gert
+V
+189
+zwart
+Hangbuikzwijn
+Snoeckx Hans
+M
+163
+blond
+Hamster
+Snoeckx Hans
+M
+193
+bruin
+Poedel
+Snoeckx Jan
+M
+166
+zwart
+Afghaanse windhond
+Snoeckx Johannes
+M
+185
+zwart
+Dwergkonijn
+Snoeckx Philip
+M
+164
+bruin
+Cavia
+Snyers Bert
+V
+158
+blond
+Cavia
+Snyers Sven
+V
+154
+zwart
+Duitse Herder
+Sommen Dirk
+M
+193
+blond
+Dwergkonijn
+Sommen Dominik
+V
+192
+blond
+Huiskat
+Sommen Werner
+M
+194
+bruin
+Dwergkonijn
+Soontjens Bart
+V
+190
+bruin
+Hamster
+Soontjens Daisy
+M
+182
+bruin
+Groenendaeler
+Soontjens Dries
+M
+167
+zwart
+Huiskat
+Soontjens Guy
+V
+173
+bruin
+Huiskat
+Soontjens Koen
+M
+184
+blond
+Cavia
+Soontjens Paul
+M
+180
+blond
+Perzische kat
+Stappaerts Geert
+M
+197
+rood
+Hamster
+Stassyns Peter
+M
+161
+blond
+Hangbuikzwijn
+Stassyns Silvester
+M
+151
+blond
+Afghaanse windhond
+Sterckx Bart
+M
+177
+bruin
+Afghaanse windhond
+Sterckx Bart
+M
+198
+rood
+Dwergkonijn
+Sterckx Steven
+M
+152
+blond
+Groenendaeler
+Sterckx Tom
+M
+183
+bruin
+Groenendaeler
+Sterckx Wim
+V
+185
+zwart
+Dwergkonijn
+Stessens Bram
+M
+159
+rood
+Hangbuikzwijn
+Stessens Katia
+M
+156
+bruin
+Duitse Herder
+Stevens Johannes
+M
+155
+bruin
+Duitse Herder
+Stevens Tom
+M
+191
+zwart
+Mechelse herder
+Steylaerts Alex
+M
+175
+blond
+Dwergkonijn
+Steylaerts Yves
+M
+156
+bruin
+Hamster
+Straetemans Eddy
+M
+167
+bruin
+Siamese kat
+Straetemans Kim
+M
+178
+bruin
+Poedel
+Straetemans Kris
+M
+184
+kaal
+Hamster
+Struyf Kris
+M
+161
+bruin
+Poedel
+Struyf Peter
+M
+164
+blond
+Poedel
+Struyf Pieter
+M
+179
+blond
+Siamese kat
+Struyfs Hans
+M
+181
+bruin
+Huiskat
+Struyfs Katrien
+M
+187
+blond
+Afghaanse windhond
+Struyfs Luc
+V
+185
+kaal
+Afghaanse windhond
+Struyfs Sandra
+M
+161
+bruin
+Afghaanse windhond
+Struyven Bert
+M
+150
+blond
+Mechelse herder
+Suls Luc
+M
+159
+zwart
+Mechelse herder
+Suls Nico
+M
+164
+zwart
+Perzische kat
+Suls Steve
+M
+156
+bruin
+Hamster
+Suls Stijn
+M
+165
+blond
+Dwergkonijn
+Suls Stijn
+M
+168
+kaal
+Hamster
+Swaans Tom
+M
+188
+kaal
+Afghaanse windhond
+Swerts Bart
+M
+192
+bruin
+Cavia
+Swerts Edwin
+M
+186
+rood
+Perzische kat
+Swerts Jan
+V
+154
+zwart
+Huiskat
+Swerts Ludo
+M
+152
+bruin
+Duitse Herder
+Swerts Tom
+V
+152
+rood
+Groenendaeler
+Swerts Valerie
+V
+197
+blond
+Siamese kat
+Swinnen Christof
+M
+180
+bruin
+Poedel
+Swinnen Gerry
+M
+172
+blond
+Siamese kat
+Swinnen Kurt
+M
+162
+zwart
+Cavia
+Swinnen Paul
+M
+182
+zwart
+Mechelse herder
+Swinnen Rudi
+M
+183
+bruin
+Cavia
+Swolfs Bart
+M
+162
+rood
+Huiskat
+Taes Wim
+M
+174
+blond
+Mechelse herder
+Tang Werner
+M
+180
+blond
+Perzische kat
+Tessens Dominique
+M
+156
+zwart
+Hamster
+Teunckens Guy
+M
+187
+zwart
+Mechelse herder
+Thaens Koen
+M
+179
+bruin
+Cavia
+Thaens Peter
+M
+187
+rood
+Poedel
+Thaens Tom
+V
+151
+bruin
+Hangbuikzwijn
+Theunis Benny
+M
+158
+bruin
+Cavia
+Theunis Bert
+M
+193
+blond
+Hangbuikzwijn
+Theunis Danny
+M
+155
+blond
+Groenendaeler
+Theunis Jef
+V
+153
+bruin
+Dwergkonijn
+Theunis Jo
+M
+160
+zwart
+Dwergkonijn
+Theuns Bart
+M
+185
+bruin
+Mechelse herder
+Theuwissen Steven
+M
+199
+blond
+Groenendaeler
+Theys Koen
+M
+151
+blond
+Mechelse herder
+Theys Pascal
+V
+180
+bruin
+Poedel
+Thienpont Peter
+M
+155
+zwart
+Poedel
+Thienpont Rudy
+M
+162
+bruin
+Hamster
+Thijs Bob
+V
+178
+bruin
+Cavia
+Thijs Herman
+V
+187
+blond
+Mechelse herder
+Thone Patrick
+M
+174
+kaal
+Hamster
+Thonissen Erik
+M
+178
+bruin
+Cavia
+Thonissen Werner
+V
+179
+kaal
+Mechelse herder
+Thys Jurgen
+M
+165
+bruin
+Afghaanse windhond
+Thys Natasja
+M
+154
+blond
+Cavia
+Thys Peter
+M
+170
+bruin
+Huiskat
+Thys Tom
+M
+195
+blond
+Dwergkonijn
+Thys Wim
+M
+181
+bruin
+Poedel
+Tibollo Geert
+M
+169
+zwart
+Perzische kat
+Tielemans Geert
+M
+170
+blond
+Hangbuikzwijn
+Timmermans Bart
+M
+185
+blond
+Huiskat
+Tops An
+V
+195
+blond
+Perzische kat
+Tops Kristel
+M
+193
+blond
+Hamster
+Torfs Dirk
+M
+192
+blond
+Poedel
+Torfs Robert
+M
+197
+bruin
+Perzische kat
+Tormans Peter
+M
+188
+rood
+Poedel
+Truyens Patrick
+M
+166
+zwart
+Groenendaeler
+Truyens Tom
+M
+194
+blond
+Cavia
+Tullen Hermes
+V
+195
+zwart
+Perzische kat
+Tullen Wim
+M
+184
+blond
+Poedel
+Umans Walter
+M
+184
+rood
+Duitse Herder
+Urhegyi Tom
+M
+167
+bruin
+Huiskat
+Uten Gunther
+M
+188
+bruin
+Siamese kat
+Uten Johan
+M
+163
+rood
+Duitse Herder
+Vaes Dries
+M
+155
+rood
+Huiskat
+Vaes Filip
+M
+186
+bruin
+Poedel
+Vaes Rob
+M
+164
+zwart
+Cavia
+Vaes Sam
+M
+174
+blond
+Hamster
+Vaesen Carlo
+M
+158
+bruin
+Dwergkonijn
+Vaesen Dieter
+M
+172
+rood
+Cavia
+Vaesen Koen
+V
+161
+rood
+Afghaanse windhond
+Vaesen Sam
+M
+176
+rood
+Dwergkonijn
+Valgaeren Luc
+M
+188
+rood
+Dwergkonijn
+Valgaerts Kurt
+M
+171
+bruin
+Hamster
+Valgaerts Luc
+M
+175
+blond
+Poedel
+Valgaerts Peter
+M
+171
+zwart
+Perzische kat
+Van Acoleyen Nico
+M
+192
+blond
+Cavia
+Van Aperen Benoit
+M
+199
+bruin
+Siamese kat
+Van Bael Diego
+M
+182
+bruin
+Hamster
+Van Bael Johan
+M
+175
+blond
+Groenendaeler
+Van Bael Seth
+M
+168
+bruin
+Hamster
+Van Baelen Jan
+M
+168
+blond
+Cavia
+Van Baelen Luc
+M
+150
+bruin
+Groenendaeler
+Van Baelen Wim
+M
+170
+bruin
+Perzische kat
+Van Balen Johannes
+M
+168
+bruin
+Siamese kat
+Van Bart
+M
+195
+zwart
+Hangbuikzwijn
+Van Beurden Caroline
+M
+152
+blond
+Hamster
+Van Beurden Hilde
+M
+173
+blond
+Mechelse herder
+Van Bijlen Kristel
+M
+162
+rood
+Huiskat
+Van Bommel Bert
+M
+152
+blond
+Hangbuikzwijn
+Van Bourgonie Bart
+M
+159
+rood
+Mechelse herder
+Van Bourgonie Steven
+M
+158
+zwart
+Mechelse herder
+Van Breda Hans
+M
+154
+bruin
+Poedel
+Van Breda Kristel
+M
+167
+bruin
+Groenendaeler
+Van Breda Wim
+M
+167
+bruin
+Perzische kat
+Van Bruaene Geert
+M
+198
+bruin
+Duitse Herder
+Van Campenhout Wouter
+M
+180
+rood
+Perzische kat
+Van Colen Bert
+M
+164
+blond
+Cavia
+Van Craenendonck Dennis
+M
+174
+bruin
+Duitse Herder
+Van Craenendonck Erik
+M
+170
+kaal
+Huiskat
+Van Craenendonck Pieter
+M
+151
+blond
+Afghaanse windhond
+Van Craenendonck Raf
+M
+159
+bruin
+Afghaanse windhond
+van de Heijning Bart
+M
+192
+zwart
+Mechelse herder
+Van De Perre Dirk
+M
+154
+bruin
+Afghaanse windhond
+Van de Perre Tom
+V
+155
+zwart
+Afghaanse windhond
+Van De Put Tom
+M
+172
+rood
+Huiskat
+Van de Ven Erwin
+M
+159
+kaal
+Afghaanse windhond
+Van de Water Kris
+M
+174
+zwart
+Dwergkonijn
+Van de Water Rudi
+M
+194
+kaal
+Perzische kat
+Van de Watering Danny
+V
+181
+blond
+Groenendaeler
+Van De Weyer Daisy
+M
+151
+bruin
+Duitse Herder
+Van de Weyer Hilde
+M
+197
+bruin
+Perzische kat
+Van De Weyer Jan
+M
+167
+rood
+Dwergkonijn
+Van De Weyer Wim
+M
+183
+blond
+Perzische kat
+Van Den Bergh Bert
+M
+180
+zwart
+Poedel
+Van den Bergh Kris
+M
+193
+zwart
+Perzische kat
+Van den Bergh Nick
+M
+178
+bruin
+Siamese kat
+Van Den Bergh Rafael
+M
+180
+zwart
+Afghaanse windhond
+van den Boom Jason
+M
+182
+bruin
+Huiskat
+Van den Borne Guy
+M
+185
+blond
+Poedel
+Van den Borne Nick
+M
+163
+zwart
+Huiskat
+Van Den Bosch Filip
+M
+183
+rood
+Mechelse herder
+Van den Bosch Ignace
+M
+183
+blond
+Dwergkonijn
+Van Den Bosch Ruddi
+M
+182
+blond
+Huiskat
+Van Den Bosch Wim
+V
+194
+blond
+Hangbuikzwijn
+Van Den Brande Elly
+M
+151
+bruin
+Perzische kat
+Van Den Brandt Koen
+M
+179
+rood
+Dwergkonijn
+Van den Broeck Gert
+M
+156
+blond
+Huiskat
+Van Den Broeck Gino
+M
+183
+blond
+Siamese kat
+Van den Broeck Jürgen
+M
+189
+zwart
+Siamese kat
+Van Den Broeck Kim
+M
+185
+bruin
+Dwergkonijn
+Van den Broeck Kurt
+M
+155
+blond
+Hamster
+Van Den Broeck M.
+M
+169
+kaal
+Hamster
+Van den Broeck Rob
+M
+176
+bruin
+Dwergkonijn
+Van den Broeck Tim
+M
+153
+zwart
+Hangbuikzwijn
+Van den Broeck Wim
+M
+199
+blond
+Cavia
+Van Den Broek Bob
+M
+187
+bruin
+Poedel
+Van Den Broek Carl
+M
+173
+bruin
+Hamster
+Van Den Broek Frank
+M
+166
+bruin
+Groenendaeler
+Van Den Broek Kurt
+M
+153
+bruin
+Hamster
+Van Den Broek Wim
+M
+159
+bruin
+Hamster
+Van den Bulck Kris
+M
+160
+zwart
+Siamese kat
+Van den Bulck Peter
+V
+154
+bruin
+Perzische kat
+Van den Eynde Bart
+M
+169
+bruin
+Groenendaeler
+Van Den Eynde Kurt
+M
+174
+blond
+Hamster
+Van den Eynden Benny
+M
+168
+zwart
+Cavia
+Van den Heuvel Kristof
+M
+184
+bruin
+Cavia
+Van den Nieuwenhuisen Annick
+M
+150
+rood
+Groenendaeler
+Van den Nieuwenhuisen Dominique
+M
+198
+bruin
+Mechelse herder
+Van den Plas Christophe
+M
+199
+bruin
+Cavia
+Van Den Troost Bart
+M
+197
+blond
+Siamese kat
+Van den Vloet Kris
+M
+197
+bruin
+Afghaanse windhond
+Van Den Vonder Patrick
+M
+154
+zwart
+Duitse Herder
+van der Aalst Bob
+M
+159
+blond
+Duitse Herder
+Van Der Auwera Jean
+M
+182
+zwart
+Hamster
+Van Der Auwera Jelle
+M
+162
+bruin
+Duitse Herder
+Van Der Auwera Rachel
+M
+185
+bruin
+Perzische kat
+Van Der Borght Danny
+V
+199
+zwart
+Afghaanse windhond
+Van Der Steen Jo
+M
+167
+zwart
+Mechelse herder
+Van der Veken Danny
+M
+179
+bruin
+Perzische kat
+Van der Veken Erwin
+M
+167
+zwart
+Dwergkonijn
+Van der Veken Inge
+M
+191
+blond
+Hangbuikzwijn
+Van der Veken Johan
+M
+177
+bruin
+Hamster
+Van der Veken Koen
+M
+172
+bruin
+Afghaanse windhond
+Van der Veken Tom
+M
+184
+rood
+Huiskat
+Van der Veken Wesley
+V
+158
+kaal
+Mechelse herder
+Van Der Velden Erwin
+M
+190
+blond
+Groenendaeler
+Van der Voort Pedro
+M
+170
+bruin
+Perzische kat
+Van Dijck Gert
+M
+199
+blond
+Groenendaeler
+Van Dijck Kris
+M
+170
+zwart
+Duitse Herder
+Van Dijck Philip
+M
+177
+bruin
+Groenendaeler
+van Dooren Ilse
+X
+168
+blond
+Hangbuikzwijn
+van Dooren Ilse
+M
+165
+rood
+Hangbuikzwijn
+Van Dooren Marc
+M
+186
+blond
+Hamster
+van Dooren Maria
+M
+158
+bruin
+Perzische kat
+Van Dooren Patrick
+M
+179
+bruin
+Huiskat
+Van Duffel Gerry
+V
+181
+blond
+Groenendaeler
+Van Dun Jan
+V
+187
+rood
+Siamese kat
+Van Dun Luc
+M
+150
+bruin
+Cavia
+Van Dun Paul
+M
+183
+rood
+Cavia
+Van Dun Wim
+M
+188
+rood
+Duitse Herder
+Van Echelpoel Gert
+M
+152
+blond
+Poedel
+Van Eeckhout Els
+M
+150
+bruin
+Perzische kat
+Van Eeckhout Erik
+M
+172
+bruin
+Mechelse herder
+Van Eester Ilse
+M
+168
+zwart
+Dwergkonijn
+Van Eester Rudy
+M
+183
+zwart
+Mechelse herder
+Van Ermengem Jürgen
+M
+176
+kaal
+Huiskat
+Van Ermengem Wim
+M
+181
+blond
+Poedel
+Van Eyck Arne
+M
+168
+blond
+Perzische kat
+Van Eyck Bert
+M
+182
+bruin
+Poedel
+Van Eyck Joris
+M
+163
+blond
+Perzische kat
+Van Eyck Wim
+M
+199
+bruin
+Hamster
+Van Eyken Geert
+M
+190
+bruin
+Huiskat
+Van Eyken Gert
+M
+196
+bruin
+Groenendaeler
+Van Eyken Hans
+M
+153
+blond
+Duitse Herder
+Van Eyken Johannes
+M
+166
+rood
+Hangbuikzwijn
+Van Eyken Karin
+M
+195
+blond
+Dwergkonijn
+Van Eynde Hans
+M
+177
+bruin
+Poedel
+Van Eynde Sam
+M
+169
+kaal
+Mechelse herder
+Van Gelder Tom
+M
+189
+bruin
+Hamster
+Van Gemert Ivan
+M
+153
+bruin
+Siamese kat
+Van Gemert Maddy
+V
+162
+blond
+Cavia
+Van Gemert Ruddi
+M
+158
+blond
+Poedel
+Van Genechten Bert
+M
+192
+bruin
+Hangbuikzwijn
+Van Genechten Els
+V
+179
+zwart
+Hamster
+Van Genechten Rob
+M
+182
+bruin
+Siamese kat
+Van Gestel Bart
+M
+166
+bruin
+Poedel
+Van Gestel Koen
+M
+167
+bruin
+Groenendaeler
+Van Gestel Kris
+M
+177
+zwart
+Cavia
+Van Gils Helga
+M
+156
+bruin
+Dwergkonijn
+Van Gils Kris
+M
+194
+rood
+Cavia
+Van Gompel Hanne
+M
+184
+blond
+Mechelse herder
+Van Gompel Leen
+M
+191
+zwart
+Mechelse herder
+Van Gorp Anneke
+V
+155
+blond
+Siamese kat
+Van Gorp Bart
+M
+177
+zwart
+Hamster
+Van Gorp Mark
+M
+152
+zwart
+Mechelse herder
+Van Gorp Michel
+M
+163
+bruin
+Perzische kat
+Van Gorp Stef
+M
+189
+zwart
+Groenendaeler
+Van Gorp Wim
+M
+160
+blond
+Perzische kat
+Van Gossum Kristof
+M
+181
+zwart
+Afghaanse windhond
+Van Goubergen Anneke
+M
+151
+blond
+Mechelse herder
+Van Goubergen Bas
+M
+172
+zwart
+Groenendaeler
+Van Goubergen Hans
+M
+173
+blond
+Poedel
+Van Goubergen Jan
+M
+153
+bruin
+Cavia
+Van Gyes Jorrit
+M
+159
+zwart
+Duitse Herder
+Van Ham Geert
+M
+188
+bruin
+Hamster
+Van Ham Jan
+M
+180
+rood
+Hangbuikzwijn
+Van Hasselt Kris
+M
+179
+blond
+Afghaanse windhond
+Van Hasselt Wim
+M
+174
+rood
+Cavia
+Van Hees Jozef
+M
+179
+rood
+Perzische kat
+Van Hees Rob
+M
+189
+bruin
+Dwergkonijn
+Van Herck Frank
+M
+176
+bruin
+Hamster
+Van Herck Gert
+M
+152
+bruin
+Huiskat
+Van Herck Koen
+M
+174
+bruin
+Perzische kat
+Van Herck Koen
+M
+195
+bruin
+Perzische kat
+Van Herck Koen
+V
+177
+zwart
+Perzische kat
+Van Herck Minny
+M
+155
+blond
+Cavia
+Van Herck Pieter
+M
+169
+zwart
+Poedel
+Van Herck Ronny
+M
+172
+rood
+Cavia
+Van Herck Seth
+M
+155
+zwart
+Perzische kat
+Van Herpe Filip
+M
+157
+rood
+Perzische kat
+Van Herpe Niels
+M
+177
+bruin
+Mechelse herder
+Van Hertem Bert
+M
+185
+bruin
+Duitse Herder
+Van Hertem Bert
+M
+190
+zwart
+Hamster
+Van Hertem Geert
+M
+170
+zwart
+Mechelse herder
+Van Hertem Hung-Kit
+M
+187
+blond
+Groenendaeler
+Van Hoof Ann
+M
+189
+blond
+Afghaanse windhond
+Van Hoof Björn
+M
+168
+rood
+Dwergkonijn
+Van Hoof Freddy
+M
+150
+rood
+Dwergkonijn
+Van Hoof Jeroen
+M
+157
+bruin
+Siamese kat
+Van Hoof Nicolaas
+M
+182
+blond
+Afghaanse windhond
+Van Hoof Peter
+M
+191
+bruin
+Perzische kat
+Van Hove Jan
+M
+155
+bruin
+Duitse Herder
+Van Hove Raf
+M
+196
+zwart
+Poedel
+Van Laer Dries
+M
+163
+zwart
+Duitse Herder
+Van Laer Jan
+M
+177
+zwart
+Hangbuikzwijn
+Van Laer Luc
+M
+189
+bruin
+Huiskat
+Van Laer Mario
+M
+191
+bruin
+Perzische kat
+van Laerhoven Tom
+M
+175
+kaal
+Hamster
+Van Lommel Terry
+M
+196
+rood
+Siamese kat
+Van Loon Bert
+M
+198
+blond
+Duitse Herder
+Van Loon Elke
+M
+174
+blond
+Afghaanse windhond
+Van Looy Geert
+M
+191
+bruin
+Hangbuikzwijn
+Van Looy Jan
+M
+177
+blond
+Hangbuikzwijn
+Van Looy Peter
+M
+161
+blond
+Huiskat
+Van Looy Rudy
+M
+151
+bruin
+Huiskat
+Van Looy Sven
+M
+189
+blond
+Hamster
+Van Mechelen Kris
+M
+170
+blond
+Cavia
+Van Mechelen Peter
+M
+189
+zwart
+Cavia
+Van Meeuwen Willy
+M
+160
+zwart
+Cavia
+Van Nijlen Gerrie
+M
+165
+blond
+Perzische kat
+Van Nijlen Nick
+M
+160
+zwart
+Hangbuikzwijn
+Van Nooten Kris
+V
+160
+blond
+Duitse Herder
+Van Nuffelen Betty
+M
+153
+zwart
+Hangbuikzwijn
+Van Olmen Bert
+M
+163
+blond
+Siamese kat
+Van Olmen Dimitri
+M
+176
+rood
+Poedel
+Van Olmen Luc
+M
+188
+zwart
+Duitse Herder
+van Reijen Bart
+M
+181
+bruin
+Duitse Herder
+van Reijen Tom
+M
+171
+bruin
+Mechelse herder
+Van Reusel Davy
+V
+182
+blond
+Huiskat
+Van Reusel Filip
+M
+183
+blond
+Duitse Herder
+Van Reusel Tom
+M
+166
+zwart
+Mechelse herder
+Van Roey Koen
+M
+186
+bruin
+Perzische kat
+Van Roey Kristof
+M
+178
+bruin
+Huiskat
+Van Roey Michel
+M
+190
+blond
+Hamster
+Van Roey Stefan
+M
+178
+bruin
+Hamster
+Van Roey Tim
+V
+189
+zwart
+Duitse Herder
+Van Rompaey Philip
+M
+191
+kaal
+Huiskat
+Van Rompaey Tim
+M
+156
+bruin
+Huiskat
+Van Rompaey Wendy
+M
+178
+blond
+Cavia
+Van Romphey Bjorn
+M
+196
+bruin
+Cavia
+Van Roosbroeck Tonny
+M
+166
+blond
+Groenendaeler
+Van Rooy Geert
+M
+176
+zwart
+Perzische kat
+Van Roy Dennis
+M
+171
+blond
+Afghaanse windhond
+Van Roy Dirk
+V
+179
+bruin
+Hamster
+Van Roy Gunther
+M
+157
+bruin
+Hamster
+Van Roy Ilse
+V
+195
+bruin
+Mechelse herder
+Van Roy Sven
+M
+187
+bruin
+Cavia
+Van Soom Erwin
+M
+153
+blond
+Perzische kat
+Van Soom Geert
+M
+165
+bruin
+Poedel
+Van Soom Tim
+M
+150
+kaal
+Duitse Herder
+Van Thielen Geert
+M
+174
+zwart
+Groenendaeler
+Van Tichelt Wim
+M
+175
+zwart
+Perzische kat
+Van Tigchelt Lieven
+M
+163
+zwart
+Hangbuikzwijn
+Van Tigchelt Michel
+M
+199
+bruin
+Perzische kat
+Van Tigchelt Tim
+M
+199
+bruin
+Hamster
+Van Tigchelt Wim
+M
+151
+blond
+Duitse Herder
+Van Woensel Bart
+M
+167
+kaal
+Hamster
+Van Woensel Lieven
+M
+164
+kaal
+Poedel
+Vanbosch Bart
+M
+177
+bruin
+Perzische kat
+Vanbosch Johan
+M
+198
+kaal
+Groenendaeler
+Vanbroekhoven Davy
+M
+176
+blond
+Cavia
+Vanbroekhoven Dominique
+M
+185
+zwart
+Afghaanse windhond
+Vanbroekhoven Hilde
+M
+198
+zwart
+Mechelse herder
+Vanbroekhoven Ludwig
+M
+154
+zwart
+Mechelse herder
+Vandamme Paul
+M
+151
+zwart
+Duitse Herder
+Vande Meerssche Carl
+M
+189
+zwart
+Afghaanse windhond
+Vandecruys Bert
+M
+197
+blond
+Dwergkonijn
+Vandecruys Guy
+M
+194
+rood
+Poedel
+Vandegaer Cristof
+M
+182
+bruin
+Huiskat
+Vandegaer Joris
+M
+174
+kaal
+Siamese kat
+Vandenbempt Bert
+M
+178
+bruin
+Mechelse herder
+Vandenbergh Hans
+M
+154
+blond
+Hamster
+Vandenbergh Jo
+M
+152
+zwart
+Hamster
+Vandenbergh Rutger
+M
+163
+zwart
+Dwergkonijn
+Vandenberk David
+M
+175
+bruin
+Dwergkonijn
+Vandenberk Johan
+M
+170
+blond
+Hangbuikzwijn
+Vandenberk Marco
+M
+189
+bruin
+Cavia
+Vandenberk Steven
+M
+192
+bruin
+Poedel
+Vandenboer Gert
+V
+156
+blond
+Afghaanse windhond
+Vandenbroeck Dave
+M
+191
+zwart
+Hangbuikzwijn
+Vandenbroeck Stijn
+M
+179
+zwart
+Duitse Herder
+Vandenbroucke Yvan
+M
+151
+bruin
+Perzische kat
+Vandendungen Ivo
+M
+168
+zwart
+Cavia
+Vandeplas Hans
+M
+198
+bruin
+Perzische kat
+Vandeplas Rocky
+M
+196
+rood
+Hangbuikzwijn
+Vander Mierde Benny
+M
+155
+zwart
+Mechelse herder
+Vander Mierde Wim
+M
+194
+blond
+Dwergkonijn
+Vander Voorde Erik
+M
+176
+blond
+Poedel
+Vanderheyden Sven
+M
+180
+blond
+Afghaanse windhond
+Vanderhoydonck Gunther
+M
+183
+blond
+Dwergkonijn
+Vanderperre Hugo
+M
+193
+zwart
+Dwergkonijn
+Vanderperre Kristof
+V
+159
+zwart
+Huiskat
+Vanderperre Nic
+V
+162
+bruin
+Duitse Herder
+Vandevelde Davy
+V
+175
+blond
+Hamster
+Vaneynde Paul
+M
+169
+bruin
+Duitse Herder
+Vaneynde Pieter
+M
+152
+bruin
+Groenendaeler
+Vangenechten Jan
+M
+193
+bruin
+Siamese kat
+Vangorp Ann
+M
+174
+blond
+Poedel
+Vanherck Wim
+M
+192
+zwart
+Groenendaeler
+Vanhoof Ann
+M
+175
+rood
+Hangbuikzwijn
+Vanhoof Dries
+M
+195
+blond
+Groenendaeler
+Vanhoof Karel
+M
+198
+blond
+Huiskat
+Vanhout Alex
+M
+178
+kaal
+Afghaanse windhond
+Vanhout Bart
+M
+193
+zwart
+Siamese kat
+Vankrunkelsven Nico
+V
+152
+zwart
+Dwergkonijn
+Vanlommel Bart
+M
+195
+bruin
+Siamese kat
+Vanlommel Stijn
+M
+163
+blond
+Duitse Herder
+Vannueten Raf
+M
+162
+bruin
+Perzische kat
+Vanreusel Jeroen
+M
+154
+bruin
+Dwergkonijn
+Vanroy Dirk
+M
+189
+rood
+Huiskat
+Vansant Bert
+M
+187
+zwart
+Hangbuikzwijn
+Vansant Ivan
+M
+183
+blond
+Huiskat
+Vansant Peter
+V
+153
+bruin
+Duitse Herder
+Vansant Wim
+V
+169
+kaal
+Siamese kat
+Vanspringel Bert
+M
+163
+bruin
+Hangbuikzwijn
+Vanuytsel Ivan
+M
+193
+blond
+Hangbuikzwijn
+Ven Leen
+M
+150
+bruin
+Cavia
+Vennekens Kris
+V
+159
+blond
+Hangbuikzwijn
+Ver Elst Eddy
+M
+171
+zwart
+Dwergkonijn
+Ver Elst Evert
+M
+191
+blond
+Siamese kat
+Ver Elst Frans
+M
+194
+bruin
+Siamese kat
+Ver Elst Steven
+M
+178
+kaal
+Perzische kat
+Verachtert Caroline
+M
+164
+bruin
+Huiskat
+Verachtert Dirk
+M
+192
+bruin
+Huiskat
+Verachtert Henk
+M
+174
+blond
+Duitse Herder
+Verachtert Kris
+M
+179
+bruin
+Huiskat
+Verachtert Liesbeth
+V
+159
+rood
+Hamster
+Verachtert Renaat
+M
+150
+bruin
+Mechelse herder
+Verachtert Stijn
+M
+176
+zwart
+Duitse Herder
+Verbeek Kris
+M
+188
+bruin
+Duitse Herder
+Verbeek Peter
+M
+182
+blond
+Groenendaeler
+Verbeek Wim
+M
+179
+bruin
+Hamster
+Verbiest Tom
+M
+199
+zwart
+Huiskat
+Verboven Dymphna
+M
+186
+zwart
+Poedel
+Verboven Ivo
+M
+185
+blond
+Dwergkonijn
+Verboven John
+M
+165
+blond
+Groenendaeler
+Verboven Mieke
+M
+194
+bruin
+Mechelse herder
+Verboven Raf
+V
+185
+bruin
+Groenendaeler
+Verboven Tom
+M
+169
+blond
+Groenendaeler
+Verbruggen Hung-Kit
+M
+190
+blond
+Poedel
+Verbruggen Kurt
+M
+189
+rood
+Groenendaeler
+Verbruggen Michiel
+M
+170
+rood
+Hangbuikzwijn
+Verbunt Jozef
+V
+190
+bruin
+Perzische kat
+Verbunt Steven
+V
+189
+zwart
+Dwergkonijn
+Vercalsteren Helga
+M
+188
+bruin
+Cavia
+Vercalsteren Kurt
+M
+187
+blond
+Groenendaeler
+Vercammen Kris
+M
+168
+zwart
+Duitse Herder
+Vercammen Wim
+M
+167
+bruin
+Perzische kat
+Verellen Annemie
+M
+183
+bruin
+Huiskat
+Verellen Eddy
+V
+190
+rood
+Duitse Herder
+Verellen Gert
+M
+174
+bruin
+Perzische kat
+Verellen Guido
+M
+166
+blond
+Hangbuikzwijn
+Verellen Sam
+M
+190
+bruin
+Afghaanse windhond
+Verhaegen Kris
+M
+158
+zwart
+Perzische kat
+Verhaegen Michael
+M
+193
+zwart
+Siamese kat
+Verhaegen Pieter
+M
+179
+blond
+Perzische kat
+Verhaert Bart
+M
+164
+zwart
+Hamster
+Verhaert Johan
+M
+184
+blond
+Poedel
+Verhaert Yves
+V
+159
+blond
+Dwergkonijn
+Verheijen Kristof
+M
+160
+bruin
+Afghaanse windhond
+Verheijen Raf
+M
+181
+blond
+Dwergkonijn
+Verheijen Stefan
+M
+184
+bruin
+Cavia
+Verheijen Wim
+M
+189
+bruin
+Siamese kat
+Verherstraeten Koen
+M
+195
+zwart
+Hangbuikzwijn
+Verherstraeten Steven
+M
+155
+blond
+Huiskat
+Verherstraeten Stijn
+M
+179
+bruin
+Duitse Herder
+Verherstraeten Winny
+M
+194
+kaal
+Hangbuikzwijn
+Verheyden Herwig
+M
+154
+bruin
+Duitse Herder
+Verheyden Jan
+M
+181
+blond
+Hamster
+Verheyden Jan
+M
+181
+bruin
+Siamese kat
+Verheyen Anneke
+M
+184
+rood
+Hangbuikzwijn
+Verheyen Bart
+M
+190
+blond
+Perzische kat
+Verheyen Erwin
+V
+170
+bruin
+Cavia
+Verheyen Herman
+M
+182
+bruin
+Perzische kat
+Verheyen Koen
+M
+161
+blond
+Cavia
+Verheyen Kris
+V
+159
+bruin
+Mechelse herder
+Verhoeven Bert
+M
+184
+bruin
+Afghaanse windhond
+Verhoeven Jan
+M
+150
+blond
+Hangbuikzwijn
+Verlinden Hans
+V
+180
+bruin
+Hamster
+Verlinden Koen
+M
+173
+blond
+Dwergkonijn
+Vermeir Gerald
+M
+185
+kaal
+Dwergkonijn
+Vermeir Jos
+M
+177
+zwart
+Groenendaeler
+Vermeiren Han
+M
+166
+zwart
+Groenendaeler
+Vermeiren Michel
+V
+198
+bruin
+Cavia
+Vermetten Joachim
+X
+150
+bruin
+Dwergkonijn
+Vermetten Jurgen
+M
+186
+bruin
+Hangbuikzwijn
+Vermetten Natasja
+M
+175
+bruin
+Mechelse herder
+Vermetten Pieter
+M
+166
+blond
+Poedel
+Vermetten Wim
+M
+170
+rood
+Poedel
+Vermeulen Bob
+M
+181
+blond
+Dwergkonijn
+Vermeulen Francis
+M
+172
+zwart
+Siamese kat
+Vermeyen Liesbeth
+M
+185
+zwart
+Groenendaeler
+Vermeylen Wim
+M
+167
+bruin
+Afghaanse windhond
+Vermierdt Davy
+M
+193
+bruin
+Poedel
+Vermierdt Kathleen
+M
+198
+blond
+Mechelse herder
+Vermierdt Werner
+M
+190
+blond
+Dwergkonijn
+Vernelen Frank
+M
+174
+bruin
+Dwergkonijn
+Vernelen Koen
+M
+180
+blond
+Hamster
+Vernelen Patrick
+M
+184
+blond
+Hamster
+Verreet Hans
+M
+189
+rood
+Huiskat
+Versmissen Helga
+M
+151
+bruin
+Siamese kat
+Verstrepen Arne
+M
+150
+blond
+Huiskat
+Verstrepen Dominique
+M
+162
+rood
+Siamese kat
+Verstrepen Marc
+M
+157
+rood
+Hangbuikzwijn
+Vervecken Leon
+V
+186
+kaal
+Siamese kat
+Vervecken Patrick
+M
+179
+bruin
+Huiskat
+Vervoort Bart
+M
+197
+bruin
+Huiskat
+Vervoort Bob
+V
+154
+zwart
+Groenendaeler
+Vervoort Bram
+V
+168
+blond
+Groenendaeler
+Vervoort Davy
+M
+160
+bruin
+Mechelse herder
+Vervoort Ivan
+M
+160
+blond
+Hamster
+Vervoort Jef
+M
+162
+blond
+Poedel
+Vervoort Jo
+M
+178
+blond
+Dwergkonijn
+Vervoort Johan
+M
+173
+bruin
+Duitse Herder
+Vervoort Kris
+M
+193
+blond
+Afghaanse windhond
+Vervoort Kris
+V
+167
+bruin
+Dwergkonijn
+Vervoort kristof
+M
+190
+zwart
+Duitse Herder
+Vervoort Luc
+M
+177
+blond
+Groenendaeler
+Vervoort Mark
+V
+164
+bruin
+Cavia
+Vervrangen Jan
+M
+180
+zwart
+Hamster
+Vervrangen Lieve
+M
+152
+kaal
+Huiskat
+Vervrangen Wouter
+M
+167
+bruin
+Perzische kat
+Verwaest Vira
+M
+171
+bruin
+Afghaanse windhond
+Verwimp Gert
+M
+199
+bruin
+Perzische kat
+Verwimp Hilde
+V
+159
+kaal
+Cavia
+Verwimp Jan
+M
+168
+rood
+Mechelse herder
+Verwimp Kris
+M
+162
+bruin
+Hamster
+Verwimp Paul
+M
+173
+bruin
+Afghaanse windhond
+Vets Nicolaas
+M
+195
+zwart
+Duitse Herder
+Vissers Edwin
+M
+160
+bruin
+Duitse Herder
+Vissers Joris
+M
+170
+blond
+Duitse Herder
+Vissers Kurt
+M
+176
+bruin
+Hangbuikzwijn
+Vissers Ronny
+M
+166
+blond
+Cavia
+Vleugels Benny
+M
+175
+rood
+Dwergkonijn
+Vleugels Bert
+M
+170
+zwart
+Groenendaeler
+Vleugels Davy
+M
+193
+rood
+Hangbuikzwijn
+Vleugels Dries
+M
+194
+blond
+Cavia
+Vleugels Geert
+M
+184
+blond
+Groenendaeler
+Vleugels Rob
+M
+165
+zwart
+Poedel
+Vleugels Tom
+M
+175
+rood
+Poedel
+Vliegen Peter
+M
+199
+blond
+Siamese kat
+Vliegen Wim
+V
+156
+rood
+Afghaanse windhond
+Voortmans Guy
+M
+161
+rood
+Cavia
+Vorstermans Erik
+M
+154
+zwart
+Hamster
+Vorstermans Frans
+M
+165
+kaal
+Mechelse herder
+Vorstermans Geert
+M
+167
+rood
+Groenendaeler
+Vos Bart
+M
+182
+zwart
+Siamese kat
+Vos Geert
+M
+157
+bruin
+Cavia
+Vos Kristoff
+M
+188
+bruin
+Hamster
+Vos Tim
+M
+195
+bruin
+Mechelse herder
+Vranckx Peter
+V
+163
+rood
+Hamster
+Vranckx Tim
+M
+153
+zwart
+Perzische kat
+Vranken Daniel
+M
+171
+blond
+Hamster
+Vreys Benny
+M
+164
+bruin
+Cavia
+Vreys David
+M
+160
+blond
+Perzische kat
+Vreys Isabel
+M
+152
+blond
+Duitse Herder
+Vreys Joeri
+M
+195
+bruin
+Hamster
+Vreys Johan
+V
+192
+rood
+Perzische kat
+Vreys Mark
+M
+180
+rood
+Hamster
+Vuegen Dieter
+M
+185
+zwart
+Duitse Herder
+Vuegen Jaak
+M
+194
+bruin
+Huiskat
+Vuegen Wilhelmina
+M
+187
+bruin
+Duitse Herder
+Vueghs Bert
+M
+186
+kaal
+Cavia
+Vueghs Gert
+M
+168
+zwart
+Dwergkonijn
+Vueghs Stijn
+M
+190
+blond
+Huiskat
+Vyt Guido
+M
+159
+rood
+Poedel
+Waelbers Joël
+V
+174
+blond
+Poedel
+Walpot Maarten
+M
+185
+bruin
+Perzische kat
+Wauters Koen
+M
+196
+bruin
+Dwergkonijn
+Weckx Annick
+M
+153
+blond
+Hamster
+Weckx Bart
+V
+171
+zwart
+Groenendaeler
+Weckx Ismaël
+M
+194
+bruin
+Mechelse herder
+Weckx Jan
+M
+180
+blond
+Mechelse herder
+Weckx Koen
+M
+181
+blond
+Poedel
+Weckx Ruben
+M
+150
+bruin
+Dwergkonijn
+Weetjens Inge
+M
+176
+rood
+Hangbuikzwijn
+Weuts Bart
+M
+155
+rood
+Cavia
+Weuts Raf
+M
+170
+rood
+Huiskat
+Wijnen Ludwig
+M
+178
+blond
+Afghaanse windhond
+Willekens Dennis
+V
+179
+kaal
+Huiskat
+Willekens Herman
+M
+154
+bruin
+Duitse Herder
+Willemoons Dirk
+M
+187
+blond
+Hangbuikzwijn
+Willems Andre
+M
+188
+bruin
+Huiskat
+Willems Erwin
+M
+157
+blond
+Hamster
+Willems Hans
+M
+164
+zwart
+Dwergkonijn
+Willems Ivo
+M
+164
+zwart
+Hangbuikzwijn
+Willems Jo
+M
+155
+kaal
+Hangbuikzwijn
+Willems Joeri
+M
+188
+bruin
+Hangbuikzwijn
+Willems Rudi
+M
+151
+blond
+Hangbuikzwijn
+Wilms Christel
+M
+192
+bruin
+Poedel
+Wilms Dirk
+M
+152
+blond
+Poedel
+Wilms Ivo
+M
+170
+zwart
+Hamster
+Wilms Jorgen
+M
+170
+blond
+Groenendaeler
+Wilms Wouter
+M
+186
+blond
+Groenendaeler
+Winters Giovanni
+M
+167
+bruin
+Siamese kat
+Winters Koen
+M
+176
+bruin
+Huiskat
+Winters Marco
+M
+157
+bruin
+Perzische kat
+Wirix Peter
+M
+182
+kaal
+Dwergkonijn
+Witters Christophe
+V
+165
+zwart
+Hangbuikzwijn
+Witters Gunther
+M
+160
+blond
+Cavia
+Witters Wim
+M
+191
+rood
+Siamese kat
+Witvrouwen Bert
+M
+183
+blond
+Duitse Herder
+Witvrouwen Gunther
+M
+190
+bruin
+Dwergkonijn
+Wouters Bart
+M
+162
+zwart
+Hangbuikzwijn
+Wouters Bert
+M
+186
+blond
+Groenendaeler
+Wouters Bert
+M
+190
+zwart
+Huiskat
+Wouters Danny
+M
+199
+bruin
+Dwergkonijn
+Wouters Diane
+M
+170
+rood
+Afghaanse windhond
+Wouters Gerry
+M
+180
+zwart
+Cavia
+Wouters Gino
+M
+188
+bruin
+Dwergkonijn
+Wouters Iris
+M
+151
+zwart
+Dwergkonijn
+Wouters Jan
+M
+198
+bruin
+Poedel
+Wouters Mario
+M
+169
+bruin
+Cavia
+Wouters Peter
+M
+184
+bruin
+Groenendaeler
+Wuyts Bjorn
+M
+151
+zwart
+Poedel
+Wuyts Koen
+M
+162
+rood
+Afghaanse windhond
+Wuyts Manuel
+M
+191
+bruin
+Groenendaeler
+Wuyts Paul
+M
+159
+zwart
+Huiskat
+Wynants Frank
+M
+164
+bruin
+Groenendaeler
+Wynants Geert
+M
+197
+bruin
+Afghaanse windhond
+Wynants Jeroen
+M
+172
+bruin
+Dwergkonijn
+Wynants Kris
+M
+172
+bruin
+Afghaanse windhond
+Wynants Stefan
+M
+191
+rood
+Siamese kat
+Wynants Tonny
+M
+190
+blond
+Poedel
+Wynen Els
+M
+168
+rood
+Groenendaeler
+Wynen Ronny
+V
+190
+bruin
+Poedel
+Zeelmaekers Jan
+V
+161
+bruin
+Cavia
